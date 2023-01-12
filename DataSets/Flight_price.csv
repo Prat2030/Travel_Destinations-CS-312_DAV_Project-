@@ -1,0 +1,2906 @@
+Airline,Travel_date,From,To,Departure_time,Arrival_time,Duration_minutes,Stops,Price
+Vistara,08/01/2023,Goa,Ahmedabad,21:55,22:55,1500,1.0, 22729
+Vistara,08/01/2023,Goa,Ahmedabad,22:45,16:40,1075,1.0, 32110
+Vistara,08/01/2023,Goa,Ahmedabad,21:55,15:00,1025,1.0, 37988
+Vistara,08/01/2023,Goa,Ahmedabad,22:45,15:00,975,2.0, 64163
+SpiceJet,08/01/2023,Goa,Tirupati,18:40,07:20,760,1.0, 20473
+IndiGo,08/01/2023,Goa,Tirupati,22:05,07:30,565,1.0, 20787
+,08/01/2023,Goa,Bengaluru,,,0,1.0,
+Vistara,08/01/2023,Goa,Bengaluru,22:45,19:15,1230,1.0, 35657
+Vistara,08/01/2023,Goa,Bengaluru,22:45,19:15,1230,1.0, 35657
+Vistara,08/01/2023,Goa,Bengaluru,22:45,07:45,540,1.0, 37001
+Vistara,08/01/2023,Goa,Mumbai,21:55,15:50,1075,2.0, 22332
+Vistara,08/01/2023,Goa,Mumbai,21:55,08:00,605,1.0, 23044
+Vistara,08/01/2023,Goa,Mumbai,22:45,00:15,90,0.0, 30359
+IndiGo,08/01/2023,Goa,New Delhi,17:10,22:55,345,1.0, 13295
+Go First,08/01/2023,Goa,New Delhi,23:55,08:00,485,1.0, 13398
+IndiGo,08/01/2023,Goa,New Delhi,22:30,01:00,150,0.0, 15251
+AirAsia,08/01/2023,Goa,New Delhi,23:05,01:45,160,0.0, 10759
+Go First,08/01/2023,Goa,New Delhi,18:15,01:05,410,1.0, 16024
+Vistara,08/01/2023,Goa,New Delhi,21:55,00:40,165,0.0, 16114
+IndiGo,08/01/2023,Goa,New Delhi,23:45,07:15,450,1.0, 16219
+AirAsia,08/01/2023,Goa,New Delhi,23:05,01:45,160,0.0, 18529
+"Go First, IndiGo",08/01/2023,Goa,New Delhi,18:15,00:40,385,1.0, 18699
+"Go First, Vistara",08/01/2023,Goa,New Delhi,17:05,23:00,355,1.0, 23108
+Go First,08/01/2023,Goa,New Delhi,17:40,20:20,160,0.0, 23151
+SpiceJet,08/01/2023,Goa,New Delhi,20:55,23:50,175,0.0, 24462
+IndiGo,08/01/2023,Ahmedabad,Goa,20:55,22:45,110,0.0, 3999
+SpiceJet,08/01/2023,Ahmedabad,Goa,23:00,00:45,105,0.0, 4299
+Go First,08/01/2023,Ahmedabad,Goa,19:50,21:30,100,0.0, 5055
+Go First,08/01/2023,Ahmedabad,Goa,21:10,09:55,765,1.0, 6270
+Vistara,08/01/2023,Ahmedabad,Goa,17:15,00:05,410,1.0, 7614
+IndiGo,08/01/2023,Ahmedabad,Goa,17:30,23:10,340,1.0, 8255
+Vistara,08/01/2023,Ahmedabad,Goa,17:15,22:10,295,1.0, 8947
+IndiGo,08/01/2023,Ahmedabad,Goa,23:25,07:00,455,1.0, 10461
+Go First,08/01/2023,Ahmedabad,Goa,21:10,06:10,540,1.0, 10817
+Go First,08/01/2023,Ahmedabad,Goa,20:10,06:10,600,1.0, 11818
+SpiceJet,08/01/2023,Ahmedabad,Goa,17:55,13:25,1170,1.0, 12042
+IndiGo,08/01/2023,Ahmedabad,Goa,22:20,06:10,470,1.0, 12303
+IndiGo,08/01/2023,Ahmedabad,Goa,18:45,00:20,335,1.0, 14241
+IndiGo,08/01/2023,Ahmedabad,Goa,21:05,06:45,580,1.0, 14879
+SpiceJet,08/01/2023,Ahmedabad,Tirupati,17:55,20:00,1565,1.0, 12672
+IndiGo,08/01/2023,Ahmedabad,Tirupati,23:25,07:30,485,1.0, 19289
+Akasa Air,08/01/2023,Ahmedabad,Bengaluru,17:35,19:45,130,0.0, 7262
+Akasa Air,08/01/2023,Ahmedabad,Bengaluru,21:35,23:35,120,0.0, 7262
+Go First,08/01/2023,Ahmedabad,Bengaluru,21:10,23:25,135,0.0, 7265
+Akasa Air,08/01/2023,Ahmedabad,Bengaluru,21:35,23:35,120,0.0, 5853
+SpiceJet,08/01/2023,Ahmedabad,Bengaluru,23:00,"00:15
++ 2 DAY",1515,1.0, 7586
+IndiGo,08/01/2023,Ahmedabad,Bengaluru,19:25,21:45,140,0.0, 7899
+SpiceJet,08/01/2023,Ahmedabad,Bengaluru,17:55,17:05,1390,1.0, 10549
+Vistara,08/01/2023,Ahmedabad,Mumbai,17:15,18:45,90,0.0, 5587
+IndiGo,08/01/2023,Ahmedabad,Mumbai,17:30,18:40,70,0.0, 6035
+IndiGo,08/01/2023,Ahmedabad,Mumbai,18:35,20:00,85,0.0, 6300
+Go First,08/01/2023,Ahmedabad,Mumbai,21:10,22:30,80,0.0, 7647
+Go First,08/01/2023,Ahmedabad,Mumbai,20:10,21:25,75,0.0, 8646
+IndiGo,08/01/2023,Ahmedabad,Mumbai,22:20,23:35,75,0.0, 8680
+"Alliance Air, IndiGo",08/01/2023,Ahmedabad,Mumbai,16:50,01:20,510,2.0, 14636
+"Alliance Air, Go First",08/01/2023,Ahmedabad,Mumbai,16:50,00:40,470,2.0, 16058
+IndiGo,08/01/2023,Ahmedabad,Mumbai,18:05,01:20,435,1.0, 23898
+"IndiGo, Go First",08/01/2023,Ahmedabad,Mumbai,18:05,00:40,395,1.0, 25320
+Alliance Air,08/01/2023,Ahmedabad,New Delhi,16:50,19:55,185,1.0, 8737
+Air India,08/01/2023,Ahmedabad,New Delhi,21:30,23:10,100,0.0, 9441
+Go First,08/01/2023,Ahmedabad,New Delhi,23:59,01:45,106,0.0, 9442
+Vistara,08/01/2023,Ahmedabad,New Delhi,17:15,07:55,880,1.0, 12517
+SpiceJet,08/01/2023,Ahmedabad,New Delhi,22:05,10:30,745,1.0, 17614
+IndiGo,08/01/2023,Ahmedabad,New Delhi,18:05,19:50,105,0.0, 17999
+Vistara,08/01/2023,Ahmedabad,New Delhi,17:15,21:55,280,1.0, 32541
+SpiceJet,08/01/2023,Tirupati,Goa,20:00,07:10,670,1.0, 7993
+SpiceJet,08/01/2023,Tirupati,Goa,20:00,18:10,1330,1.0, 7993
+SpiceJet,08/01/2023,Tirupati,Goa,20:55,07:10,615,1.0, 8517
+SpiceJet,08/01/2023,Tirupati,Goa,20:55,18:10,1275,1.0, 8517
+IndiGo,08/01/2023,Tirupati,Goa,20:05,00:20,255,1.0, 12113
+IndiGo,08/01/2023,Tirupati,Goa,21:00,07:00,600,1.0, 15263
+IndiGo,08/01/2023,Tirupati,Ahmedabad,21:00,07:15,615,1.0, 18890
+IndiGo,08/01/2023,Tirupati,Mumbai,20:05,00:15,250,1.0, 14273
+"SpiceJet, IndiGo",08/01/2023,Tirupati,Mumbai,20:00,06:20,620,2.0, 19344
+SpiceJet,08/01/2023,Tirupati,New Delhi,20:55,19:20,1345,1.0, 12437
+SpiceJet,08/01/2023,Tirupati,New Delhi,20:00,19:20,1400,1.0, 16741
+IndiGo,08/01/2023,Tirupati,New Delhi,20:05,07:30,685,1.0, 18421
+Air India,08/01/2023,Tirupati,New Delhi,14:30,18:45,255,1.0, 9338
+IndiGo,08/01/2023,Tirupati,New Delhi,20:05,01:10,305,1.0, 19996
+IndiGo,08/01/2023,Tirupati,New Delhi,21:00,07:30,630,1.0, 21571
+Alliance Air,08/01/2023,Bengaluru,Goa,22:30,23:55,85,0.0, 2749
+SpiceJet,08/01/2023,Bengaluru,Goa,20:25,22:00,95,0.0, 2795
+IndiGo,08/01/2023,Bengaluru,Goa,19:50,21:10,80,0.0, 2796
+IndiGo,08/01/2023,Bengaluru,Goa,21:55,23:05,70,0.0, 2800
+Vistara,08/01/2023,Bengaluru,Goa,18:30,00:05,335,1.0, 4823
+"Vistara, Go First",08/01/2023,Bengaluru,Ahmedabad,18:30,00:40,370,1.0, 4696
+"Vistara, Go First",08/01/2023,Bengaluru,Ahmedabad,19:00,00:40,340,1.0, 4958
+Vistara,08/01/2023,Bengaluru,Ahmedabad,19:55,16:40,1245,1.0, 6312
+"IndiGo, Go First",08/01/2023,Bengaluru,Ahmedabad,19:25,00:40,315,1.0, 6564
+"IndiGo, Go First",08/01/2023,Bengaluru,Ahmedabad,18:00,00:40,400,1.0, 7699
+SpiceJet,08/01/2023,Bengaluru,Ahmedabad,20:25,02:55,390,1.0, 8063
+"Vistara, Go First",08/01/2023,Bengaluru,Ahmedabad,18:30,23:50,320,1.0, 8343
+"Vistara, Go First",08/01/2023,Bengaluru,Ahmedabad,19:00,23:50,290,1.0, 8605
+"AirAsia, Go First",08/01/2023,Bengaluru,Ahmedabad,17:15,00:40,445,1.0, 8733
+Vistara,08/01/2023,Bengaluru,Ahmedabad,19:55,23:55,240,1.0, 9044
+Go First,08/01/2023,Bengaluru,Ahmedabad,18:30,20:35,125,0.0, 9049
+IndiGo,08/01/2023,Bengaluru,Ahmedabad,23:40,07:15,455,1.0, 10570
+"IndiGo, Go First",08/01/2023,Bengaluru,Ahmedabad,18:00,23:50,350,1.0, 11346
+IndiGo,08/01/2023,Bengaluru,Ahmedabad,23:50,06:20,390,1.0, 11767
+Vistara,08/01/2023,Bengaluru,Mumbai,18:30,20:15,105,0.0, 2797
+Vistara,08/01/2023,Bengaluru,Mumbai,19:00,20:40,100,0.0, 3059
+Vistara,08/01/2023,Bengaluru,Mumbai,19:55,21:40,105,0.0, 3059
+AirAsia,08/01/2023,Bengaluru,Mumbai,17:15,19:00,105,0.0, 3839
+AirAsia,08/01/2023,Bengaluru,Mumbai,22:50,00:40,110,0.0, 3839
+Air India,08/01/2023,Bengaluru,Mumbai,21:20,23:20,120,0.0, 3873
+Vistara,08/01/2023,Bengaluru,Mumbai,21:35,23:20,105,0.0, 3899
+Akasa Air,08/01/2023,Bengaluru,Mumbai,19:45,21:35,110,0.0, 4035
+AirAsia,08/01/2023,Bengaluru,Mumbai,19:20,21:00,100,0.0, 4424
+IndiGo,08/01/2023,Bengaluru,Mumbai,19:25,21:15,110,0.0, 4665
+IndiGo,08/01/2023,Bengaluru,Mumbai,21:30,23:25,115,0.0, 4665
+Go First,08/01/2023,Bengaluru,Mumbai,20:25,22:00,95,0.0, 4851
+IndiGo,08/01/2023,Bengaluru,Mumbai,18:00,19:50,110,0.0, 5800
+SpiceJet,08/01/2023,Bengaluru,Mumbai,20:25,18:20,1315,1.0, 6954
+Go First,08/01/2023,Bengaluru,Mumbai,18:50,20:35,105,0.0, 11403
+SpiceJet,08/01/2023,Bengaluru,Mumbai,20:25,04:05,460,1.0, 11723
+Vistara,08/01/2023,Bengaluru,New Delhi,17:50,20:30,160,0.0, 5763
+Air India,08/01/2023,Bengaluru,New Delhi,21:00,00:10,190,0.0, 5763
+AirAsia,08/01/2023,Bengaluru,New Delhi,19:50,22:50,180,0.0, 6068
+AirAsia,08/01/2023,Bengaluru,New Delhi,22:40,01:25,165,0.0, 6068
+IndiGo,08/01/2023,Bengaluru,New Delhi,22:00,01:00,180,0.0, 6499
+Vistara,08/01/2023,Bengaluru,New Delhi,21:10,23:45,155,0.0, 6603
+IndiGo,08/01/2023,Bengaluru,New Delhi,23:20,02:10,170,0.0, 6919
+IndiGo,08/01/2023,Bengaluru,New Delhi,20:40,23:35,175,0.0, 7339
+Vistara,08/01/2023,Bengaluru,New Delhi,19:40,22:20,160,0.0, 7443
+IndiGo,08/01/2023,Bengaluru,New Delhi,16:50,19:45,175,0.0, 7457
+IndiGo,08/01/2023,Bengaluru,New Delhi,18:00,20:50,170,0.0, 7457
+AirAsia,08/01/2023,Bengaluru,New Delhi,17:55,20:45,170,0.0, 8493
+Go First,08/01/2023,Bengaluru,New Delhi,21:55,00:40,165,0.0, 9000
+Go First,08/01/2023,Bengaluru,New Delhi,20:25,10:55,870,1.0, 9126
+Vistara,08/01/2023,Bengaluru,New Delhi,18:45,21:25,160,0.0, 15843
+IndiGo,08/01/2023,Bengaluru,New Delhi,18:50,00:05,315,1.0, 16440
+Vistara,08/01/2023,Bengaluru,New Delhi,19:55,01:00,305,1.0, 17549
+AirAsia,08/01/2023,Mumbai,Goa,23:20,00:30,70,0.0, 2395
+Vistara,08/01/2023,Mumbai,Goa,22:50,00:05,75,0.0, 2405
+Go First,08/01/2023,Mumbai,Goa,22:05,23:25,80,0.0, 2596
+IndiGo,08/01/2023,Mumbai,Goa,21:55,23:10,75,0.0, 2650
+Alliance Air,08/01/2023,Mumbai,Goa,19:00,20:30,90,0.0, 2900
+SpiceJet,08/01/2023,Mumbai,Goa,21:05,22:20,75,0.0, 2984
+SpiceJet,08/01/2023,Mumbai,Goa,22:45,23:55,70,0.0, 2984
+Air India,08/01/2023,Mumbai,Goa,21:00,22:20,80,0.0, 3213
+Vistara,08/01/2023,Mumbai,Goa,20:55,22:10,75,0.0, 3738
+AirAsia,08/01/2023,Mumbai,Goa,19:40,05:25,585,1.0, 5672
+IndiGo,08/01/2023,Mumbai,Goa,17:00,18:15,75,0.0, 6993
+Vistara,08/01/2023,Mumbai,Goa,19:10,14:05,1135,1.0, 8390
+Go First,08/01/2023,Mumbai,Ahmedabad,22:40,23:50,70,0.0, 1899
+IndiGo,08/01/2023,Mumbai,Ahmedabad,18:35,19:50,75,0.0, 4245
+IndiGo,08/01/2023,Mumbai,Ahmedabad,20:25,21:40,75,0.0, 4245
+Go First,08/01/2023,Mumbai,Ahmedabad,23:30,00:40,70,0.0, 5097
+Vistara,08/01/2023,Mumbai,Ahmedabad,22:40,23:55,75,0.0, 6363
+Go First,08/01/2023,Mumbai,Ahmedabad,18:10,19:20,70,0.0, 9801
+Vistara,08/01/2023,Mumbai,Ahmedabad,20:55,22:55,1560,1.0, 16758
+Go First,08/01/2023,Mumbai,Bengaluru,19:45,21:25,100,0.0, 2072
+Vistara,08/01/2023,Mumbai,Bengaluru,19:10,20:55,105,0.0, 5345
+AirAsia,08/01/2023,Mumbai,Bengaluru,19:40,21:40,120,0.0, 6103
+IndiGo,08/01/2023,Mumbai,Bengaluru,23:10,00:45,95,0.0, 6606
+Akasa Air,08/01/2023,Mumbai,Bengaluru,20:25,22:05,100,0.0, 6732
+Akasa Air,08/01/2023,Mumbai,Bengaluru,22:20,00:05,105,0.0, 6994
+SpiceJet,08/01/2023,Mumbai,Bengaluru,22:45,"00:15
++ 2 DAY",1530,1.0, 7375
+IndiGo,08/01/2023,Mumbai,Bengaluru,20:35,22:25,110,0.0, 8175
+AirAsia,08/01/2023,Mumbai,Bengaluru,23:20,07:05,465,1.0, 9826
+Vistara,08/01/2023,Mumbai,Bengaluru,21:30,22:50,80,0.0, 9965
+IndiGo,08/01/2023,Mumbai,Bengaluru,16:45,18:40,115,0.0, 10085
+Vistara,08/01/2023,Mumbai,Bengaluru,22:50,15:55,1025,1.0, 10227
+Vistara,08/01/2023,Mumbai,Bengaluru,17:30,19:15,105,0.0, 17828
+AirAsia,08/01/2023,Mumbai,Bengaluru,20:35,22:15,100,0.0, 20503
+AirAsia,08/01/2023,Mumbai,Bengaluru,21:50,23:50,120,0.0, 20503
+IndiGo,08/01/2023,Mumbai,Bengaluru,18:45,00:05,320,1.0, 22717
+IndiGo,08/01/2023,Mumbai,New Delhi,23:15,01:40,145,0.0, 5899
+Go First,08/01/2023,Mumbai,New Delhi,19:40,09:50,850,1.0, 6863
+IndiGo,08/01/2023,Mumbai,New Delhi,22:15,00:40,145,0.0, 7308
+Vistara,08/01/2023,Mumbai,New Delhi,20:55,23:00,125,0.0, 10143
+Vistara,08/01/2023,Mumbai,New Delhi,19:10,10:35,925,1.0, 10458
+Go First,08/01/2023,Mumbai,New Delhi,21:15,23:30,135,0.0, 10668
+AirAsia,08/01/2023,Mumbai,New Delhi,19:40,01:25,345,1.0, 10720
+Go First,08/01/2023,Mumbai,New Delhi,20:15,22:25,130,0.0, 12768
+IndiGo,08/01/2023,Mumbai,New Delhi,20:25,05:45,560,1.0, 12855
+IndiGo,08/01/2023,Mumbai,New Delhi,23:50,06:40,410,1.0, 13136
+SpiceJet,08/01/2023,Mumbai,New Delhi,21:45,23:40,115,0.0, 13325
+Air India,08/01/2023,Mumbai,New Delhi,18:40,23:10,270,1.0, 13367
+Vistara,08/01/2023,Mumbai,New Delhi,23:10,01:00,110,0.0, 15834
+Air India,08/01/2023,Mumbai,New Delhi,21:00,03:50,410,1.0, 16758
+Vistara,08/01/2023,Mumbai,New Delhi,21:55,00:10,135,0.0, 19068
+Vistara,08/01/2023,Mumbai,New Delhi,19:45,21:55,130,0.0, 22743
+Vistara,08/01/2023,Mumbai,New Delhi,18:30,20:40,130,0.0, 27332
+Go First,08/01/2023,New Delhi,Goa,21:30,00:05,155,0.0, 5932
+SpiceJet,08/01/2023,New Delhi,Goa,23:00,01:05,125,0.0, 5954
+Air India,08/01/2023,New Delhi,Goa,22:00,00:40,160,0.0, 6514
+Go First,08/01/2023,New Delhi,Goa,21:30,00:05,155,0.0, 5202
+SpiceJet,08/01/2023,New Delhi,Goa,17:45,20:25,160,0.0, 6999
+Go First,08/01/2023,New Delhi,Goa,17:00,23:25,385,1.0, 7713
+Vistara,08/01/2023,New Delhi,Goa,18:40,21:20,160,0.0, 7740
+AirAsia,08/01/2023,New Delhi,Goa,20:00,22:35,155,0.0, 8159
+IndiGo,08/01/2023,New Delhi,Goa,20:25,22:50,145,0.0, 8159
+IndiGo,08/01/2023,New Delhi,Goa,17:40,20:20,160,0.0, 8350
+IndiGo,08/01/2023,New Delhi,Goa,19:10,21:55,165,0.0, 8900
+Vistara,08/01/2023,New Delhi,Goa,17:45,00:05,380,1.0, 9347
+Go First,08/01/2023,New Delhi,Ahmedabad,22:00,23:35,95,0.0, 7290
+IndiGo,08/01/2023,New Delhi,Ahmedabad,21:30,07:25,595,1.0, 10312
+IndiGo,08/01/2023,New Delhi,Ahmedabad,20:20,21:55,95,0.0, 10952
+IndiGo,08/01/2023,New Delhi,Ahmedabad,23:40,01:25,105,0.0, 4863
+Go First,08/01/2023,New Delhi,Ahmedabad,17:30,19:05,95,0.0, 12936
+Vistara,08/01/2023,New Delhi,Ahmedabad,21:20,22:55,95,0.0, 13339
+SpiceJet,08/01/2023,New Delhi,Ahmedabad,20:10,07:40,690,1.0, 14299
+SpiceJet,08/01/2023,New Delhi,Ahmedabad,20:30,22:10,100,0.0, 16284
+Vistara,08/01/2023,New Delhi,Ahmedabad,19:45,16:40,1255,1.0, 16522
+Vistara,08/01/2023,New Delhi,Ahmedabad,18:00,19:45,105,0.0, 17539
+Akasa Air,08/01/2023,New Delhi,Ahmedabad,19:10,20:55,105,0.0, 18909
+Vistara,08/01/2023,New Delhi,Ahmedabad,19:00,23:55,295,1.0, 20865
+SpiceJet,08/01/2023,New Delhi,Tirupati,18:50,15:40,1250,1.0, 17923
+IndiGo,08/01/2023,New Delhi,Tirupati,19:45,07:30,705,1.0, 19027
+IndiGo,08/01/2023,New Delhi,Tirupati,21:25,07:30,605,1.0, 19972
+IndiGo,08/01/2023,New Delhi,Tirupati,05:55,11:50,355,1.0, 8245
+SpiceJet,08/01/2023,New Delhi,Tirupati,17:35,20:00,1585,1.0, 20391
+SpiceJet,08/01/2023,New Delhi,Tirupati,20:00,15:40,1180,1.0, 30209
+Vistara,08/01/2023,New Delhi,Bengaluru,17:30,20:25,175,0.0, 7184
+Vistara,08/01/2023,New Delhi,Bengaluru,19:55,22:40,165,0.0, 7184
+Vistara,08/01/2023,New Delhi,Bengaluru,20:40,23:20,160,0.0, 8234
+Air India,08/01/2023,New Delhi,Bengaluru,21:10,00:05,175,0.0, 6344
+Go First,08/01/2023,New Delhi,Bengaluru,22:00,11:25,805,1.0, 8866
+SpiceJet,08/01/2023,New Delhi,Bengaluru,23:00,"00:15
++ 2 DAY",1515,1.0, 10332
+"IndiGo, Akasa Air",08/01/2023,New Delhi,Bengaluru,17:15,23:30,375,1.0, 11074
+Vistara,08/01/2023,New Delhi,Bengaluru,20:40,09:50,790,1.0, 11518
+SpiceJet,08/01/2023,New Delhi,Bengaluru,20:30,23:05,155,0.0, 11602
+"IndiGo, AirAsia",08/01/2023,New Delhi,Bengaluru,17:15,23:00,345,1.0, 11639
+IndiGo,08/01/2023,New Delhi,Bengaluru,22:45,07:55,550,1.0, 12517
+IndiGo,08/01/2023,New Delhi,Bengaluru,20:30,07:55,685,1.0, 12517
+IndiGo,08/01/2023,New Delhi,Bengaluru,21:45,00:35,170,0.0, 13500
+IndiGo,08/01/2023,New Delhi,Bengaluru,22:55,01:45,170,0.0, 13500
+AirAsia,08/01/2023,New Delhi,Bengaluru,20:00,07:05,665,1.0, 13862
+AirAsia,08/01/2023,New Delhi,Bengaluru,21:20,00:25,185,0.0, 14067
+"SpiceJet, IndiGo",08/01/2023,New Delhi,Bengaluru,18:15,01:05,410,1.0, 14165
+IndiGo,08/01/2023,New Delhi,Bengaluru,20:30,01:40,310,1.0, 14512
+IndiGo,08/01/2023,New Delhi,Bengaluru,21:25,06:35,550,1.0, 15483
+IndiGo,08/01/2023,New Delhi,Bengaluru,19:20,22:05,165,0.0, 15580
+Air India,08/01/2023,New Delhi,Bengaluru,22:00,05:35,455,1.0, 16069
+IndiGo,08/01/2023,New Delhi,Bengaluru,19:45,01:10,325,1.0, 16678
+"IndiGo, Alliance Air",08/01/2023,New Delhi,Bengaluru,17:15,23:35,380,1.0, 17047
+IndiGo,08/01/2023,New Delhi,Bengaluru,20:30,23:25,175,0.0, 17999
+IndiGo,08/01/2023,New Delhi,Bengaluru,18:25,02:20,475,1.0, 18817
+IndiGo,08/01/2023,New Delhi,Bengaluru,18:40,00:05,325,1.0, 19368
+AirAsia,08/01/2023,New Delhi,Bengaluru,19:05,21:45,160,0.0, 19694
+Go First,08/01/2023,New Delhi,Bengaluru,17:30,23:25,355,1.0, 20889
+IndiGo,08/01/2023,New Delhi,Bengaluru,17:15,22:10,295,1.0, 24304
+IndiGo,08/01/2023,New Delhi,Mumbai,23:00,01:20,140,0.0, 5899
+Go First,08/01/2023,New Delhi,Mumbai,22:00,06:50,530,1.0, 6873
+IndiGo,08/01/2023,New Delhi,Mumbai,21:45,00:00,135,0.0, 7319
+Go First,08/01/2023,New Delhi,Mumbai,06:00,08:10,130,0.0, 5409
+Air India,08/01/2023,New Delhi,Mumbai,22:30,00:45,135,0.0, 7320
+Go First,08/01/2023,New Delhi,Mumbai,22:30,00:40,130,0.0, 7321
+Go First,08/01/2023,New Delhi,Mumbai,17:00,19:10,130,0.0, 8791
+Go First,08/01/2023,New Delhi,Mumbai,20:00,22:10,130,0.0, 8791
+IndiGo,08/01/2023,New Delhi,Mumbai,19:20,21:30,130,0.0, 8894
+AirAsia,08/01/2023,New Delhi,Mumbai,20:00,06:55,655,1.0, 9630
+IndiGo,08/01/2023,New Delhi,Mumbai,21:00,07:05,605,1.0, 9734
+Go First,08/01/2023,New Delhi,Mumbai,18:55,21:05,130,0.0, 9735
+Go First,08/01/2023,New Delhi,Mumbai,21:00,23:15,135,0.0, 9735
+IndiGo,08/01/2023,New Delhi,Mumbai,22:45,07:25,520,1.0, 9892
+Vistara,08/01/2023,New Delhi,Mumbai,17:30,23:20,350,1.0, 10434
+IndiGo,08/01/2023,New Delhi,Mumbai,20:20,22:35,135,0.0, 10469
+IndiGo,08/01/2023,New Delhi,Mumbai,17:25,19:40,135,0.0, 11519
+IndiGo,08/01/2023,New Delhi,Mumbai,22:00,05:50,470,1.0, 12209
+Vistara,08/01/2023,New Delhi,Mumbai,19:00,21:15,135,0.0, 15846
+Vistara,08/01/2023,New Delhi,Mumbai,19:45,22:00,135,0.0, 15846
+SpiceJet,08/01/2023,New Delhi,Mumbai,18:50,20:55,125,0.0, 16139
+IndiGo,08/01/2023,New Delhi,Mumbai,16:55,21:25,270,1.0, 16507
+Vistara,08/01/2023,New Delhi,Mumbai,17:50,00:40,410,1.0, 17295
+Vistara,08/01/2023,New Delhi,Mumbai,21:40,23:40,120,0.0, 22286
+Vistara,08/01/2023,New Delhi,Mumbai,17:45,19:55,130,0.0, 27344
+IndiGo,09/01/2023,Goa,Ahmedabad,23:15,01:00,105,0.0, 5299
+SpiceJet,09/01/2023,Goa,Ahmedabad,01:20,02:55,95,0.0, 6417
+IndiGo,09/01/2023,Goa,Ahmedabad,20:25,06:20,595,1.0, 6559
+IndiGo,09/01/2023,Goa,Ahmedabad,08:55,10:35,100,0.0, 6595
+IndiGo,09/01/2023,Goa,Ahmedabad,23:40,08:25,525,1.0, 7110
+"SpiceJet, Go First",09/01/2023,Goa,Ahmedabad,17:05,00:40,455,1.0, 7209
+Go First,09/01/2023,Goa,Ahmedabad,17:05,00:40,455,1.0, 7673
+"Vistara, Go First",09/01/2023,Goa,Ahmedabad,13:20,00:40,680,1.0, 7828
+Vistara,09/01/2023,Goa,Ahmedabad,22:45,16:40,1075,1.0, 7959
+IndiGo,09/01/2023,Goa,Ahmedabad,23:35,08:25,530,1.0, 7996
+"SpiceJet, Go First",09/01/2023,Goa,Ahmedabad,13:05,00:40,695,1.0, 8092
+Go First,09/01/2023,Goa,Ahmedabad,18:15,00:40,385,1.0, 8199
+Go First,09/01/2023,Goa,Ahmedabad,13:15,00:40,685,1.0, 8199
+"Go First, Vistara",09/01/2023,Goa,Ahmedabad,18:15,23:55,340,1.0, 8266
+Go First,09/01/2023,Goa,Ahmedabad,21:05,22:40,95,0.0, 8555
+"Air India, Go First",09/01/2023,Goa,Ahmedabad,06:50,14:35,465,1.0, 8878
+IndiGo,09/01/2023,Goa,Ahmedabad,16:30,01:45,555,1.0, 8953
+IndiGo,09/01/2023,Goa,Ahmedabad,23:20,06:05,405,1.0, 9167
+IndiGo,09/01/2023,Goa,Ahmedabad,11:25,17:00,335,1.0, 9254
+IndiGo,09/01/2023,Goa,Ahmedabad,02:10,10:10,480,1.0, 9315
+IndiGo,09/01/2023,Goa,Ahmedabad,14:35,16:20,105,0.0, 9919
+IndiGo,09/01/2023,Goa,Ahmedabad,18:45,01:45,420,1.0, 10003
+IndiGo,09/01/2023,Goa,Ahmedabad,23:45,07:45,480,1.0, 10278
+"Air India, IndiGo",09/01/2023,Goa,Ahmedabad,06:50,14:15,445,1.0, 10329
+IndiGo,09/01/2023,Goa,Ahmedabad,13:05,17:00,235,1.0, 10899
+IndiGo,09/01/2023,Goa,Ahmedabad,21:40,03:45,365,1.0, 11110
+IndiGo,09/01/2023,Goa,Ahmedabad,21:40,08:25,645,1.0, 11110
+Go First,09/01/2023,Goa,Ahmedabad,11:45,00:40,775,1.0, 11647
+Go First,09/01/2023,Goa,Ahmedabad,11:45,16:25,280,1.0, 12250
+"Go First, IndiGo",09/01/2023,Goa,Ahmedabad,17:05,21:40,275,1.0, 12291
+Go First,09/01/2023,Goa,Ahmedabad,23:55,08:25,510,1.0, 12421
+IndiGo,09/01/2023,Goa,Ahmedabad,12:05,18:55,410,1.0, 12580
+IndiGo,09/01/2023,Goa,Ahmedabad,12:05,23:20,675,1.0, 12580
+IndiGo,09/01/2023,Goa,Ahmedabad,00:50,07:15,385,1.0, 12623
+IndiGo,09/01/2023,Goa,Ahmedabad,00:50,09:30,520,1.0, 12623
+IndiGo,09/01/2023,Goa,Ahmedabad,08:00,17:55,595,1.0, 12623
+IndiGo,09/01/2023,Goa,Ahmedabad,08:05,18:55,650,1.0, 12623
+"SpiceJet, IndiGo",09/01/2023,Goa,Ahmedabad,17:05,21:40,275,1.0, 12720
+Go First,09/01/2023,Goa,Ahmedabad,06:40,14:35,475,1.0, 12912
+IndiGo,09/01/2023,Goa,Ahmedabad,15:05,23:20,495,1.0, 13174
+Go First,09/01/2023,Goa,Ahmedabad,06:40,16:25,585,1.0, 13212
+Go First,09/01/2023,Goa,Ahmedabad,14:00,20:35,395,1.0, 13256
+Go First,09/01/2023,Goa,Ahmedabad,14:50,20:35,345,1.0, 13344
+IndiGo,09/01/2023,Goa,Ahmedabad,16:30,21:40,310,1.0, 13433
+IndiGo,09/01/2023,Goa,Ahmedabad,11:25,19:50,505,1.0, 13469
+IndiGo,09/01/2023,Goa,Ahmedabad,11:25,21:40,615,1.0, 13469
+Go First,09/01/2023,Goa,Ahmedabad,18:15,08:25,850,1.0, 13471
+IndiGo,09/01/2023,Goa,Ahmedabad,13:05,19:50,405,1.0, 15113
+IndiGo,09/01/2023,Goa,Ahmedabad,13:05,21:40,515,1.0, 15113
+IndiGo,09/01/2023,Goa,Ahmedabad,08:05,14:25,380,1.0, 15117
+IndiGo,09/01/2023,Goa,Ahmedabad,09:55,15:00,305,1.0, 15833
+IndiGo,09/01/2023,Goa,Ahmedabad,23:45,09:05,560,1.0, 18197
+IndiGo,09/01/2023,Goa,Ahmedabad,08:45,18:10,565,1.0, 20833
+IndiGo,09/01/2023,Goa,Ahmedabad,07:35,18:10,635,1.0, 21522
+IndiGo,09/01/2023,Goa,Ahmedabad,14:25,22:50,505,1.0, 24042
+SpiceJet,09/01/2023,Goa,Tirupati,07:30,07:20,1430,1.0, 10759
+Air India,09/01/2023,Goa,Tirupati,23:10,13:55,885,2.0, 10930
+"Alliance Air, IndiGo",09/01/2023,Goa,Tirupati,00:25,11:50,685,1.0, 13072
+"Go First, IndiGo",09/01/2023,Goa,Tirupati,10:35,19:30,535,1.0, 15430
+"Alliance Air, IndiGo",09/01/2023,Goa,Tirupati,13:15,19:30,375,1.0, 16181
+"IndiGo, SpiceJet",09/01/2023,Goa,Tirupati,00:50,07:20,390,1.0, 16771
+"Go First, IndiGo",09/01/2023,Goa,Tirupati,10:35,17:10,395,1.0, 16795
+IndiGo,09/01/2023,Goa,Tirupati,00:50,07:30,400,1.0, 17103
+IndiGo,09/01/2023,Goa,Tirupati,07:35,14:05,390,1.0, 17217
+SpiceJet,09/01/2023,Goa,Tirupati,18:40,19:40,1500,1.0, 17745
+IndiGo,09/01/2023,Goa,Tirupati,07:35,17:10,575,1.0, 18162
+IndiGo,09/01/2023,Goa,Tirupati,08:45,14:05,320,1.0, 18208
+IndiGo,09/01/2023,Goa,Tirupati,08:45,19:30,645,1.0, 18208
+"AirAsia, IndiGo",09/01/2023,Goa,Tirupati,07:15,11:50,275,1.0, 18322
+"AirAsia, IndiGo",09/01/2023,Goa,Tirupati,05:55,11:50,355,1.0, 18322
+IndiGo,09/01/2023,Goa,Tirupati,14:25,19:30,305,1.0, 18512
+IndiGo,09/01/2023,Goa,Tirupati,08:45,17:10,505,1.0, 19153
+SpiceJet,09/01/2023,Goa,Tirupati,18:40,07:20,760,1.0, 19159
+IndiGo,09/01/2023,Goa,Bengaluru,23:35,00:50,75,0.0, 2799
+SpiceJet,09/01/2023,Goa,Bengaluru,22:20,00:15,115,0.0, 4509
+IndiGo,09/01/2023,Goa,Bengaluru,21:40,23:00,80,0.0, 5912
+Go First,09/01/2023,Goa,Bengaluru,14:00,15:10,70,0.0, 6665
+Go First,09/01/2023,Goa,Bengaluru,14:50,16:05,75,0.0, 6753
+IndiGo,09/01/2023,Goa,Bengaluru,12:05,13:30,85,0.0, 6857
+IndiGo,09/01/2023,Goa,Bengaluru,23:20,06:20,420,1.0, 7036
+Alliance Air,09/01/2023,Goa,Bengaluru,00:25,01:50,85,0.0, 7189
+"SpiceJet, Go First",09/01/2023,Goa,Bengaluru,17:05,23:55,410,1.0, 7382
+IndiGo,09/01/2023,Goa,Bengaluru,23:40,00:55,75,0.0, 7819
+IndiGo,09/01/2023,Goa,Bengaluru,23:20,04:15,295,1.0, 7907
+AirAsia,09/01/2023,Goa,Bengaluru,14:45,16:00,75,0.0, 8975
+"Go First, Air India",09/01/2023,Goa,Bengaluru,13:15,18:25,310,1.0, 9008
+Vistara,09/01/2023,Goa,Bengaluru,14:40,15:55,75,0.0, 9023
+"SpiceJet, Air India",09/01/2023,Goa,Bengaluru,13:05,18:25,320,1.0, 9270
+IndiGo,09/01/2023,Goa,Bengaluru,08:05,09:25,80,0.0, 9919
+AirAsia,09/01/2023,Goa,Bengaluru,19:15,22:10,175,1.0, 10025
+Air India,09/01/2023,Goa,Bengaluru,04:20,05:35,75,0.0, 10234
+AirAsia,09/01/2023,Goa,Bengaluru,05:55,07:05,70,0.0, 12439
+AirAsia,09/01/2023,Goa,Bengaluru,07:15,08:20,65,0.0, 12439
+IndiGo,09/01/2023,Goa,Bengaluru,15:05,16:15,70,0.0, 17059
+SpiceJet,09/01/2023,Goa,Mumbai,22:50,23:50,60,0.0, 4784
+Air India,09/01/2023,Goa,Mumbai,23:10,00:20,70,0.0, 4879
+Vistara,09/01/2023,Goa,Mumbai,00:40,02:00,80,0.0, 3231
+Go First,09/01/2023,Goa,Mumbai,17:05,18:25,80,0.0, 4881
+Go First,09/01/2023,Goa,Mumbai,23:55,01:20,85,0.0, 4881
+Alliance Air,09/01/2023,Goa,Mumbai,21:00,22:30,90,0.0, 5089
+Vistara,09/01/2023,Goa,Mumbai,22:45,00:15,90,0.0, 5089
+AirAsia,09/01/2023,Goa,Mumbai,02:55,04:00,65,0.0, 5299
+SpiceJet,09/01/2023,Goa,Mumbai,17:05,18:20,75,0.0, 5310
+AirAsia,09/01/2023,Goa,Mumbai,05:45,06:55,70,0.0, 5719
+Vistara,09/01/2023,Goa,Mumbai,13:20,14:45,85,0.0, 5929
+IndiGo,09/01/2023,Goa,Mumbai,16:30,17:45,75,0.0, 5929
+IndiGo,09/01/2023,Goa,Mumbai,23:45,01:00,75,0.0, 5929
+Go First,09/01/2023,Goa,Mumbai,13:15,14:40,85,0.0, 5931
+Go First,09/01/2023,Goa,Mumbai,18:15,19:30,75,0.0, 5931
+AirAsia,09/01/2023,Goa,Mumbai,01:00,02:20,80,0.0, 6139
+SpiceJet,09/01/2023,Goa,Mumbai,13:05,14:20,75,0.0, 6193
+IndiGo,09/01/2023,Goa,Mumbai,11:25,12:40,75,0.0, 6490
+Air India,09/01/2023,Goa,Mumbai,06:50,08:10,80,0.0, 6979
+IndiGo,09/01/2023,Goa,Mumbai,18:45,19:55,70,0.0, 7504
+IndiGo,09/01/2023,Goa,Mumbai,13:05,14:25,80,0.0, 8198
+Go First,09/01/2023,Goa,Mumbai,06:40,08:00,80,0.0, 10341
+Go First,09/01/2023,Goa,Mumbai,11:45,12:55,70,0.0, 10429
+SpiceJet,09/01/2023,Goa,Mumbai,02:55,04:05,70,0.0, 12177
+Vistara,09/01/2023,Goa,Mumbai,14:40,23:20,520,1.0, 12490
+IndiGo,09/01/2023,Goa,New Delhi,23:35,07:15,460,1.0, 7756
+AirAsia,09/01/2023,Goa,New Delhi,23:05,01:45,160,0.0, 10759
+SpiceJet,09/01/2023,Goa,New Delhi,13:55,19:50,355,1.0, 10856
+Air India,09/01/2023,Goa,New Delhi,14:05,16:40,155,0.0, 11599
+AirAsia,09/01/2023,Goa,New Delhi,18:05,22:15,250,1.0, 11599
+IndiGo,09/01/2023,Goa,New Delhi,02:10,09:20,430,1.0, 11724
+Vistara,09/01/2023,Goa,New Delhi,21:55,00:40,165,0.0, 11914
+"Go First, SpiceJet",09/01/2023,Goa,New Delhi,18:15,23:40,325,1.0, 12137
+SpiceJet,09/01/2023,Goa,New Delhi,20:55,23:50,175,0.0, 12265
+IndiGo,09/01/2023,Goa,New Delhi,23:20,04:20,300,1.0, 12527
+IndiGo,09/01/2023,Goa,New Delhi,20:55,23:30,155,0.0, 13000
+"AirAsia, IndiGo",09/01/2023,Goa,New Delhi,05:45,11:45,360,1.0, 13027
+Go First,09/01/2023,Goa,New Delhi,00:35,03:00,145,0.0, 13911
+Go First,09/01/2023,Goa,New Delhi,17:40,20:20,160,0.0, 13911
+"AirAsia, IndiGo",09/01/2023,Goa,New Delhi,19:15,01:10,355,1.0, 14082
+Vistara,09/01/2023,Goa,New Delhi,13:20,18:05,285,1.0, 14119
+Air India,09/01/2023,Goa,New Delhi,01:15,03:50,155,0.0, 14224
+IndiGo,09/01/2023,Goa,New Delhi,07:30,09:55,145,0.0, 14575
+IndiGo,09/01/2023,Goa,New Delhi,13:05,17:35,270,1.0, 15012
+IndiGo,09/01/2023,Goa,New Delhi,13:10,15:40,150,0.0, 15251
+AirAsia,09/01/2023,Goa,New Delhi,08:10,10:45,155,0.0, 15799
+AirAsia,09/01/2023,Goa,New Delhi,16:35,19:10,155,0.0, 15799
+IndiGo,09/01/2023,Goa,New Delhi,22:30,01:00,150,0.0, 16051
+IndiGo,09/01/2023,Goa,New Delhi,10:35,13:10,155,0.0, 16360
+SpiceJet,09/01/2023,Goa,New Delhi,15:25,18:05,160,0.0, 16571
+IndiGo,09/01/2023,Goa,New Delhi,14:15,16:45,150,0.0, 17269
+Vistara,09/01/2023,Goa,New Delhi,14:25,17:05,160,0.0, 17689
+IndiGo,09/01/2023,Goa,New Delhi,15:20,17:50,150,0.0, 18319
+"Alliance Air, SpiceJet",09/01/2023,Goa,New Delhi,13:15,19:20,365,1.0, 19490
+SpiceJet,09/01/2023,Goa,New Delhi,01:40,04:20,160,0.0, 19615
+SpiceJet,09/01/2023,Goa,New Delhi,19:55,22:35,160,0.0, 19615
+Go First,09/01/2023,Ahmedabad,Goa,15:05,23:25,500,1.0, 3641
+Go First,09/01/2023,Ahmedabad,Goa,21:10,06:10,540,1.0, 3641
+Go First,09/01/2023,Ahmedabad,Goa,20:10,06:10,600,1.0, 3641
+IndiGo,09/01/2023,Ahmedabad,Goa,20:55,22:45,110,0.0, 3999
+Go First,09/01/2023,Ahmedabad,Goa,18:55,20:35,100,0.0, 4000
+SpiceJet,09/01/2023,Ahmedabad,Goa,23:00,00:45,105,0.0, 4299
+IndiGo,09/01/2023,Ahmedabad,Goa,05:35,07:15,100,0.0, 5299
+"Akasa Air, Go First",09/01/2023,Ahmedabad,Goa,16:05,23:25,440,1.0, 6154
+IndiGo,09/01/2023,Ahmedabad,Goa,23:25,07:00,455,1.0, 6216
+IndiGo,09/01/2023,Ahmedabad,Goa,23:50,07:35,465,1.0, 6216
+Go First,09/01/2023,Ahmedabad,Goa,21:10,09:55,765,1.0, 6270
+Go First,09/01/2023,Ahmedabad,Goa,21:10,11:15,845,1.0, 6270
+"IndiGo, Go First",09/01/2023,Ahmedabad,Goa,14:50,23:25,515,1.0, 6351
+"Akasa Air, Go First",09/01/2023,Ahmedabad,Goa,11:50,23:25,695,1.0, 6354
+IndiGo,09/01/2023,Ahmedabad,Goa,14:50,23:10,500,1.0, 6355
+Vistara,09/01/2023,Ahmedabad,Goa,17:15,00:05,410,1.0, 6774
+"IndiGo, Alliance Air",09/01/2023,Ahmedabad,Goa,14:50,20:30,340,1.0, 7035
+"Akasa Air, Go First",09/01/2023,Ahmedabad,Goa,11:50,16:35,285,1.0, 7084
+"Akasa Air, Vistara",09/01/2023,Ahmedabad,Goa,16:05,22:10,365,1.0, 7676
+Vistara,09/01/2023,Ahmedabad,Goa,17:15,22:10,295,1.0, 7875
+"IndiGo, Go First",09/01/2023,Ahmedabad,Goa,17:30,23:25,355,1.0, 8251
+IndiGo,09/01/2023,Ahmedabad,Goa,17:30,23:10,340,1.0, 8255
+IndiGo,09/01/2023,Ahmedabad,Goa,12:20,14:05,105,0.0, 8421
+IndiGo,09/01/2023,Ahmedabad,Goa,14:55,21:10,375,1.0, 8594
+IndiGo,09/01/2023,Ahmedabad,Goa,14:55,23:05,490,1.0, 8598
+IndiGo,09/01/2023,Ahmedabad,Goa,23:25,08:20,535,1.0, 8699
+IndiGo,09/01/2023,Ahmedabad,Goa,03:00,06:45,225,1.0, 8789
+IndiGo,09/01/2023,Ahmedabad,Goa,15:25,01:30,605,1.0, 8972
+"IndiGo, Vistara",09/01/2023,Ahmedabad,Goa,17:30,22:10,280,1.0, 9773
+IndiGo,09/01/2023,Ahmedabad,Goa,05:30,13:55,505,1.0, 10075
+SpiceJet,09/01/2023,Ahmedabad,Goa,06:00,13:25,445,1.0, 10206
+"Akasa Air, Go First",09/01/2023,Ahmedabad,Goa,07:35,12:45,310,1.0, 10285
+IndiGo,09/01/2023,Ahmedabad,Goa,04:40,11:25,405,1.0, 10472
+IndiGo,09/01/2023,Ahmedabad,Goa,04:30,12:30,480,1.0, 10677
+IndiGo,09/01/2023,Ahmedabad,Goa,06:40,15:25,525,1.0, 10708
+IndiGo,09/01/2023,Ahmedabad,Goa,09:45,15:25,340,1.0, 10973
+IndiGo,09/01/2023,Ahmedabad,Goa,08:45,15:25,400,1.0, 10973
+IndiGo,09/01/2023,Ahmedabad,Goa,09:45,18:15,510,1.0, 11498
+IndiGo,09/01/2023,Ahmedabad,Goa,08:45,18:15,570,1.0, 11498
+IndiGo,09/01/2023,Ahmedabad,Goa,18:45,00:20,335,1.0, 11729
+IndiGo,09/01/2023,Ahmedabad,Goa,06:40,12:30,350,1.0, 11968
+IndiGo,09/01/2023,Ahmedabad,Goa,08:45,12:30,225,1.0, 12233
+Air India,09/01/2023,Ahmedabad,Goa,14:40,00:40,600,1.0, 12510
+IndiGo,09/01/2023,Ahmedabad,Goa,04:30,10:55,385,1.0, 12567
+IndiGo,09/01/2023,Ahmedabad,Goa,09:00,20:45,705,1.0, 12831
+IndiGo,09/01/2023,Ahmedabad,Goa,06:40,10:55,255,1.0, 13858
+IndiGo,09/01/2023,Ahmedabad,Goa,09:00,14:35,335,1.0, 14252
+IndiGo,09/01/2023,Ahmedabad,Goa,04:40,14:35,595,1.0, 14252
+IndiGo,09/01/2023,Ahmedabad,Goa,22:20,06:10,470,1.0, 14459
+IndiGo,09/01/2023,Ahmedabad,Goa,07:50,13:55,365,1.0, 15816
+IndiGo,09/01/2023,Ahmedabad,Goa,07:50,17:20,570,1.0, 16026
+IndiGo,09/01/2023,Ahmedabad,Goa,21:05,06:45,580,1.0, 22019
+"Go First, IndiGo",09/01/2023,Ahmedabad,Tirupati,21:10,14:05,1015,2.0, 7364
+"Go First, IndiGo",09/01/2023,Ahmedabad,Tirupati,20:10,14:05,1075,2.0, 7364
+"Go First, IndiGo",09/01/2023,Ahmedabad,Tirupati,20:10,10:55,885,2.0, 8559
+SpiceJet,09/01/2023,Ahmedabad,Tirupati,06:00,20:00,840,1.0, 8873
+"Akasa Air, IndiGo",09/01/2023,Ahmedabad,Tirupati,16:05,14:05,1320,2.0, 9302
+IndiGo,09/01/2023,Ahmedabad,Tirupati,23:50,10:55,665,1.0, 9458
+"Akasa Air, IndiGo",09/01/2023,Ahmedabad,Tirupati,16:05,10:55,1130,2.0, 10497
+IndiGo,09/01/2023,Ahmedabad,Tirupati,23:25,07:30,485,1.0, 10623
+IndiGo,09/01/2023,Ahmedabad,Tirupati,10:30,16:20,350,1.0, 10796
+"Vistara, IndiGo",09/01/2023,Ahmedabad,Tirupati,17:15,10:55,1060,2.0, 11306
+IndiGo,09/01/2023,Ahmedabad,Tirupati,04:40,11:50,430,1.0, 12962
+IndiGo,09/01/2023,Ahmedabad,Tirupati,05:30,14:05,515,1.0, 15526
+IndiGo,09/01/2023,Ahmedabad,Tirupati,07:50,14:05,375,1.0, 17495
+IndiGo,09/01/2023,Ahmedabad,Tirupati,07:50,17:10,560,1.0, 17495
+Air India,09/01/2023,Ahmedabad,Tirupati,10:40,13:55,1635,3.0, 17736
+Akasa Air,09/01/2023,Ahmedabad,Bengaluru,12:55,15:00,125,0.0, 5853
+Akasa Air,09/01/2023,Ahmedabad,Bengaluru,17:35,19:45,130,0.0, 5853
+Akasa Air,09/01/2023,Ahmedabad,Bengaluru,21:35,23:35,120,0.0, 5853
+Go First,09/01/2023,Ahmedabad,Bengaluru,21:10,23:25,135,0.0, 5897
+IndiGo,09/01/2023,Ahmedabad,Bengaluru,19:25,21:45,140,0.0, 5899
+IndiGo,09/01/2023,Ahmedabad,Bengaluru,23:50,02:05,135,0.0, 5899
+"Akasa Air, Go First",09/01/2023,Ahmedabad,Bengaluru,16:05,23:55,470,1.0, 6010
+IndiGo,09/01/2023,Ahmedabad,Bengaluru,14:55,17:15,140,0.0, 6500
+"Vistara, Go First",09/01/2023,Ahmedabad,Bengaluru,17:15,23:55,400,1.0, 6819
+Go First,09/01/2023,Ahmedabad,Bengaluru,09:25,11:25,120,0.0, 7265
+IndiGo,09/01/2023,Ahmedabad,Bengaluru,09:00,11:15,135,0.0, 7399
+"IndiGo, Air India",09/01/2023,Ahmedabad,Bengaluru,14:50,20:30,340,1.0, 7737
+IndiGo,09/01/2023,Ahmedabad,Bengaluru,04:40,06:45,125,0.0, 7899
+"IndiGo, Go First",09/01/2023,Ahmedabad,Bengaluru,17:30,23:55,385,1.0, 8107
+Go First,09/01/2023,Ahmedabad,Mumbai,20:10,21:25,75,0.0, 2000
+Go First,09/01/2023,Ahmedabad,Mumbai,21:10,22:30,80,0.0, 2000
+Akasa Air,09/01/2023,Ahmedabad,Mumbai,16:05,17:25,80,0.0, 3938
+IndiGo,09/01/2023,Ahmedabad,Mumbai,14:50,16:10,80,0.0, 4135
+Akasa Air,09/01/2023,Ahmedabad,Mumbai,11:50,13:15,85,0.0, 4138
+IndiGo,09/01/2023,Ahmedabad,Mumbai,04:30,05:50,80,0.0, 4745
+Vistara,09/01/2023,Ahmedabad,Mumbai,17:15,18:45,90,0.0, 4747
+IndiGo,09/01/2023,Ahmedabad,Mumbai,08:45,10:05,80,0.0, 5536
+Vistara,09/01/2023,Ahmedabad,Mumbai,05:05,06:15,70,0.0, 5587
+IndiGo,09/01/2023,Ahmedabad,Mumbai,06:40,07:55,75,0.0, 6035
+IndiGo,09/01/2023,Ahmedabad,Mumbai,17:30,18:40,70,0.0, 6035
+IndiGo,09/01/2023,Ahmedabad,Mumbai,09:45,10:55,70,0.0, 6300
+Akasa Air,09/01/2023,Ahmedabad,Mumbai,07:35,08:55,80,0.0, 6538
+IndiGo,09/01/2023,Ahmedabad,Mumbai,22:20,23:35,75,0.0, 10836
+Vistara,09/01/2023,Ahmedabad,Mumbai,06:45,11:35,290,1.0, 12097
+Vistara,09/01/2023,Ahmedabad,Mumbai,08:25,09:40,75,0.0, 16087
+Vistara,09/01/2023,Ahmedabad,Mumbai,06:45,11:10,265,1.0, 16507
+SpiceJet,09/01/2023,Ahmedabad,New Delhi,22:05,10:30,745,1.0, 4943
+SpiceJet,09/01/2023,Ahmedabad,New Delhi,16:15,10:30,1095,1.0, 5482
+IndiGo,09/01/2023,Ahmedabad,New Delhi,04:05,05:45,100,0.0, 4400
+Go First,09/01/2023,Ahmedabad,New Delhi,23:15,00:50,95,0.0, 5543
+Alliance Air,09/01/2023,Ahmedabad,New Delhi,17:50,20:55,185,1.0, 6217
+Vistara,09/01/2023,Ahmedabad,New Delhi,15:35,17:10,95,0.0, 6952
+Go First,09/01/2023,Ahmedabad,New Delhi,19:35,21:15,100,0.0, 7162
+IndiGo,09/01/2023,Ahmedabad,New Delhi,15:25,22:55,450,1.0, 7437
+IndiGo,09/01/2023,Ahmedabad,New Delhi,22:35,00:05,90,0.0, 7834
+Vistara,09/01/2023,Ahmedabad,New Delhi,20:30,22:00,90,0.0, 8212
+Go First,09/01/2023,Ahmedabad,New Delhi,08:30,10:05,95,0.0, 8424
+IndiGo,09/01/2023,Ahmedabad,New Delhi,21:00,22:30,90,0.0, 8464
+Air India,09/01/2023,Ahmedabad,New Delhi,10:40,00:05,805,1.0, 8811
+IndiGo,09/01/2023,Ahmedabad,New Delhi,04:05,05:45,100,0.0, 8999
+Air India,09/01/2023,Ahmedabad,New Delhi,14:40,16:15,95,0.0, 9441
+IndiGo,09/01/2023,Ahmedabad,New Delhi,08:55,15:00,365,1.0, 9719
+Air India,09/01/2023,Ahmedabad,New Delhi,10:40,18:10,450,1.0, 10281
+IndiGo,09/01/2023,Ahmedabad,New Delhi,05:55,07:40,105,0.0, 10899
+IndiGo,09/01/2023,Ahmedabad,New Delhi,12:00,13:35,95,0.0, 10899
+IndiGo,09/01/2023,Ahmedabad,New Delhi,07:05,08:35,90,0.0, 11499
+IndiGo,09/01/2023,Ahmedabad,New Delhi,18:05,19:50,105,0.0, 11499
+SpiceJet,09/01/2023,Ahmedabad,New Delhi,06:10,07:50,100,0.0, 12172
+IndiGo,09/01/2023,Ahmedabad,New Delhi,15:55,20:50,295,1.0, 12306
+Akasa Air,09/01/2023,Ahmedabad,New Delhi,09:15,11:00,105,0.0, 12854
+IndiGo,09/01/2023,Ahmedabad,New Delhi,15:25,20:15,290,1.0, 13094
+Vistara,09/01/2023,Ahmedabad,New Delhi,08:40,10:20,100,0.0, 13286
+Vistara,09/01/2023,Ahmedabad,New Delhi,06:45,07:55,70,0.0, 25909
+"IndiGo, Go First",09/01/2023,Tirupati,Goa,07:50,23:25,935,2.0, 7486
+"Air India, IndiGo",09/01/2023,Tirupati,Goa,14:30,21:35,425,1.0, 7613
+"Air India, AirAsia",09/01/2023,Tirupati,Goa,14:30,19:20,290,1.0, 7614
+"Alliance Air, IndiGo",09/01/2023,Tirupati,Goa,08:10,21:35,805,1.0, 7718
+SpiceJet,09/01/2023,Tirupati,Goa,20:55,07:10,615,1.0, 7993
+"Alliance Air, IndiGo",09/01/2023,Tirupati,Goa,08:10,13:55,345,1.0, 8663
+IndiGo,09/01/2023,Tirupati,Goa,14:45,21:35,410,1.0, 8753
+IndiGo,09/01/2023,Tirupati,Goa,12:30,21:35,545,1.0, 8753
+IndiGo,09/01/2023,Tirupati,Goa,14:45,00:20,575,1.0, 8753
+"IndiGo, Vistara",09/01/2023,Tirupati,Goa,07:50,22:10,860,2.0, 9008
+IndiGo,09/01/2023,Tirupati,Goa,20:05,00:20,255,1.0, 9173
+IndiGo,09/01/2023,Tirupati,Goa,21:00,07:00,600,1.0, 9173
+"SpiceJet, Go First",09/01/2023,Tirupati,Goa,07:40,17:45,605,1.0, 9362
+"IndiGo, AirAsia",09/01/2023,Tirupati,Goa,14:45,19:20,275,1.0, 9609
+IndiGo,09/01/2023,Tirupati,Goa,12:30,17:20,290,1.0, 9908
+Air India,09/01/2023,Tirupati,Goa,14:30,00:40,610,2.0, 10391
+IndiGo,09/01/2023,Tirupati,Goa,16:40,21:10,270,1.0, 12844
+IndiGo,09/01/2023,Tirupati,Goa,16:40,23:05,385,1.0, 12848
+"SpiceJet, IndiGo",09/01/2023,Tirupati,Goa,07:40,12:30,290,1.0, 13129
+SpiceJet,09/01/2023,Tirupati,Ahmedabad,16:10,15:45,1415,1.0, 9244
+"Air India, IndiGo",09/01/2023,Tirupati,Ahmedabad,14:30,03:45,795,2.0, 10767
+"Air India, IndiGo",09/01/2023,Tirupati,Ahmedabad,14:30,03:45,795,2.0, 10767
+"Alliance Air, IndiGo",09/01/2023,Tirupati,Ahmedabad,08:10,03:45,1175,2.0, 10872
+IndiGo,09/01/2023,Tirupati,Ahmedabad,14:45,03:45,780,2.0, 12762
+IndiGo,09/01/2023,Tirupati,Ahmedabad,14:45,03:45,780,2.0, 12762
+IndiGo,09/01/2023,Tirupati,Ahmedabad,20:05,06:20,615,2.0, 13182
+IndiGo,09/01/2023,Tirupati,Ahmedabad,12:30,18:10,340,1.0, 13702
+IndiGo,09/01/2023,Tirupati,Ahmedabad,14:45,22:50,485,1.0, 13702
+IndiGo,09/01/2023,Tirupati,Ahmedabad,12:30,22:50,620,1.0, 13702
+"Air India, IndiGo",09/01/2023,Tirupati,Ahmedabad,14:30,22:50,500,1.0, 14655
+"Alliance Air, IndiGo",09/01/2023,Tirupati,Ahmedabad,08:10,18:10,600,1.0, 15180
+Air India,09/01/2023,Tirupati,Ahmedabad,14:30,06:55,985,2.0, 15935
+IndiGo,09/01/2023,Tirupati,Ahmedabad,16:40,23:20,400,1.0, 15947
+IndiGo,09/01/2023,Tirupati,Ahmedabad,16:40,03:45,665,1.0, 15947
+Star Air,09/01/2023,Tirupati,Bengaluru,11:55,14:30,155,1.0, 7612
+"Air India, AirAsia",09/01/2023,Tirupati,Bengaluru,14:30,22:10,460,1.0, 7812
+IndiGo,09/01/2023,Tirupati,Bengaluru,15:35,16:35,60,0.0, 6595
+"Alliance Air, AirAsia",09/01/2023,Tirupati,Bengaluru,08:10,22:10,840,1.0, 8967
+"IndiGo, AirAsia",09/01/2023,Tirupati,Bengaluru,12:30,22:10,580,1.0, 9072
+"Air India, AirAsia",09/01/2023,Tirupati,Bengaluru,14:30,20:50,380,1.0, 9614
+"IndiGo, AirAsia",09/01/2023,Tirupati,Bengaluru,14:45,22:10,445,1.0, 9807
+IndiGo,09/01/2023,Tirupati,Bengaluru,20:05,01:10,305,1.0, 10227
+IndiGo,09/01/2023,Tirupati,Bengaluru,16:40,17:40,60,0.0, 10749
+"Alliance Air, IndiGo",09/01/2023,Tirupati,Bengaluru,08:10,13:00,290,1.0, 10770
+"IndiGo, AirAsia",09/01/2023,Tirupati,Bengaluru,14:45,20:50,365,1.0, 11609
+IndiGo,09/01/2023,Tirupati,Bengaluru,12:30,18:10,340,1.0, 12791
+Air India,09/01/2023,Tirupati,Bengaluru,14:30,00:05,575,2.0, 15292
+IndiGo,09/01/2023,Tirupati,Mumbai,07:50,17:05,555,1.0, 5270
+SpiceJet,09/01/2023,Tirupati,Mumbai,07:40,09:25,105,0.0, 6766
+IndiGo,09/01/2023,Tirupati,Mumbai,21:00,05:55,535,1.0, 9408
+"Air India, IndiGo",09/01/2023,Tirupati,Mumbai,14:30,06:20,950,2.0, 9696
+IndiGo,09/01/2023,Tirupati,Mumbai,16:40,21:15,275,1.0, 11157
+IndiGo,09/01/2023,Tirupati,Mumbai,20:05,05:55,590,1.0, 11648
+IndiGo,09/01/2023,Tirupati,Mumbai,14:45,06:20,935,2.0, 11691
+IndiGo,09/01/2023,Tirupati,Mumbai,12:30,06:20,1070,2.0, 11691
+"Alliance Air, IndiGo",09/01/2023,Tirupati,Mumbai,08:10,18:15,605,2.0, 11959
+IndiGo,09/01/2023,Tirupati,Mumbai,16:40,23:25,405,1.0, 12988
+IndiGo,09/01/2023,Tirupati,Mumbai,16:40,00:50,490,1.0, 13285
+IndiGo,09/01/2023,Tirupati,Mumbai,14:45,00:15,570,1.0, 13801
+IndiGo,09/01/2023,Tirupati,Mumbai,20:05,00:15,250,1.0, 14273
+"Alliance Air, Vistara",09/01/2023,Tirupati,Mumbai,08:10,14:35,385,1.0, 17134
+IndiGo,09/01/2023,Tirupati,Mumbai,14:45,21:10,385,1.0, 18473
+IndiGo,09/01/2023,Tirupati,Mumbai,12:30,21:10,520,1.0, 18473
+"Air India, IndiGo",09/01/2023,Tirupati,Mumbai,14:30,19:45,315,1.0, 18593
+IndiGo,09/01/2023,Tirupati,Mumbai,14:45,19:45,300,1.0, 19733
+IndiGo,09/01/2023,Tirupati,Mumbai,12:30,19:45,435,1.0, 19733
+Air India,09/01/2023,Tirupati,New Delhi,14:30,18:45,255,1.0, 9338
+SpiceJet,09/01/2023,Tirupati,New Delhi,20:55,21:50,1495,1.0, 9616
+SpiceJet,09/01/2023,Tirupati,New Delhi,07:40,01:15,1055,1.0, 10156
+"Air India, IndiGo",09/01/2023,Tirupati,New Delhi,14:30,01:10,640,1.0, 10980
+IndiGo,09/01/2023,Tirupati,New Delhi,14:45,18:55,250,1.0, 11265
+SpiceJet,09/01/2023,Tirupati,New Delhi,16:10,08:15,965,1.0, 11386
+SpiceJet,09/01/2023,Tirupati,New Delhi,07:40,23:40,960,1.0, 11878
+IndiGo,09/01/2023,Tirupati,New Delhi,12:30,00:05,695,1.0, 12121
+IndiGo,09/01/2023,Tirupati,New Delhi,14:45,01:10,625,1.0, 12121
+"Alliance Air, SpiceJet",09/01/2023,Tirupati,New Delhi,08:10,19:20,670,1.0, 12398
+IndiGo,09/01/2023,Tirupati,New Delhi,20:05,01:10,305,1.0, 12541
+IndiGo,09/01/2023,Tirupati,New Delhi,14:45,20:40,355,1.0, 13486
+IndiGo,09/01/2023,Tirupati,New Delhi,16:40,23:35,415,1.0, 13493
+"IndiGo, Air India",09/01/2023,Tirupati,New Delhi,12:30,18:45,375,1.0, 13606
+"Air India, Vistara",09/01/2023,Tirupati,New Delhi,14:30,19:55,325,1.0, 13711
+IndiGo,09/01/2023,Tirupati,New Delhi,21:00,07:30,630,1.0, 13853
+"Alliance Air, IndiGo",09/01/2023,Tirupati,New Delhi,08:10,14:15,365,1.0, 15075
+IndiGo,09/01/2023,Tirupati,New Delhi,16:40,22:10,330,1.0, 16546
+Alliance Air,09/01/2023,Bengaluru,Goa,22:30,23:55,85,0.0, 2749
+SpiceJet,09/01/2023,Bengaluru,Goa,20:25,22:00,95,0.0, 2795
+IndiGo,09/01/2023,Bengaluru,Goa,19:50,21:10,80,0.0, 2796
+Go First,09/01/2023,Bengaluru,Goa,08:45,09:55,70,0.0, 2797
+Go First,09/01/2023,Bengaluru,Goa,15:50,17:10,80,0.0, 2797
+AirAsia,09/01/2023,Bengaluru,Goa,04:10,05:25,75,0.0, 2800
+AirAsia,09/01/2023,Bengaluru,Goa,05:30,06:45,75,0.0, 2800
+IndiGo,09/01/2023,Bengaluru,Goa,21:55,23:05,70,0.0, 2800
+IndiGo,09/01/2023,Bengaluru,Goa,06:15,07:35,80,0.0, 2918
+IndiGo,09/01/2023,Bengaluru,Goa,10:10,11:25,75,0.0, 3392
+Vistara,09/01/2023,Bengaluru,Goa,12:50,14:05,75,0.0, 3694
+AirAsia,09/01/2023,Bengaluru,Goa,13:00,14:15,75,0.0, 4849
+AirAsia,09/01/2023,Bengaluru,Goa,12:55,18:45,350,1.0, 5657
+IndiGo,09/01/2023,Bengaluru,Goa,13:05,14:35,90,0.0, 7054
+IndiGo,09/01/2023,Bengaluru,Goa,02:45,06:45,240,1.0, 7069
+Go First,09/01/2023,Bengaluru,Ahmedabad,18:50,00:40,350,1.0, 4077
+"Go First, Vistara",09/01/2023,Bengaluru,Ahmedabad,18:50,23:55,305,1.0, 4513
+"IndiGo, Go First",09/01/2023,Bengaluru,Ahmedabad,19:25,00:40,315,1.0, 4684
+"Air India, Go First",09/01/2023,Bengaluru,Ahmedabad,19:15,00:40,325,1.0, 4722
+"Akasa Air, Go First",09/01/2023,Bengaluru,Ahmedabad,10:15,16:25,370,1.0, 4762
+"Akasa Air, Go First",09/01/2023,Bengaluru,Ahmedabad,16:35,00:40,485,1.0, 4762
+"Akasa Air, Go First",09/01/2023,Bengaluru,Ahmedabad,11:45,00:40,775,1.0, 4762
+"IndiGo, Go First",09/01/2023,Bengaluru,Ahmedabad,18:00,00:40,400,1.0, 4839
+"IndiGo, Go First",09/01/2023,Bengaluru,Ahmedabad,16:20,00:40,500,1.0, 4839
+"AirAsia, Go First",09/01/2023,Bengaluru,Ahmedabad,19:20,00:40,320,1.0, 4944
+"AirAsia, Go First",09/01/2023,Bengaluru,Ahmedabad,17:15,00:40,445,1.0, 4944
+"Akasa Air, Vistara",09/01/2023,Bengaluru,Ahmedabad,16:35,23:55,440,1.0, 5198
+"IndiGo, Vistara",09/01/2023,Bengaluru,Ahmedabad,18:00,23:55,355,1.0, 5275
+"AirAsia, Vistara",09/01/2023,Bengaluru,Ahmedabad,17:15,23:55,400,1.0, 5380
+Akasa Air,09/01/2023,Bengaluru,Ahmedabad,05:55,08:20,145,0.0, 5695
+Akasa Air,09/01/2023,Bengaluru,Ahmedabad,09:55,12:15,140,0.0, 5695
+Akasa Air,09/01/2023,Bengaluru,Ahmedabad,14:35,16:55,140,0.0, 5695
+Go First,09/01/2023,Bengaluru,Ahmedabad,06:20,08:45,145,0.0, 5722
+"IndiGo, Go First",09/01/2023,Bengaluru,Ahmedabad,10:15,16:25,370,1.0, 5846
+IndiGo,09/01/2023,Bengaluru,Ahmedabad,06:10,08:25,135,0.0, 6017
+IndiGo,09/01/2023,Bengaluru,Ahmedabad,12:05,14:25,140,0.0, 6017
+IndiGo,09/01/2023,Bengaluru,Ahmedabad,16:40,18:55,135,0.0, 6017
+IndiGo,09/01/2023,Bengaluru,Ahmedabad,21:00,23:20,140,0.0, 6017
+"Akasa Air, IndiGo",09/01/2023,Bengaluru,Ahmedabad,11:45,17:00,315,1.0, 6058
+"Air India, Go First",09/01/2023,Bengaluru,Ahmedabad,09:15,14:35,320,1.0, 6297
+IndiGo,09/01/2023,Bengaluru,Ahmedabad,20:00,00:05,245,1.0, 6334
+"Vistara, Go First",09/01/2023,Bengaluru,Ahmedabad,19:00,00:40,340,1.0, 6570
+"Vistara, Go First",09/01/2023,Bengaluru,Ahmedabad,18:30,00:40,370,1.0, 6570
+IndiGo,09/01/2023,Bengaluru,Ahmedabad,01:40,03:45,125,0.0, 6617
+Vistara,09/01/2023,Bengaluru,Ahmedabad,19:55,23:55,240,1.0, 6627
+Vistara,09/01/2023,Bengaluru,Ahmedabad,19:00,23:55,295,1.0, 6627
+Vistara,09/01/2023,Bengaluru,Ahmedabad,18:30,23:55,325,1.0, 6627
+"IndiGo, Akasa Air",09/01/2023,Bengaluru,Ahmedabad,10:15,15:25,310,1.0, 6744
+SpiceJet,09/01/2023,Bengaluru,Ahmedabad,10:25,15:45,320,1.0, 6765
+SpiceJet,09/01/2023,Bengaluru,Ahmedabad,20:25,02:55,390,1.0, 7065
+Go First,09/01/2023,Bengaluru,Ahmedabad,18:30,20:35,125,0.0, 7433
+"Vistara, Go First",09/01/2023,Bengaluru,Ahmedabad,11:05,16:25,320,1.0, 7515
+IndiGo,09/01/2023,Bengaluru,Ahmedabad,00:30,06:05,335,1.0, 7579
+IndiGo,09/01/2023,Bengaluru,Ahmedabad,23:50,06:20,390,1.0, 7579
+IndiGo,09/01/2023,Bengaluru,Ahmedabad,11:25,17:15,350,1.0, 8178
+IndiGo,09/01/2023,Bengaluru,Tirupati,10:45,11:50,65,0.0, 5591
+Air India,09/01/2023,Bengaluru,Tirupati,21:20,13:55,995,2.0, 8653
+Air India,09/01/2023,Bengaluru,Tirupati,19:15,13:55,1120,2.0, 8874
+Star Air,09/01/2023,Bengaluru,Tirupati,08:40,11:30,170,1.0, 13822
+Air India,09/01/2023,Bengaluru,Tirupati,19:20,13:55,1115,2.0, 14175
+Air India,09/01/2023,Bengaluru,Tirupati,21:00,13:55,1015,2.0, 14425
+Air India,09/01/2023,Bengaluru,Tirupati,19:20,13:55,1115,2.0, 16380
+Air India,09/01/2023,Bengaluru,Tirupati,21:00,13:55,1015,2.0, 16630
+Air India,09/01/2023,Bengaluru,Tirupati,17:10,13:55,1245,2.0, 17733
+Go First,09/01/2023,Bengaluru,Mumbai,18:50,20:35,105,0.0, 2178
+Go First,09/01/2023,Bengaluru,Mumbai,20:25,22:00,95,0.0, 2178
+Air India,09/01/2023,Bengaluru,Mumbai,21:20,23:20,120,0.0, 2602
+Akasa Air,09/01/2023,Bengaluru,Mumbai,19:45,21:35,110,0.0, 2738
+Akasa Air,09/01/2023,Bengaluru,Mumbai,20:30,22:20,110,0.0, 2738
+IndiGo,09/01/2023,Bengaluru,Mumbai,19:25,21:15,110,0.0, 2785
+Air India,09/01/2023,Bengaluru,Mumbai,19:15,21:30,135,0.0, 2823
+Akasa Air,09/01/2023,Bengaluru,Mumbai,10:15,12:20,125,0.0, 2863
+Akasa Air,09/01/2023,Bengaluru,Mumbai,11:45,13:30,105,0.0, 2863
+Akasa Air,09/01/2023,Bengaluru,Mumbai,16:35,18:20,105,0.0, 2863
+IndiGo,09/01/2023,Bengaluru,Mumbai,16:20,18:15,115,0.0, 2940
+IndiGo,09/01/2023,Bengaluru,Mumbai,18:00,19:50,110,0.0, 2940
+IndiGo,09/01/2023,Bengaluru,Mumbai,21:30,23:25,115,0.0, 2940
+AirAsia,09/01/2023,Bengaluru,Mumbai,17:15,19:00,105,0.0, 3045
+AirAsia,09/01/2023,Bengaluru,Mumbai,19:20,21:00,100,0.0, 3045
+AirAsia,09/01/2023,Bengaluru,Mumbai,22:50,00:40,110,0.0, 3045
+IndiGo,09/01/2023,Bengaluru,Mumbai,23:00,00:50,110,0.0, 3237
+Vistara,09/01/2023,Bengaluru,Mumbai,21:35,23:20,105,0.0, 3899
+IndiGo,09/01/2023,Bengaluru,Mumbai,10:15,12:05,110,0.0, 3947
+IndiGo,09/01/2023,Bengaluru,Mumbai,14:45,16:50,125,0.0, 3947
+IndiGo,09/01/2023,Bengaluru,Mumbai,12:20,14:20,120,0.0, 4335
+Air India,09/01/2023,Bengaluru,Mumbai,06:40,08:35,115,0.0, 4398
+Air India,09/01/2023,Bengaluru,Mumbai,09:15,11:30,135,0.0, 4398
+IndiGo,09/01/2023,Bengaluru,Mumbai,18:25,00:20,355,1.0, 4534
+IndiGo,09/01/2023,Bengaluru,Mumbai,17:30,00:20,410,1.0, 4534
+Vistara,09/01/2023,Bengaluru,Mumbai,18:30,20:15,105,0.0, 4671
+Vistara,09/01/2023,Bengaluru,Mumbai,19:00,20:40,100,0.0, 4671
+Vistara,09/01/2023,Bengaluru,Mumbai,19:55,21:40,105,0.0, 4671
+IndiGo,09/01/2023,Bengaluru,Mumbai,17:30,21:55,265,1.0, 4832
+IndiGo,09/01/2023,Bengaluru,Mumbai,04:30,06:20,110,0.0, 5480
+Vistara,09/01/2023,Bengaluru,Mumbai,11:05,13:05,120,0.0, 5616
+AirAsia,09/01/2023,Bengaluru,Mumbai,13:00,02:20,800,1.0, 5783
+IndiGo,09/01/2023,Bengaluru,Mumbai,05:50,07:50,120,0.0, 5800
+SpiceJet,09/01/2023,Bengaluru,Mumbai,20:25,14:20,1075,1.0, 5904
+Vistara,09/01/2023,Bengaluru,Mumbai,09:40,11:25,105,0.0, 6876
+IndiGo,09/01/2023,Bengaluru,Mumbai,07:20,09:10,110,0.0, 7250
+IndiGo,09/01/2023,Bengaluru,Mumbai,05:20,16:05,645,1.0, 7369
+Akasa Air,09/01/2023,Bengaluru,Mumbai,05:30,07:10,100,0.0, 7568
+SpiceJet,09/01/2023,Bengaluru,Mumbai,20:25,06:25,600,1.0, 7837
+Akasa Air,09/01/2023,Bengaluru,Mumbai,07:00,08:35,95,0.0, 7868
+Vistara,09/01/2023,Bengaluru,Mumbai,06:40,08:20,100,0.0, 8451
+Go First,09/01/2023,Bengaluru,Mumbai,08:00,09:40,100,0.0, 8751
+IndiGo,09/01/2023,Bengaluru,Mumbai,08:30,10:15,105,0.0, 8869
+IndiGo,09/01/2023,Bengaluru,Mumbai,06:15,14:25,490,1.0, 9381
+Vistara,09/01/2023,Bengaluru,Mumbai,08:25,10:10,105,0.0, 21019
+Air India,09/01/2023,Bengaluru,New Delhi,19:20,22:20,180,0.0, 5250
+Go First,09/01/2023,Bengaluru,New Delhi,16:40,21:50,310,1.0, 5427
+Go First,09/01/2023,Bengaluru,New Delhi,06:30,21:50,920,1.0, 5427
+Air India,09/01/2023,Bengaluru,New Delhi,21:00,00:10,190,0.0, 5500
+AirAsia,09/01/2023,Bengaluru,New Delhi,15:00,20:45,345,1.0, 5658
+AirAsia,09/01/2023,Bengaluru,New Delhi,18:45,00:35,350,1.0, 5658
+IndiGo,09/01/2023,Bengaluru,New Delhi,22:00,01:00,180,0.0, 5659
+IndiGo,09/01/2023,Bengaluru,New Delhi,06:25,13:45,440,1.0, 5659
+AirAsia,09/01/2023,Bengaluru,New Delhi,22:40,01:25,165,0.0, 5685
+Vistara,09/01/2023,Bengaluru,New Delhi,21:10,23:45,155,0.0, 5763
+IndiGo,09/01/2023,Bengaluru,New Delhi,23:20,02:10,170,0.0, 5869
+AirAsia,09/01/2023,Bengaluru,New Delhi,17:55,20:45,170,0.0, 6058
+AirAsia,09/01/2023,Bengaluru,New Delhi,16:35,01:40,545,1.0, 6163
+IndiGo,09/01/2023,Bengaluru,New Delhi,16:50,19:45,175,0.0, 6197
+IndiGo,09/01/2023,Bengaluru,New Delhi,18:00,20:50,170,0.0, 6197
+IndiGo,09/01/2023,Bengaluru,New Delhi,20:40,23:35,175,0.0, 6499
+SpiceJet,09/01/2023,Bengaluru,New Delhi,23:00,01:45,165,0.0, 6576
+Air India,09/01/2023,Bengaluru,New Delhi,05:45,08:45,180,0.0, 6603
+Air India,09/01/2023,Bengaluru,New Delhi,11:45,14:45,180,0.0, 6603
+Air India,09/01/2023,Bengaluru,New Delhi,13:15,15:55,160,0.0, 6603
+Air India,09/01/2023,Bengaluru,New Delhi,15:00,18:00,180,0.0, 6603
+Air India,09/01/2023,Bengaluru,New Delhi,17:10,20:00,170,0.0, 6603
+AirAsia,09/01/2023,Bengaluru,New Delhi,19:50,22:50,180,0.0, 6603
+IndiGo,09/01/2023,Bengaluru,New Delhi,19:15,22:10,175,0.0, 6617
+Akasa Air,09/01/2023,Bengaluru,New Delhi,15:40,18:25,165,0.0, 6696
+AirAsia,09/01/2023,Bengaluru,New Delhi,05:05,12:40,455,1.0, 7142
+IndiGo,09/01/2023,Bengaluru,New Delhi,15:45,18:35,170,0.0, 7339
+SpiceJet,09/01/2023,Bengaluru,New Delhi,10:25,19:50,565,1.0, 7375
+Vistara,09/01/2023,Bengaluru,New Delhi,18:45,21:25,160,0.0, 7443
+IndiGo,09/01/2023,Bengaluru,New Delhi,05:35,08:25,170,0.0, 7457
+IndiGo,09/01/2023,Bengaluru,New Delhi,08:00,10:55,175,0.0, 7457
+IndiGo,09/01/2023,Bengaluru,New Delhi,13:45,16:45,180,0.0, 7457
+SpiceJet,09/01/2023,Bengaluru,New Delhi,05:55,08:35,160,0.0, 7683
+Go First,09/01/2023,Bengaluru,New Delhi,06:20,09:00,160,0.0, 7700
+IndiGo,09/01/2023,Bengaluru,New Delhi,09:50,12:40,170,0.0, 7818
+Vistara,09/01/2023,Bengaluru,New Delhi,08:00,10:35,155,0.0, 8493
+Air India,09/01/2023,Bengaluru,New Delhi,10:00,12:50,170,0.0, 8493
+Vistara,09/01/2023,Bengaluru,New Delhi,11:30,14:10,160,0.0, 8493
+Vistara,09/01/2023,Bengaluru,New Delhi,17:50,20:30,160,0.0, 8493
+AirAsia,09/01/2023,Bengaluru,New Delhi,12:45,20:05,440,1.0, 8975
+IndiGo,09/01/2023,Bengaluru,New Delhi,04:25,07:15,170,0.0, 9032
+Go First,09/01/2023,Bengaluru,New Delhi,15:40,21:45,365,1.0, 9126
+IndiGo,09/01/2023,Bengaluru,New Delhi,07:00,09:50,170,0.0, 10331
+IndiGo,09/01/2023,Bengaluru,New Delhi,18:50,01:10,380,1.0, 10362
+IndiGo,09/01/2023,Bengaluru,New Delhi,12:00,14:50,170,0.0, 10449
+AirAsia,09/01/2023,Bengaluru,New Delhi,05:45,08:35,170,0.0, 10593
+Vistara,09/01/2023,Bengaluru,New Delhi,07:00,09:40,160,0.0, 10593
+Vistara,09/01/2023,Bengaluru,New Delhi,09:45,12:40,175,0.0, 10593
+AirAsia,09/01/2023,Bengaluru,New Delhi,11:30,14:20,170,0.0, 10593
+Vistara,09/01/2023,Bengaluru,New Delhi,19:40,22:20,160,0.0, 10593
+Air India,09/01/2023,Bengaluru,New Delhi,09:15,15:15,360,1.0, 11328
+SpiceJet,09/01/2023,Bengaluru,New Delhi,18:30,21:15,165,0.0, 11619
+Vistara,09/01/2023,Bengaluru,New Delhi,06:10,10:55,285,1.0, 11636
+Go First,09/01/2023,Mumbai,Goa,22:05,23:25,80,0.0, 2216
+Vistara,09/01/2023,Mumbai,Goa,23:10,00:05,55,0.0, 2405
+Go First,09/01/2023,Mumbai,Goa,16:30,17:45,75,0.0, 2596
+IndiGo,09/01/2023,Mumbai,Goa,21:55,23:10,75,0.0, 2650
+Alliance Air,09/01/2023,Mumbai,Goa,19:00,20:30,90,0.0, 2900
+Go First,09/01/2023,Mumbai,Goa,15:20,16:35,75,0.0, 2946
+SpiceJet,09/01/2023,Mumbai,Goa,01:00,02:20,80,0.0, 2984
+SpiceJet,09/01/2023,Mumbai,Goa,15:05,16:30,85,0.0, 2984
+SpiceJet,09/01/2023,Mumbai,Goa,21:05,22:20,75,0.0, 2984
+SpiceJet,09/01/2023,Mumbai,Goa,22:45,23:55,70,0.0, 2984
+Vistara,09/01/2023,Mumbai,Goa,20:55,22:10,75,0.0, 3738
+Go First,09/01/2023,Mumbai,Goa,05:00,06:10,70,0.0, 3747
+Go First,09/01/2023,Mumbai,Goa,11:30,12:45,75,0.0, 3747
+SpiceJet,09/01/2023,Mumbai,Goa,11:15,12:30,75,0.0, 4034
+IndiGo,09/01/2023,Mumbai,Goa,04:50,06:10,80,0.0, 4053
+AirAsia,09/01/2023,Mumbai,Goa,01:15,02:25,70,0.0, 4578
+AirAsia,09/01/2023,Mumbai,Goa,03:55,05:15,80,0.0, 4578
+Air India,09/01/2023,Mumbai,Goa,13:30,14:45,75,0.0, 4578
+AirAsia,09/01/2023,Mumbai,Goa,23:20,00:30,70,0.0, 4578
+IndiGo,09/01/2023,Mumbai,Goa,14:05,15:25,80,0.0, 5103
+Go First,09/01/2023,Mumbai,Goa,10:05,11:15,70,0.0, 5104
+Air India,09/01/2023,Mumbai,Goa,21:00,22:20,80,0.0, 5208
+IndiGo,09/01/2023,Mumbai,Goa,17:00,18:15,75,0.0, 5628
+AirAsia,09/01/2023,Mumbai,Goa,19:40,05:25,585,1.0, 5672
+IndiGo,09/01/2023,Mumbai,Goa,11:30,12:30,60,0.0, 6363
+IndiGo,09/01/2023,Mumbai,Goa,09:40,10:55,75,0.0, 8253
+Vistara,09/01/2023,Mumbai,Goa,17:55,14:05,1210,1.0, 8390
+Vistara,09/01/2023,Mumbai,Goa,11:25,12:45,80,0.0, 13503
+Vistara,09/01/2023,Mumbai,Goa,12:25,21:20,535,1.0, 13923
+Go First,09/01/2023,Mumbai,Ahmedabad,13:30,14:35,65,0.0, 1899
+Go First,09/01/2023,Mumbai,Ahmedabad,15:15,16:25,70,0.0, 1899
+Go First,09/01/2023,Mumbai,Ahmedabad,22:40,23:50,70,0.0, 1899
+Go First,09/01/2023,Mumbai,Ahmedabad,23:30,00:40,70,0.0, 1899
+Vistara,09/01/2023,Mumbai,Ahmedabad,15:20,16:40,80,0.0, 2020
+Vistara,09/01/2023,Mumbai,Ahmedabad,22:40,23:55,75,0.0, 2335
+Akasa Air,09/01/2023,Mumbai,Ahmedabad,14:10,15:25,75,0.0, 2797
+Akasa Air,09/01/2023,Mumbai,Ahmedabad,05:40,06:55,75,0.0, 2897
+IndiGo,09/01/2023,Mumbai,Ahmedabad,15:40,17:00,80,0.0, 3195
+IndiGo,09/01/2023,Mumbai,Ahmedabad,13:10,14:15,65,0.0, 3350
+IndiGo,09/01/2023,Mumbai,Ahmedabad,18:35,19:50,75,0.0, 7410
+IndiGo,09/01/2023,Mumbai,Ahmedabad,20:25,21:40,75,0.0, 7410
+IndiGo,09/01/2023,Mumbai,Ahmedabad,06:30,07:45,75,0.0, 10879
+Go First,09/01/2023,Mumbai,Ahmedabad,13:40,20:25,405,1.0, 11700
+IndiGo,09/01/2023,Mumbai,Ahmedabad,08:05,09:05,60,0.0, 12699
+Akasa Air,09/01/2023,Mumbai,Ahmedabad,09:50,11:10,80,0.0, 13197
+Vistara,09/01/2023,Mumbai,Ahmedabad,12:25,22:55,630,1.0, 13923
+Air India,09/01/2023,Mumbai,Ahmedabad,18:35,19:55,80,0.0, 16307
+Air India,09/01/2023,Mumbai,Ahmedabad,19:00,06:55,715,1.0, 16412
+SpiceJet,09/01/2023,Mumbai,Tirupati,13:45,15:40,115,0.0, 11174
+Air India,09/01/2023,Mumbai,Tirupati,18:50,13:55,1145,2.0, 11267
+IndiGo,09/01/2023,Mumbai,Tirupati,07:00,11:50,290,1.0, 14562
+IndiGo,09/01/2023,Mumbai,Tirupati,06:10,19:30,800,2.0, 16614
+IndiGo,09/01/2023,Mumbai,Tirupati,00:15,19:30,1155,2.0, 17720
+IndiGo,09/01/2023,Mumbai,Tirupati,06:10,17:10,660,2.0, 17979
+Air India,09/01/2023,Mumbai,Tirupati,19:00,13:55,1135,2.0, 18438
+Air India,09/01/2023,Mumbai,Tirupati,18:00,13:55,1195,2.0, 18438
+IndiGo,09/01/2023,Mumbai,Tirupati,05:25,14:05,520,1.0, 19226
+IndiGo,09/01/2023,Mumbai,Tirupati,05:35,19:30,835,2.0, 19615
+Air India,09/01/2023,Mumbai,Tirupati,13:30,13:55,1465,3.0, 20100
+IndiGo,09/01/2023,Mumbai,Tirupati,00:15,14:05,830,2.0, 20135
+Air India,09/01/2023,Mumbai,Tirupati,21:00,13:55,1015,3.0, 20730
+IndiGo,09/01/2023,Mumbai,Tirupati,20:30,07:30,660,1.0, 21116
+IndiGo,09/01/2023,Mumbai,Tirupati,05:35,14:05,510,2.0, 22030
+IndiGo,09/01/2023,Mumbai,Tirupati,04:50,19:30,880,2.0, 22653
+IndiGo,09/01/2023,Mumbai,Tirupati,04:50,14:05,555,2.0, 25068
+"Vistara, IndiGo",09/01/2023,Mumbai,Tirupati,10:45,19:30,525,1.0, 25435
+Air India,09/01/2023,Mumbai,Tirupati,16:20,13:55,1295,3.0, 26462
+"Vistara, IndiGo",09/01/2023,Mumbai,Tirupati,10:45,17:10,385,1.0, 26800
+AirAsia,09/01/2023,Mumbai,Bengaluru,19:40,21:40,120,0.0, 3600
+AirAsia,09/01/2023,Mumbai,Bengaluru,21:50,23:50,120,0.0, 3600
+Go First,09/01/2023,Mumbai,Bengaluru,19:45,21:25,100,0.0, 2072
+Air India,09/01/2023,Mumbai,Bengaluru,18:50,20:30,100,0.0, 3602
+Akasa Air,09/01/2023,Mumbai,Bengaluru,22:20,00:05,105,0.0, 3799
+Akasa Air,09/01/2023,Mumbai,Bengaluru,13:00,14:30,90,0.0, 4002
+IndiGo,09/01/2023,Mumbai,Bengaluru,18:50,20:40,110,0.0, 4190
+IndiGo,09/01/2023,Mumbai,Bengaluru,23:10,00:45,95,0.0, 4190
+AirAsia,09/01/2023,Mumbai,Bengaluru,20:35,22:15,100,0.0, 4195
+AirAsia,09/01/2023,Mumbai,Bengaluru,23:20,07:05,465,1.0, 4277
+Go First,09/01/2023,Mumbai,Bengaluru,22:15,23:55,100,0.0, 4352
+Akasa Air,09/01/2023,Mumbai,Bengaluru,20:25,22:05,100,0.0, 4402
+IndiGo,09/01/2023,Mumbai,Bengaluru,16:45,18:40,115,0.0, 5025
+IndiGo,09/01/2023,Mumbai,Bengaluru,20:35,22:25,110,0.0, 5025
+Akasa Air,09/01/2023,Mumbai,Bengaluru,00:05,01:45,100,0.0, 5052
+Vistara,09/01/2023,Mumbai,Bengaluru,17:30,19:15,105,0.0, 5345
+Vistara,09/01/2023,Mumbai,Bengaluru,17:55,19:15,80,0.0, 5345
+IndiGo,09/01/2023,Mumbai,Bengaluru,00:15,02:00,105,0.0, 6206
+Akasa Air,09/01/2023,Mumbai,Bengaluru,14:15,15:45,90,0.0, 6206
+Go First,09/01/2023,Mumbai,Bengaluru,18:50,08:40,830,1.0, 6312
+IndiGo,09/01/2023,Mumbai,Bengaluru,15:00,16:35,95,0.0, 6595
+Vistara,09/01/2023,Mumbai,Bengaluru,06:00,07:45,105,0.0, 6605
+Vistara,09/01/2023,Mumbai,Bengaluru,19:10,20:55,105,0.0, 6605
+Vistara,09/01/2023,Mumbai,Bengaluru,23:10,15:55,1005,1.0, 6815
+IndiGo,09/01/2023,Mumbai,Bengaluru,12:15,13:45,90,0.0, 7860
+IndiGo,09/01/2023,Mumbai,Bengaluru,17:10,23:05,355,1.0, 8103
+Vistara,09/01/2023,Mumbai,Bengaluru,16:00,17:45,105,0.0, 8180
+Vistara,09/01/2023,Mumbai,Bengaluru,21:30,22:50,80,0.0, 8180
+IndiGo,09/01/2023,Mumbai,Bengaluru,15:35,20:15,280,1.0, 9758
+Air India,09/01/2023,Mumbai,Bengaluru,06:45,08:30,105,0.0, 13892
+Air India,09/01/2023,Mumbai,Bengaluru,16:35,22:40,365,1.0, 14102
+IndiGo,09/01/2023,Mumbai,Bengaluru,07:00,08:35,95,0.0, 16991
+IndiGo,09/01/2023,Mumbai,Bengaluru,07:40,09:35,115,0.0, 16991
+IndiGo,09/01/2023,Mumbai,Bengaluru,09:50,11:30,100,0.0, 16991
+Akasa Air,09/01/2023,Mumbai,Bengaluru,09:20,11:05,105,0.0, 17447
+Vistara,09/01/2023,Mumbai,Bengaluru,07:00,08:45,105,0.0, 20748
+Vistara,09/01/2023,Mumbai,Bengaluru,09:05,10:50,105,0.0, 20748
+Go First,09/01/2023,Mumbai,New Delhi,20:15,22:25,130,0.0, 5395
+Go First,09/01/2023,Mumbai,New Delhi,21:15,23:30,135,0.0, 5395
+Go First,09/01/2023,Mumbai,New Delhi,23:45,02:00,135,0.0, 5395
+Vistara,09/01/2023,Mumbai,New Delhi,22:40,07:55,555,1.0, 5800
+Akasa Air,09/01/2023,Mumbai,New Delhi,13:25,15:30,125,0.0, 5823
+AirAsia,09/01/2023,Mumbai,New Delhi,07:35,14:30,415,1.0, 5855
+IndiGo,09/01/2023,Mumbai,New Delhi,23:15,01:40,145,0.0, 5899
+SpiceJet,09/01/2023,Mumbai,New Delhi,23:00,01:15,135,0.0, 5938
+AirAsia,09/01/2023,Mumbai,New Delhi,15:15,23:05,470,1.0, 6120
+SpiceJet,09/01/2023,Mumbai,New Delhi,21:45,23:40,115,0.0, 6206
+Go First,09/01/2023,Mumbai,New Delhi,10:40,18:15,455,1.0, 6863
+IndiGo,09/01/2023,Mumbai,New Delhi,02:30,04:45,135,0.0, 7308
+IndiGo,09/01/2023,Mumbai,New Delhi,05:00,07:15,135,0.0, 7308
+Vistara,09/01/2023,Mumbai,New Delhi,06:00,07:55,115,0.0, 7308
+IndiGo,09/01/2023,Mumbai,New Delhi,06:05,08:20,135,0.0, 7308
+Vistara,09/01/2023,Mumbai,New Delhi,06:30,08:35,125,0.0, 7308
+IndiGo,09/01/2023,Mumbai,New Delhi,09:30,11:45,135,0.0, 7308
+IndiGo,09/01/2023,Mumbai,New Delhi,10:25,12:40,135,0.0, 7308
+Vistara,09/01/2023,Mumbai,New Delhi,11:55,14:05,130,0.0, 7308
+IndiGo,09/01/2023,Mumbai,New Delhi,12:05,14:15,130,0.0, 7308
+Vistara,09/01/2023,Mumbai,New Delhi,12:25,14:45,140,0.0, 7308
+IndiGo,09/01/2023,Mumbai,New Delhi,12:40,15:00,140,0.0, 7308
+IndiGo,09/01/2023,Mumbai,New Delhi,14:35,16:45,130,0.0, 7308
+Air India,09/01/2023,Mumbai,New Delhi,15:30,17:55,145,0.0, 7308
+IndiGo,09/01/2023,Mumbai,New Delhi,15:45,17:35,110,0.0, 7308
+Air India,09/01/2023,Mumbai,New Delhi,16:35,18:40,125,0.0, 7308
+IndiGo,09/01/2023,Mumbai,New Delhi,17:15,19:30,135,0.0, 7308
+Air India,09/01/2023,Mumbai,New Delhi,18:00,20:20,140,0.0, 7308
+IndiGo,09/01/2023,Mumbai,New Delhi,18:45,21:00,135,0.0, 7308
+Air India,09/01/2023,Mumbai,New Delhi,19:00,21:20,140,0.0, 7308
+IndiGo,09/01/2023,Mumbai,New Delhi,20:00,22:15,135,0.0, 7308
+IndiGo,09/01/2023,Mumbai,New Delhi,22:15,00:40,145,0.0, 7308
+SpiceJet,09/01/2023,Mumbai,New Delhi,06:10,10:30,260,1.0, 7467
+Air India,09/01/2023,Mumbai,New Delhi,16:40,22:20,340,1.0, 7678
+IndiGo,09/01/2023,Mumbai,New Delhi,08:30,10:45,135,0.0, 7833
+SpiceJet,09/01/2023,Mumbai,New Delhi,07:10,09:30,140,0.0, 8075
+AirAsia,09/01/2023,Mumbai,New Delhi,19:40,01:25,345,1.0, 8557
+AirAsia,09/01/2023,Mumbai,New Delhi,21:50,08:35,645,1.0, 8557
+Vistara,09/01/2023,Mumbai,New Delhi,14:40,16:55,135,0.0, 8568
+Vistara,09/01/2023,Mumbai,New Delhi,15:45,18:05,140,0.0, 8568
+Go First,09/01/2023,Mumbai,New Delhi,19:10,21:20,130,0.0, 8778
+IndiGo,09/01/2023,Mumbai,New Delhi,07:00,09:15,135,0.0, 8883
+Vistara,09/01/2023,Mumbai,New Delhi,10:30,14:40,250,1.0, 8988
+Air India,09/01/2023,Mumbai,New Delhi,07:00,09:15,135,0.0, 10143
+Vistara,09/01/2023,Mumbai,New Delhi,08:45,11:00,135,0.0, 10143
+Vistara,09/01/2023,Mumbai,New Delhi,10:20,12:40,140,0.0, 10143
+Vistara,09/01/2023,Mumbai,New Delhi,15:20,22:00,400,1.0, 10210
+IndiGo,09/01/2023,Mumbai,New Delhi,07:45,10:00,135,0.0, 11508
+Go First,09/01/2023,Mumbai,New Delhi,22:05,03:00,295,1.0, 12949
+Vistara,09/01/2023,Mumbai,New Delhi,12:10,16:30,260,1.0, 13575
+Vistara,09/01/2023,Mumbai,New Delhi,20:55,23:00,125,0.0, 13818
+Go First,09/01/2023,Mumbai,New Delhi,15:20,20:20,300,1.0, 13893
+Air India,09/01/2023,Mumbai,New Delhi,12:15,17:25,310,1.0, 14198
+Vistara,09/01/2023,Mumbai,New Delhi,07:30,09:40,130,0.0, 15834
+Vistara,09/01/2023,Mumbai,New Delhi,18:30,20:40,130,0.0, 19068
+SpiceJet,09/01/2023,Mumbai,New Delhi,10:05,12:20,135,0.0, 19625
+Vistara,09/01/2023,Mumbai,New Delhi,19:45,21:55,130,0.0, 22743
+Vistara,09/01/2023,Mumbai,New Delhi,21:55,00:10,135,0.0, 27332
+Go First,09/01/2023,New Delhi,Goa,21:30,00:05,155,0.0, 5202
+IndiGo,09/01/2023,New Delhi,Goa,19:10,21:55,165,0.0, 5219
+IndiGo,09/01/2023,New Delhi,Goa,20:25,22:50,145,0.0, 5219
+IndiGo,09/01/2023,New Delhi,Goa,17:40,20:20,160,0.0, 6007
+SpiceJet,09/01/2023,New Delhi,Goa,20:00,22:20,1580,1.0, 6317
+SpiceJet,09/01/2023,New Delhi,Goa,17:45,20:25,160,0.0, 6374
+SpiceJet,09/01/2023,New Delhi,Goa,18:50,23:55,305,1.0, 6572
+SpiceJet,09/01/2023,New Delhi,Goa,20:00,12:30,990,1.0, 6572
+SpiceJet,09/01/2023,New Delhi,Goa,16:50,19:15,145,0.0, 6690
+Vistara,09/01/2023,New Delhi,Goa,18:40,21:20,160,0.0, 7005
+Air India,09/01/2023,New Delhi,Goa,22:00,00:40,160,0.0, 7005
+Go First,09/01/2023,New Delhi,Goa,22:30,06:10,460,1.0, 7050
+AirAsia,09/01/2023,New Delhi,Goa,04:35,07:25,170,0.0, 8159
+AirAsia,09/01/2023,New Delhi,Goa,12:45,15:25,160,0.0, 8159
+IndiGo,09/01/2023,New Delhi,Goa,16:25,19:05,160,0.0, 8159
+AirAsia,09/01/2023,New Delhi,Goa,20:00,22:35,155,0.0, 8159
+AirAsia,09/01/2023,New Delhi,Goa,13:15,17:35,260,1.0, 8159
+Go First,09/01/2023,New Delhi,Goa,10:45,13:30,165,0.0, 8895
+IndiGo,09/01/2023,New Delhi,Goa,10:55,13:40,165,0.0, 8900
+IndiGo,09/01/2023,New Delhi,Goa,12:05,14:40,155,0.0, 8900
+IndiGo,09/01/2023,New Delhi,Goa,15:35,20:45,310,1.0, 9377
+IndiGo,09/01/2023,New Delhi,Goa,09:55,12:35,160,0.0, 9400
+"Go First, SpiceJet",09/01/2023,New Delhi,Goa,06:00,12:30,390,1.0, 9443
+Vistara,09/01/2023,New Delhi,Goa,11:10,13:50,160,0.0, 9630
+"IndiGo, Go First",09/01/2023,New Delhi,Goa,06:30,12:45,375,1.0, 9646
+Air India,09/01/2023,New Delhi,Goa,10:55,13:25,150,0.0, 11310
+IndiGo,09/01/2023,New Delhi,Goa,08:10,12:30,260,1.0, 11813
+SpiceJet,09/01/2023,New Delhi,Goa,12:15,14:50,155,0.0, 14144
+IndiGo,09/01/2023,New Delhi,Goa,07:25,10:05,160,0.0, 16034
+IndiGo,09/01/2023,New Delhi,Ahmedabad,23:40,01:25,105,0.0, 4863
+IndiGo,09/01/2023,New Delhi,Ahmedabad,22:00,23:35,95,0.0, 4952
+Go First,09/01/2023,New Delhi,Ahmedabad,22:00,23:35,95,0.0, 4239
+Go First,09/01/2023,New Delhi,Ahmedabad,22:00,23:35,95,0.0, 5221
+SpiceJet,09/01/2023,New Delhi,Ahmedabad,20:10,07:40,690,1.0, 5253
+SpiceJet,09/01/2023,New Delhi,Ahmedabad,20:30,22:10,100,0.0, 5574
+IndiGo,09/01/2023,New Delhi,Ahmedabad,05:00,06:35,95,0.0, 5997
+IndiGo,09/01/2023,New Delhi,Ahmedabad,20:20,21:55,95,0.0, 6553
+Vistara,09/01/2023,New Delhi,Ahmedabad,21:20,22:55,95,0.0, 7005
+IndiGo,09/01/2023,New Delhi,Ahmedabad,21:30,07:25,595,1.0, 7688
+IndiGo,09/01/2023,New Delhi,Ahmedabad,18:40,20:15,95,0.0, 7852
+Go First,09/01/2023,New Delhi,Ahmedabad,17:30,19:05,95,0.0, 8139
+Akasa Air,09/01/2023,New Delhi,Ahmedabad,19:10,20:55,105,0.0, 8239
+Vistara,09/01/2023,New Delhi,Ahmedabad,18:00,19:45,105,0.0, 8265
+Vistara,09/01/2023,New Delhi,Ahmedabad,11:40,16:40,300,1.0, 8962
+Go First,09/01/2023,New Delhi,Ahmedabad,06:00,07:35,95,0.0, 8991
+Vistara,09/01/2023,New Delhi,Ahmedabad,15:30,23:55,505,1.0, 9277
+SpiceJet,09/01/2023,New Delhi,Ahmedabad,08:30,10:20,110,0.0, 10930
+IndiGo,09/01/2023,New Delhi,Ahmedabad,14:30,22:45,495,1.0, 11418
+Air India,09/01/2023,New Delhi,Ahmedabad,04:55,06:55,120,0.0, 11835
+Vistara,09/01/2023,New Delhi,Ahmedabad,19:00,23:55,295,1.0, 12112
+Air India,09/01/2023,New Delhi,Ahmedabad,19:10,20:50,100,0.0, 13935
+IndiGo,09/01/2023,New Delhi,Ahmedabad,06:55,12:30,335,1.0, 15328
+Alliance Air,09/01/2023,New Delhi,Ahmedabad,14:15,17:20,185,1.0, 16245
+IndiGo,09/01/2023,New Delhi,Ahmedabad,06:20,08:05,105,0.0, 17294
+IndiGo,09/01/2023,New Delhi,Ahmedabad,09:40,11:25,105,0.0, 18052
+Vistara,09/01/2023,New Delhi,Ahmedabad,13:25,15:00,95,0.0, 22264
+IndiGo,09/01/2023,New Delhi,Tirupati,05:55,11:50,355,1.0, 8245
+IndiGo,09/01/2023,New Delhi,Tirupati,19:45,07:30,705,1.0, 8245
+IndiGo,09/01/2023,New Delhi,Tirupati,04:20,11:50,450,1.0, 8766
+SpiceJet,09/01/2023,New Delhi,Tirupati,14:00,07:20,1040,1.0, 9946
+SpiceJet,09/01/2023,New Delhi,Tirupati,12:45,14:00,1515,1.0, 10980
+IndiGo,09/01/2023,New Delhi,Tirupati,22:55,10:55,720,1.0, 11478
+IndiGo,09/01/2023,New Delhi,Tirupati,21:25,07:30,605,1.0, 11782
+SpiceJet,09/01/2023,New Delhi,Tirupati,20:00,15:40,1180,1.0, 11838
+SpiceJet,09/01/2023,New Delhi,Tirupati,18:50,15:40,1250,1.0, 11838
+IndiGo,09/01/2023,New Delhi,Tirupati,06:10,12:10,360,1.0, 12552
+SpiceJet,09/01/2023,New Delhi,Tirupati,09:20,20:00,640,1.0, 13355
+IndiGo,09/01/2023,New Delhi,Tirupati,09:55,19:30,575,1.0, 14197
+"SpiceJet, IndiGo",09/01/2023,New Delhi,Tirupati,14:00,19:30,330,1.0, 14736
+SpiceJet,09/01/2023,New Delhi,Tirupati,07:00,15:40,520,1.0, 15094
+IndiGo,09/01/2023,New Delhi,Tirupati,09:55,17:10,435,1.0, 15562
+"Air India, IndiGo",09/01/2023,New Delhi,Tirupati,09:45,17:10,445,1.0, 16102
+"Vistara, IndiGo",09/01/2023,New Delhi,Tirupati,10:20,17:10,410,1.0, 16417
+IndiGo,09/01/2023,New Delhi,Tirupati,01:55,07:30,335,1.0, 17242
+IndiGo,09/01/2023,New Delhi,Tirupati,06:30,17:10,640,1.0, 17347
+IndiGo,09/01/2023,New Delhi,Tirupati,13:40,19:30,350,1.0, 17662
+IndiGo,09/01/2023,New Delhi,Tirupati,08:10,19:30,680,1.0, 17662
+IndiGo,09/01/2023,New Delhi,Tirupati,06:30,14:05,455,1.0, 18397
+IndiGo,09/01/2023,New Delhi,Tirupati,08:10,17:10,540,1.0, 19027
+IndiGo,09/01/2023,New Delhi,Tirupati,08:10,14:05,355,1.0, 20077
+IndiGo,09/01/2023,New Delhi,Tirupati,09:55,14:05,250,1.0, 22975
+Go First,09/01/2023,New Delhi,Bengaluru,22:05,10:10,725,1.0, 5229
+Air India,09/01/2023,New Delhi,Bengaluru,21:10,00:05,175,0.0, 6344
+AirAsia,09/01/2023,New Delhi,Bengaluru,05:45,12:25,400,1.0, 6737
+Vistara,09/01/2023,New Delhi,Bengaluru,05:35,08:20,165,0.0, 7184
+Air India,09/01/2023,New Delhi,Bengaluru,13:30,16:25,175,0.0, 7184
+Air India,09/01/2023,New Delhi,Bengaluru,16:55,20:15,200,0.0, 7184
+Air India,09/01/2023,New Delhi,Bengaluru,19:25,22:40,195,0.0, 7184
+IndiGo,09/01/2023,New Delhi,Bengaluru,20:30,01:40,310,1.0, 7487
+SpiceJet,09/01/2023,New Delhi,Bengaluru,19:35,22:20,165,0.0, 7754
+SpiceJet,09/01/2023,New Delhi,Bengaluru,22:00,00:45,165,0.0, 7754
+IndiGo,09/01/2023,New Delhi,Bengaluru,04:20,07:15,175,0.0, 7919
+IndiGo,09/01/2023,New Delhi,Bengaluru,20:30,23:25,175,0.0, 7919
+IndiGo,09/01/2023,New Delhi,Bengaluru,22:55,01:45,170,0.0, 7919
+SpiceJet,09/01/2023,New Delhi,Bengaluru,09:20,17:05,465,1.0, 7925
+AirAsia,09/01/2023,New Delhi,Bengaluru,19:05,21:45,160,0.0, 8025
+AirAsia,09/01/2023,New Delhi,Bengaluru,21:20,00:25,185,0.0, 8025
+Air India,09/01/2023,New Delhi,Bengaluru,06:10,08:55,165,0.0, 8234
+Air India,09/01/2023,New Delhi,Bengaluru,08:00,10:55,175,0.0, 8234
+Air India,09/01/2023,New Delhi,Bengaluru,15:35,18:30,175,0.0, 8234
+"IndiGo, AirAsia",09/01/2023,New Delhi,Bengaluru,17:15,23:00,345,1.0, 8351
+SpiceJet,09/01/2023,New Delhi,Bengaluru,06:20,09:10,170,0.0, 8445
+IndiGo,09/01/2023,New Delhi,Bengaluru,15:55,23:05,430,1.0, 8566
+IndiGo,09/01/2023,New Delhi,Bengaluru,09:15,12:05,170,0.0, 8580
+IndiGo,09/01/2023,New Delhi,Bengaluru,21:45,00:35,170,0.0, 8580
+"IndiGo, AirAsia",09/01/2023,New Delhi,Bengaluru,07:10,13:50,400,1.0, 8666
+AirAsia,09/01/2023,New Delhi,Bengaluru,09:30,12:15,165,0.0, 9000
+AirAsia,09/01/2023,New Delhi,Bengaluru,16:30,19:20,170,0.0, 9000
+IndiGo,09/01/2023,New Delhi,Bengaluru,21:10,02:20,310,1.0, 9020
+Vistara,09/01/2023,New Delhi,Bengaluru,09:05,11:50,165,0.0, 9284
+Vistara,09/01/2023,New Delhi,Bengaluru,16:05,18:50,165,0.0, 9284
+Vistara,09/01/2023,New Delhi,Bengaluru,17:30,20:25,175,0.0, 9284
+Vistara,09/01/2023,New Delhi,Bengaluru,19:55,22:40,165,0.0, 9284
+Vistara,09/01/2023,New Delhi,Bengaluru,20:40,23:20,160,0.0, 9284
+IndiGo,09/01/2023,New Delhi,Bengaluru,18:40,00:05,325,1.0, 9664
+IndiGo,09/01/2023,New Delhi,Bengaluru,19:20,22:05,165,0.0, 10320
+Vistara,09/01/2023,New Delhi,Bengaluru,08:10,10:45,155,0.0, 10334
+Air India,09/01/2023,New Delhi,Bengaluru,09:45,12:30,165,0.0, 10334
+AirAsia,09/01/2023,New Delhi,Bengaluru,08:10,10:55,165,0.0, 10501
+"Air India, AirAsia",09/01/2023,New Delhi,Bengaluru,16:50,22:10,320,1.0, 10519
+Vistara,09/01/2023,New Delhi,Bengaluru,17:35,21:30,235,1.0, 10680
+IndiGo,09/01/2023,New Delhi,Bengaluru,07:00,09:50,170,0.0, 11520
+IndiGo,09/01/2023,New Delhi,Bengaluru,07:55,11:05,190,0.0, 11520
+Go First,09/01/2023,New Delhi,Bengaluru,05:45,08:35,170,0.0, 11702
+Go First,09/01/2023,New Delhi,Bengaluru,10:45,15:10,265,1.0, 11783
+IndiGo,09/01/2023,New Delhi,Bengaluru,15:40,18:30,170,0.0, 12640
+IndiGo,09/01/2023,New Delhi,Bengaluru,17:25,20:05,160,0.0, 12640
+IndiGo,09/01/2023,New Delhi,Bengaluru,05:55,08:45,170,0.0, 13500
+Akasa Air,09/01/2023,New Delhi,Bengaluru,11:50,14:35,165,0.0, 14127
+IndiGo,09/01/2023,New Delhi,Bengaluru,10:40,13:30,170,0.0, 14499
+IndiGo,09/01/2023,New Delhi,Bengaluru,12:15,15:05,170,0.0, 14499
+IndiGo,09/01/2023,New Delhi,Bengaluru,13:05,15:55,170,0.0, 14499
+Vistara,09/01/2023,New Delhi,Bengaluru,14:10,17:00,170,0.0, 15584
+SpiceJet,09/01/2023,New Delhi,Mumbai,20:10,10:30,860,1.0, 4841
+AirAsia,09/01/2023,New Delhi,Mumbai,04:55,19:35,880,1.0, 5383
+Go First,09/01/2023,New Delhi,Mumbai,02:40,04:50,130,0.0, 5409
+Go First,09/01/2023,New Delhi,Mumbai,06:00,08:10,130,0.0, 5409
+Go First,09/01/2023,New Delhi,Mumbai,07:20,09:30,130,0.0, 5409
+Go First,09/01/2023,New Delhi,Mumbai,22:30,00:40,130,0.0, 5409
+IndiGo,09/01/2023,New Delhi,Mumbai,02:00,04:15,135,0.0, 5899
+IndiGo,09/01/2023,New Delhi,Mumbai,04:45,07:10,145,0.0, 5899
+IndiGo,09/01/2023,New Delhi,Mumbai,06:30,08:45,135,0.0, 5899
+IndiGo,09/01/2023,New Delhi,Mumbai,23:00,01:20,140,0.0, 5899
+AirAsia,09/01/2023,New Delhi,Mumbai,04:55,13:05,490,1.0, 5949
+SpiceJet,09/01/2023,New Delhi,Mumbai,18:50,20:55,125,0.0, 5952
+SpiceJet,09/01/2023,New Delhi,Mumbai,20:00,22:05,125,0.0, 5952
+Air India,09/01/2023,New Delhi,Mumbai,07:00,09:15,135,0.0, 5955
+Air India,09/01/2023,New Delhi,Mumbai,08:00,10:20,140,0.0, 5955
+Air India,09/01/2023,New Delhi,Mumbai,09:00,11:20,140,0.0, 5955
+Air India,09/01/2023,New Delhi,Mumbai,10:00,12:25,145,0.0, 5955
+Air India,09/01/2023,New Delhi,Mumbai,20:00,22:10,130,0.0, 5955
+SpiceJet,09/01/2023,New Delhi,Mumbai,07:00,09:15,135,0.0, 6215
+Go First,09/01/2023,New Delhi,Mumbai,20:00,22:10,130,0.0, 6502
+IndiGo,09/01/2023,New Delhi,Mumbai,22:45,07:25,520,1.0, 6600
+Akasa Air,09/01/2023,New Delhi,Mumbai,16:10,18:20,130,0.0, 7318
+IndiGo,09/01/2023,New Delhi,Mumbai,07:15,09:40,145,0.0, 7319
+IndiGo,09/01/2023,New Delhi,Mumbai,08:10,10:05,115,0.0, 7319
+IndiGo,09/01/2023,New Delhi,Mumbai,11:00,13:20,140,0.0, 7319
+IndiGo,09/01/2023,New Delhi,Mumbai,12:00,14:20,140,0.0, 7319
+IndiGo,09/01/2023,New Delhi,Mumbai,14:15,16:30,135,0.0, 7319
+IndiGo,09/01/2023,New Delhi,Mumbai,15:45,18:00,135,0.0, 7319
+IndiGo,09/01/2023,New Delhi,Mumbai,16:25,18:40,135,0.0, 7319
+IndiGo,09/01/2023,New Delhi,Mumbai,17:25,19:40,135,0.0, 7319
+IndiGo,09/01/2023,New Delhi,Mumbai,19:20,21:30,130,0.0, 7319
+IndiGo,09/01/2023,New Delhi,Mumbai,20:20,22:35,135,0.0, 7319
+IndiGo,09/01/2023,New Delhi,Mumbai,21:45,00:00,135,0.0, 7319
+IndiGo,09/01/2023,New Delhi,Mumbai,06:55,16:05,550,1.0, 7319
+AirAsia,09/01/2023,New Delhi,Mumbai,20:00,02:20,380,1.0, 7319
+Vistara,09/01/2023,New Delhi,Mumbai,05:45,08:00,135,0.0, 7320
+Vistara,09/01/2023,New Delhi,Mumbai,09:30,11:35,125,0.0, 7320
+Vistara,09/01/2023,New Delhi,Mumbai,11:40,13:55,135,0.0, 7320
+Vistara,09/01/2023,New Delhi,Mumbai,12:50,15:00,130,0.0, 7320
+Air India,09/01/2023,New Delhi,Mumbai,14:00,16:20,140,0.0, 7320
+Vistara,09/01/2023,New Delhi,Mumbai,14:20,16:30,130,0.0, 7320
+Vistara,09/01/2023,New Delhi,Mumbai,15:30,17:35,125,0.0, 7320
+Air India,09/01/2023,New Delhi,Mumbai,17:50,20:15,145,0.0, 7320
+Air India,09/01/2023,New Delhi,Mumbai,19:00,21:25,145,0.0, 7320
+Air India,09/01/2023,New Delhi,Mumbai,21:20,23:35,135,0.0, 7320
+Vistara,09/01/2023,New Delhi,Mumbai,21:40,23:40,120,0.0, 7320
+Air India,09/01/2023,New Delhi,Mumbai,22:30,00:45,135,0.0, 7320
+Go First,09/01/2023,New Delhi,Mumbai,14:35,16:45,130,0.0, 7321
+Go First,09/01/2023,New Delhi,Mumbai,18:00,20:10,130,0.0, 7321
+IndiGo,09/01/2023,New Delhi,Mumbai,10:00,12:35,155,0.0, 7844
+IndiGo,09/01/2023,New Delhi,Mumbai,08:45,11:10,145,0.0, 8159
+Vistara,09/01/2023,New Delhi,Mumbai,10:20,12:35,135,0.0, 8580
+Vistara,09/01/2023,New Delhi,Mumbai,17:45,19:55,130,0.0, 8580
+Air India,09/01/2023,New Delhi,Mumbai,13:15,18:05,290,1.0, 8580
+Vistara,09/01/2023,New Delhi,Mumbai,07:30,09:40,130,0.0, 10155
+Vistara,09/01/2023,New Delhi,Mumbai,16:35,19:05,150,0.0, 10155
+Vistara,09/01/2023,New Delhi,Mumbai,19:00,21:15,135,0.0, 10155
+AirAsia,09/01/2023,New Delhi,Mumbai,19:05,00:40,335,1.0, 10342
+Vistara,09/01/2023,New Delhi,Mumbai,09:00,11:10,130,0.0, 11730
+IndiGo,09/01/2023,New Delhi,Mumbai,05:00,10:05,305,1.0, 11909
+Go First,09/01/2023,New Delhi,Mumbai,17:30,21:25,235,1.0, 12997
+Vistara,09/01/2023,New Delhi,Mumbai,20:55,22:55,120,0.0, 13830
+IndiGo,10/01/2023,Goa,Ahmedabad,08:55,10:35,100,0.0, 5335
+SpiceJet,10/01/2023,Goa,Ahmedabad,01:20,02:55,95,0.0, 5419
+Vistara,10/01/2023,Goa,Ahmedabad,00:40,16:40,960,1.0, 6101
+IndiGo,10/01/2023,Goa,Ahmedabad,14:35,16:20,105,0.0, 9289
+IndiGo,10/01/2023,Goa,Ahmedabad,23:15,01:00,105,0.0, 9394
+Air India,10/01/2023,Goa,Ahmedabad,15:25,19:55,270,1.0, 9618
+Go First,10/01/2023,Goa,Ahmedabad,21:05,22:40,95,0.0, 10445
+Go First,10/01/2023,Goa,Ahmedabad,14:50,20:35,345,1.0, 11072
+IndiGo,10/01/2023,Goa,Ahmedabad,09:55,15:00,305,1.0, 11271
+IndiGo,10/01/2023,Goa,Tirupati,00:50,07:30,400,1.0, 7357
+"IndiGo, Air India",10/01/2023,Goa,Tirupati,08:45,13:55,310,1.0, 9088
+"IndiGo, Air India",10/01/2023,Goa,Tirupati,07:35,13:55,380,1.0, 9462
+IndiGo,10/01/2023,Goa,Tirupati,08:45,19:30,645,1.0, 9598
+"SpiceJet, Air India",10/01/2023,Goa,Tirupati,07:30,13:55,385,1.0, 9620
+IndiGo,10/01/2023,Goa,Tirupati,08:45,14:05,320,1.0, 9913
+IndiGo,10/01/2023,Goa,Tirupati,22:05,07:30,565,1.0, 9928
+"Go First, IndiGo",10/01/2023,Goa,Tirupati,10:35,19:30,535,1.0, 10002
+SpiceJet,10/01/2023,Goa,Tirupati,07:30,19:40,730,1.0, 10025
+IndiGo,10/01/2023,Goa,Tirupati,08:45,17:10,505,1.0, 10228
+Air India,10/01/2023,Goa,Tirupati,23:10,13:55,885,2.0, 10237
+IndiGo,10/01/2023,Goa,Tirupati,07:35,14:05,390,1.0, 10287
+"IndiGo, SpiceJet",10/01/2023,Goa,Tirupati,00:50,07:20,390,1.0, 10406
+IndiGo,10/01/2023,Goa,Tirupati,13:00,19:30,390,1.0, 10543
+IndiGo,10/01/2023,Goa,Tirupati,07:35,17:10,575,1.0, 10602
+"Go First, IndiGo",10/01/2023,Goa,Tirupati,10:35,17:10,395,1.0, 10632
+"AirAsia, IndiGo",10/01/2023,Goa,Tirupati,05:55,10:55,300,1.0, 10644
+IndiGo,10/01/2023,Goa,Tirupati,14:25,19:30,305,1.0, 10716
+"Alliance Air, IndiGo",10/01/2023,Goa,Tirupati,00:25,10:55,630,1.0, 10749
+IndiGo,10/01/2023,Goa,Tirupati,13:00,17:10,250,1.0, 11173
+"Alliance Air, IndiGo",10/01/2023,Goa,Tirupati,13:15,19:30,375,1.0, 11456
+"AirAsia, IndiGo",10/01/2023,Goa,Tirupati,07:15,19:30,735,2.0, 11642
+SpiceJet,10/01/2023,Goa,Tirupati,07:30,07:20,1430,1.0, 11863
+Air India,10/01/2023,Goa,Tirupati,01:15,13:55,760,2.0, 12736
+Air India,10/01/2023,Goa,Tirupati,15:25,13:55,1350,3.0, 21994
+Go First,10/01/2023,Goa,Bengaluru,14:50,16:05,75,0.0, 4337
+AirAsia,10/01/2023,Goa,Bengaluru,05:55,07:05,70,0.0, 4879
+Akasa Air,10/01/2023,Goa,Bengaluru,22:25,23:30,65,0.0, 2774
+AirAsia,10/01/2023,Goa,Bengaluru,07:15,08:20,65,0.0, 4879
+Go First,10/01/2023,Goa,Bengaluru,14:00,15:10,70,0.0, 4881
+Alliance Air,10/01/2023,Goa,Bengaluru,00:25,01:50,85,0.0, 4984
+Vistara,10/01/2023,Goa,Bengaluru,14:40,15:55,75,0.0, 5089
+IndiGo,10/01/2023,Goa,Bengaluru,08:05,09:25,80,0.0, 5404
+IndiGo,10/01/2023,Goa,Bengaluru,23:40,00:55,75,0.0, 5404
+AirAsia,10/01/2023,Goa,Bengaluru,14:45,16:00,75,0.0, 6139
+"Vistara, Akasa Air",10/01/2023,Goa,Bengaluru,00:40,14:30,830,1.0, 6830
+IndiGo,10/01/2023,Goa,Bengaluru,21:40,23:00,80,0.0, 8432
+IndiGo,10/01/2023,Goa,Bengaluru,15:05,16:15,70,0.0, 8554
+IndiGo,10/01/2023,Goa,Bengaluru,11:25,16:35,310,1.0, 8798
+IndiGo,10/01/2023,Goa,Bengaluru,12:05,13:30,85,0.0, 8957
+AirAsia,10/01/2023,Goa,Bengaluru,19:15,23:15,240,1.0, 9102
+Vistara,10/01/2023,Goa,Mumbai,00:40,02:00,80,0.0, 3231
+IndiGo,10/01/2023,Goa,Mumbai,23:45,01:00,75,0.0, 3619
+SpiceJet,10/01/2023,Goa,Mumbai,22:50,23:50,60,0.0, 3840
+Alliance Air,10/01/2023,Goa,Mumbai,21:00,22:30,90,0.0, 4249
+SpiceJet,10/01/2023,Goa,Mumbai,05:10,06:25,75,0.0, 4784
+SpiceJet,10/01/2023,Goa,Mumbai,13:05,14:20,75,0.0, 4784
+SpiceJet,10/01/2023,Goa,Mumbai,13:15,14:35,80,0.0, 4784
+AirAsia,10/01/2023,Goa,Mumbai,01:00,02:20,80,0.0, 4879
+AirAsia,10/01/2023,Goa,Mumbai,02:55,04:00,65,0.0, 4879
+AirAsia,10/01/2023,Goa,Mumbai,05:45,06:55,70,0.0, 4879
+Air India,10/01/2023,Goa,Mumbai,06:50,08:10,80,0.0, 4879
+Air India,10/01/2023,Goa,Mumbai,23:10,00:20,70,0.0, 4879
+Go First,10/01/2023,Goa,Mumbai,06:40,08:00,80,0.0, 4881
+Go First,10/01/2023,Goa,Mumbai,23:55,01:20,85,0.0, 4881
+IndiGo,10/01/2023,Goa,Mumbai,13:05,14:25,80,0.0, 4943
+Go First,10/01/2023,Goa,Mumbai,11:45,12:55,70,0.0, 4969
+SpiceJet,10/01/2023,Goa,Mumbai,17:05,18:20,75,0.0, 5310
+IndiGo,10/01/2023,Goa,Mumbai,06:45,07:55,70,0.0, 5404
+Vistara,10/01/2023,Goa,Mumbai,22:45,00:15,90,0.0, 5404
+IndiGo,10/01/2023,Goa,Mumbai,11:25,12:40,75,0.0, 5440
+Vistara,10/01/2023,Goa,Mumbai,13:20,14:45,85,0.0, 5929
+IndiGo,10/01/2023,Goa,Mumbai,16:30,17:45,75,0.0, 5929
+Go First,10/01/2023,Goa,Mumbai,13:15,14:40,85,0.0, 5931
+Air India,10/01/2023,Goa,Mumbai,15:25,16:50,85,0.0, 6139
+IndiGo,10/01/2023,Goa,Mumbai,18:45,19:55,70,0.0, 6454
+Go First,10/01/2023,Goa,Mumbai,17:05,18:25,80,0.0, 7401
+Vistara,10/01/2023,Goa,Mumbai,14:40,20:40,360,1.0, 9111
+Vistara,10/01/2023,Goa,Mumbai,14:40,20:15,335,1.0, 10056
+Go First,10/01/2023,Goa,Mumbai,18:15,19:30,75,0.0, 10341
+Air India,10/01/2023,Goa,Mumbai,01:15,09:15,480,1.0, 16639
+AirAsia,10/01/2023,Goa,New Delhi,05:55,14:20,505,1.0, 7001
+AirAsia,10/01/2023,Goa,New Delhi,07:15,20:45,810,1.0, 7001
+SpiceJet,10/01/2023,Goa,New Delhi,22:50,09:30,640,1.0, 7756
+AirAsia,10/01/2023,Goa,New Delhi,14:45,22:50,485,1.0, 7969
+Go First,10/01/2023,Goa,New Delhi,11:45,21:20,575,1.0, 8003
+Go First,10/01/2023,Goa,New Delhi,11:45,22:25,640,1.0, 8003
+Go First,10/01/2023,Goa,New Delhi,11:45,23:30,705,1.0, 8003
+Go First,10/01/2023,Goa,New Delhi,14:50,00:10,560,1.0, 8003
+Go First,10/01/2023,Goa,New Delhi,11:45,01:05,800,1.0, 8003
+Go First,10/01/2023,Goa,New Delhi,11:45,02:00,855,1.0, 8003
+SpiceJet,10/01/2023,Goa,New Delhi,13:15,01:15,720,1.0, 8176
+SpiceJet,10/01/2023,Goa,New Delhi,13:05,01:15,730,1.0, 8176
+SpiceJet,10/01/2023,Goa,New Delhi,13:15,09:30,1215,1.0, 8176
+SpiceJet,10/01/2023,Goa,New Delhi,13:05,09:30,1225,1.0, 8176
+IndiGo,10/01/2023,Goa,New Delhi,17:10,22:55,345,1.0, 8356
+"Vistara, Go First",10/01/2023,Goa,New Delhi,00:40,08:00,440,1.0, 8626
+IndiGo,10/01/2023,Goa,New Delhi,02:05,06:40,275,1.0, 8728
+IndiGo,10/01/2023,Goa,New Delhi,02:05,09:40,455,1.0, 8728
+IndiGo,10/01/2023,Goa,New Delhi,18:30,00:25,355,1.0, 8762
+AirAsia,10/01/2023,Goa,New Delhi,18:05,22:15,250,1.0, 8869
+AirAsia,10/01/2023,Goa,New Delhi,14:45,20:45,360,1.0, 8901
+AirAsia,10/01/2023,Goa,New Delhi,18:05,00:35,390,1.0, 8901
+SpiceJet,10/01/2023,Goa,New Delhi,22:50,12:20,810,1.0, 9208
+SpiceJet,10/01/2023,Goa,New Delhi,17:05,01:15,490,1.0, 9226
+SpiceJet,10/01/2023,Goa,New Delhi,17:05,09:30,985,1.0, 9226
+SpiceJet,10/01/2023,Goa,New Delhi,13:15,12:20,1385,1.0, 9628
+SpiceJet,10/01/2023,Goa,New Delhi,13:05,12:20,1395,1.0, 9628
+AirAsia,10/01/2023,Goa,New Delhi,07:15,14:20,425,1.0, 9709
+SpiceJet,10/01/2023,Goa,New Delhi,01:20,06:40,320,1.0, 9828
+AirAsia,10/01/2023,Goa,New Delhi,23:05,01:45,160,0.0, 10025
+SpiceJet,10/01/2023,Goa,New Delhi,05:10,12:20,430,1.0, 10109
+SpiceJet,10/01/2023,Goa,New Delhi,05:10,01:15,1205,1.0, 10109
+Go First,10/01/2023,Goa,New Delhi,06:40,21:20,880,1.0, 10242
+Go First,10/01/2023,Goa,New Delhi,23:55,08:00,485,1.0, 10242
+Go First,10/01/2023,Goa,New Delhi,23:55,12:05,730,1.0, 10242
+"AirAsia, Go First",10/01/2023,Goa,New Delhi,05:45,12:05,380,1.0, 10274
+IndiGo,10/01/2023,Goa,New Delhi,00:50,07:30,400,1.0, 10276
+IndiGo,10/01/2023,Goa,New Delhi,00:50,09:05,495,1.0, 10276
+SpiceJet,10/01/2023,Goa,New Delhi,13:55,19:50,355,1.0, 10330
+SpiceJet,10/01/2023,Goa,New Delhi,13:55,08:15,1100,1.0, 10330
+SpiceJet,10/01/2023,Goa,New Delhi,07:30,21:50,860,1.0, 10407
+IndiGo,10/01/2023,Goa,New Delhi,23:45,07:15,450,1.0, 10444
+IndiGo,10/01/2023,Goa,New Delhi,23:45,08:20,515,1.0, 10444
+SpiceJet,10/01/2023,Goa,New Delhi,15:25,18:05,160,0.0, 10481
+SpiceJet,10/01/2023,Goa,New Delhi,19:55,22:35,160,0.0, 10481
+SpiceJet,10/01/2023,Goa,New Delhi,20:55,23:50,175,0.0, 10481
+"Vistara, IndiGo",10/01/2023,Goa,New Delhi,00:40,07:15,395,1.0, 10539
+Go First,10/01/2023,Goa,New Delhi,23:55,10:55,660,1.0, 10564
+SpiceJet,10/01/2023,Goa,New Delhi,22:50,23:40,1490,1.0, 10578
+SpiceJet,10/01/2023,Goa,New Delhi,13:15,23:20,605,1.0, 10632
+SpiceJet,10/01/2023,Goa,New Delhi,13:05,23:20,615,1.0, 10632
+IndiGo,10/01/2023,Goa,New Delhi,10:35,13:10,155,0.0, 10637
+SpiceJet,10/01/2023,Goa,New Delhi,17:05,12:20,1155,1.0, 10678
+AirAsia,10/01/2023,Goa,New Delhi,08:10,10:45,155,0.0, 10759
+"IndiGo, Go First",10/01/2023,Goa,New Delhi,06:45,12:05,320,1.0, 10799
+Vistara,10/01/2023,Goa,New Delhi,21:55,00:40,165,0.0, 10864
+Go First,10/01/2023,Goa,New Delhi,00:35,03:00,145,0.0, 10865
+SpiceJet,10/01/2023,Goa,New Delhi,01:20,07:50,390,1.0, 11194
+Go First,10/01/2023,Goa,New Delhi,13:15,21:20,485,1.0, 11292
+Go First,10/01/2023,Goa,New Delhi,13:15,22:25,550,1.0, 11292
+Go First,10/01/2023,Goa,New Delhi,13:15,23:30,615,1.0, 11292
+Go First,10/01/2023,Goa,New Delhi,13:15,01:05,710,1.0, 11292
+Go First,10/01/2023,Goa,New Delhi,13:15,02:00,765,1.0, 11292
+IndiGo,10/01/2023,Goa,New Delhi,16:05,23:05,420,1.0, 11299
+"IndiGo, Go First",10/01/2023,Goa,New Delhi,16:30,22:25,355,1.0, 11324
+"Air India, Go First",10/01/2023,Goa,New Delhi,15:25,21:20,355,1.0, 11534
+Air India,10/01/2023,Goa,New Delhi,01:15,03:50,155,0.0, 11599
+SpiceJet,10/01/2023,Goa,New Delhi,17:05,23:20,375,1.0, 11682
+IndiGo,10/01/2023,Goa,New Delhi,06:45,11:45,300,1.0, 11704
+IndiGo,10/01/2023,Goa,New Delhi,06:45,12:40,355,1.0, 11704
+IndiGo,10/01/2023,Goa,New Delhi,06:45,14:15,450,1.0, 11704
+IndiGo,10/01/2023,Goa,New Delhi,06:45,15:00,495,1.0, 11704
+IndiGo,10/01/2023,Goa,New Delhi,13:05,17:35,270,1.0, 11704
+IndiGo,10/01/2023,Goa,New Delhi,13:05,19:30,385,1.0, 11704
+IndiGo,10/01/2023,Goa,New Delhi,13:05,21:00,475,1.0, 11704
+Go First,10/01/2023,Goa,New Delhi,14:00,00:10,610,1.0, 11739
+Air India,10/01/2023,Goa,New Delhi,06:50,11:20,270,1.0, 11809
+Go First,10/01/2023,Goa,New Delhi,17:40,20:20,160,0.0, 11811
+IndiGo,10/01/2023,Goa,New Delhi,09:55,15:25,330,1.0, 11902
+IndiGo,10/01/2023,Goa,New Delhi,18:45,01:40,415,1.0, 11922
+IndiGo,10/01/2023,Goa,New Delhi,17:55,01:10,435,1.0, 11967
+IndiGo,10/01/2023,Goa,New Delhi,08:05,14:50,405,1.0, 12041
+IndiGo,10/01/2023,Goa,New Delhi,23:40,07:15,455,1.0, 12041
+"SpiceJet, Air India",10/01/2023,Goa,New Delhi,13:15,18:40,325,1.0, 12092
+IndiGo,10/01/2023,Goa,New Delhi,17:55,00:05,370,1.0, 12103
+IndiGo,10/01/2023,Goa,New Delhi,14:15,16:45,150,0.0, 12229
+IndiGo,10/01/2023,Goa,New Delhi,15:20,17:50,150,0.0, 12229
+IndiGo,10/01/2023,Goa,New Delhi,19:40,22:20,160,0.0, 12229
+IndiGo,10/01/2023,Goa,New Delhi,11:25,16:45,320,1.0, 12265
+IndiGo,10/01/2023,Goa,New Delhi,11:25,17:35,370,1.0, 12265
+IndiGo,10/01/2023,Goa,New Delhi,11:25,19:30,485,1.0, 12265
+IndiGo,10/01/2023,Goa,New Delhi,08:45,14:15,330,1.0, 12328
+IndiGo,10/01/2023,Goa,New Delhi,08:45,16:30,465,1.0, 12328
+IndiGo,10/01/2023,Goa,New Delhi,08:00,15:55,475,1.0, 12481
+IndiGo,10/01/2023,Goa,New Delhi,23:20,04:20,300,1.0, 12527
+IndiGo,10/01/2023,Goa,New Delhi,23:20,07:20,480,1.0, 12527
+SpiceJet,10/01/2023,Goa,New Delhi,05:10,23:20,1090,1.0, 12565
+IndiGo,10/01/2023,Goa,New Delhi,07:35,14:15,400,1.0, 12702
+IndiGo,10/01/2023,Goa,New Delhi,16:30,22:15,345,1.0, 12754
+IndiGo,10/01/2023,Goa,New Delhi,16:30,00:40,490,1.0, 12754
+Go First,10/01/2023,Goa,New Delhi,17:05,23:30,385,1.0, 12762
+Go First,10/01/2023,Goa,New Delhi,17:05,01:05,480,1.0, 12762
+Go First,10/01/2023,Goa,New Delhi,17:05,02:00,535,1.0, 12762
+Go First,10/01/2023,Goa,New Delhi,17:05,08:00,895,1.0, 12762
+IndiGo,10/01/2023,Goa,New Delhi,13:10,15:40,150,0.0, 12800
+Vistara,10/01/2023,Goa,New Delhi,13:20,18:05,285,1.0, 12859
+IndiGo,10/01/2023,Goa,New Delhi,23:15,07:40,505,1.0, 13005
+IndiGo,10/01/2023,Goa,New Delhi,08:55,13:35,280,1.0, 13245
+IndiGo,10/01/2023,Goa,New Delhi,13:00,18:55,355,1.0, 13273
+IndiGo,10/01/2023,Goa,New Delhi,13:00,20:40,460,1.0, 13273
+IndiGo,10/01/2023,Goa,New Delhi,18:45,00:40,355,1.0, 13279
+IndiGo,10/01/2023,Goa,New Delhi,15:05,23:35,510,1.0, 13301
+SpiceJet,10/01/2023,Goa,New Delhi,14:15,21:55,460,1.0, 13488
+AirAsia,10/01/2023,Goa,New Delhi,16:35,19:10,155,0.0, 13699
+IndiGo,10/01/2023,Goa,New Delhi,15:05,22:10,425,1.0, 13721
+IndiGo,10/01/2023,Goa,New Delhi,07:30,09:55,145,0.0, 13735
+IndiGo,10/01/2023,Goa,New Delhi,08:55,17:05,490,1.0, 13945
+Vistara,10/01/2023,Goa,New Delhi,14:25,17:05,160,0.0, 14014
+Go First,10/01/2023,Goa,New Delhi,21:05,10:05,780,1.0, 14021
+"Alliance Air, IndiGo",10/01/2023,Goa,New Delhi,13:15,20:40,445,1.0, 14186
+IndiGo,10/01/2023,Goa,New Delhi,12:05,18:35,390,1.0, 14754
+IndiGo,10/01/2023,Goa,New Delhi,12:05,19:45,460,1.0, 14754
+IndiGo,10/01/2023,Goa,New Delhi,15:05,20:50,345,1.0, 14771
+IndiGo,10/01/2023,Goa,New Delhi,22:30,01:00,150,0.0, 15251
+IndiGo,10/01/2023,Goa,New Delhi,14:25,20:40,375,1.0, 15642
+IndiGo,10/01/2023,Goa,New Delhi,14:25,22:40,495,1.0, 15642
+Go First,10/01/2023,Goa,New Delhi,18:15,01:05,410,1.0, 15702
+Go First,10/01/2023,Goa,New Delhi,18:15,02:00,465,1.0, 15702
+Go First,10/01/2023,Goa,New Delhi,18:15,08:00,825,1.0, 15702
+IndiGo,10/01/2023,Goa,New Delhi,02:10,09:20,430,1.0, 16293
+IndiGo,10/01/2023,Goa,New Delhi,14:45,20:15,330,1.0, 16384
+SpiceJet,10/01/2023,Goa,New Delhi,14:15,11:30,1275,1.0, 16534
+IndiGo,10/01/2023,Goa,New Delhi,20:55,23:30,155,0.0, 17305
+IndiGo,10/01/2023,Goa,New Delhi,14:35,22:30,475,1.0, 22467
+IndiGo,10/01/2023,Goa,New Delhi,14:35,19:50,315,1.0, 24874
+Air India,10/01/2023,Goa,New Delhi,14:05,16:40,155,0.0, 27633
+Go First,10/01/2023,Ahmedabad,Goa,08:55,16:35,460,1.0, 3641
+Go First,10/01/2023,Ahmedabad,Goa,05:00,16:35,695,1.0, 3641
+Go First,10/01/2023,Ahmedabad,Goa,08:55,17:45,530,1.0, 3641
+Go First,10/01/2023,Ahmedabad,Goa,05:00,17:45,765,1.0, 3641
+Go First,10/01/2023,Ahmedabad,Goa,15:05,23:25,500,1.0, 3641
+Go First,10/01/2023,Ahmedabad,Goa,08:55,23:25,870,1.0, 3641
+SpiceJet,10/01/2023,Ahmedabad,Goa,23:00,00:45,105,0.0, 3998
+IndiGo,10/01/2023,Ahmedabad,Goa,20:55,22:45,110,0.0, 3999
+Go First,10/01/2023,Ahmedabad,Goa,18:55,20:35,100,0.0, 4000
+Vistara,10/01/2023,Ahmedabad,Goa,05:05,00:05,1140,1.0, 4621
+Go First,10/01/2023,Ahmedabad,Goa,05:00,11:15,375,1.0, 4660
+"Akasa Air, Go First",10/01/2023,Ahmedabad,Goa,11:50,16:35,285,1.0, 4754
+"Akasa Air, Go First",10/01/2023,Ahmedabad,Goa,16:05,23:25,440,1.0, 4854
+"Akasa Air, SpiceJet",10/01/2023,Ahmedabad,Goa,16:05,22:20,375,1.0, 5035
+Go First,10/01/2023,Ahmedabad,Goa,05:00,12:45,465,1.0, 5193
+"Go First, SpiceJet",10/01/2023,Ahmedabad,Goa,08:55,16:30,455,1.0, 5194
+IndiGo,10/01/2023,Ahmedabad,Goa,14:50,23:10,500,1.0, 5524
+"IndiGo, Go First",10/01/2023,Ahmedabad,Goa,09:45,16:35,410,1.0, 5641
+"IndiGo, SpiceJet",10/01/2023,Ahmedabad,Goa,14:50,22:20,450,1.0, 5701
+"IndiGo, Go First",10/01/2023,Ahmedabad,Goa,04:30,11:15,405,1.0, 5747
+"Vistara, Go First",10/01/2023,Ahmedabad,Goa,05:05,11:15,370,1.0, 5807
+"Go First, Vistara",10/01/2023,Ahmedabad,Goa,15:05,22:10,425,1.0, 6158
+IndiGo,10/01/2023,Ahmedabad,Goa,09:00,14:35,335,1.0, 6216
+IndiGo,10/01/2023,Ahmedabad,Goa,04:40,14:35,595,1.0, 6216
+IndiGo,10/01/2023,Ahmedabad,Goa,16:10,21:35,325,1.0, 6216
+IndiGo,10/01/2023,Ahmedabad,Goa,14:55,23:05,490,1.0, 6216
+IndiGo,10/01/2023,Ahmedabad,Goa,16:10,00:20,490,1.0, 6216
+IndiGo,10/01/2023,Ahmedabad,Goa,23:25,07:00,455,1.0, 6216
+IndiGo,10/01/2023,Ahmedabad,Goa,23:50,07:35,465,1.0, 6216
+Go First,10/01/2023,Ahmedabad,Goa,21:10,09:55,765,1.0, 6270
+IndiGo,10/01/2023,Ahmedabad,Goa,04:30,12:30,480,1.0, 6682
+IndiGo,10/01/2023,Ahmedabad,Goa,17:30,23:10,340,1.0, 7280
+IndiGo,10/01/2023,Ahmedabad,Goa,18:45,00:20,335,1.0, 7319
+"IndiGo, SpiceJet",10/01/2023,Ahmedabad,Goa,17:30,22:20,290,1.0, 7457
+IndiGo,10/01/2023,Ahmedabad,Goa,09:45,15:25,340,1.0, 7573
+IndiGo,10/01/2023,Ahmedabad,Goa,09:45,18:15,510,1.0, 7573
+IndiGo,10/01/2023,Ahmedabad,Goa,04:30,10:55,385,1.0, 7732
+IndiGo,10/01/2023,Ahmedabad,Goa,08:45,12:30,225,1.0, 7908
+IndiGo,10/01/2023,Ahmedabad,Goa,08:45,15:25,400,1.0, 7908
+IndiGo,10/01/2023,Ahmedabad,Goa,08:45,18:15,570,1.0, 7908
+IndiGo,10/01/2023,Ahmedabad,Goa,14:55,21:10,375,1.0, 7994
+IndiGo,10/01/2023,Ahmedabad,Goa,15:25,01:30,605,1.0, 8197
+IndiGo,10/01/2023,Ahmedabad,Goa,04:40,11:25,405,1.0, 8471
+IndiGo,10/01/2023,Ahmedabad,Goa,06:40,12:30,350,1.0, 8717
+IndiGo,10/01/2023,Ahmedabad,Goa,06:40,15:25,525,1.0, 8717
+SpiceJet,10/01/2023,Ahmedabad,Goa,06:00,13:25,445,1.0, 8995
+IndiGo,10/01/2023,Ahmedabad,Goa,05:30,12:35,425,1.0, 9119
+IndiGo,10/01/2023,Ahmedabad,Goa,05:30,13:55,505,1.0, 9329
+IndiGo,10/01/2023,Ahmedabad,Goa,22:20,06:10,470,1.0, 9684
+IndiGo,10/01/2023,Ahmedabad,Goa,06:40,10:55,255,1.0, 9767
+Go First,10/01/2023,Ahmedabad,Goa,21:10,06:10,540,1.0, 9887
+IndiGo,10/01/2023,Ahmedabad,Goa,05:35,07:15,100,0.0, 9891
+IndiGo,10/01/2023,Ahmedabad,Goa,23:25,08:20,535,1.0, 10301
+Air India,10/01/2023,Ahmedabad,Goa,07:55,13:25,330,1.0, 10431
+Go First,10/01/2023,Ahmedabad,Goa,20:10,06:10,600,1.0, 11818
+IndiGo,10/01/2023,Ahmedabad,Goa,21:05,06:45,580,1.0, 13514
+IndiGo,10/01/2023,Ahmedabad,Goa,12:20,14:05,105,0.0, 13625
+IndiGo,10/01/2023,Ahmedabad,Goa,03:00,06:45,225,1.0, 15299
+"Go First, SpiceJet",10/01/2023,Ahmedabad,Tirupati,08:55,15:40,405,1.0, 8764
+"Go First, SpiceJet",10/01/2023,Ahmedabad,Tirupati,05:00,15:40,640,1.0, 8764
+IndiGo,10/01/2023,Ahmedabad,Tirupati,05:30,14:05,515,1.0, 9134
+"IndiGo, SpiceJet",10/01/2023,Ahmedabad,Tirupati,04:30,15:40,670,1.0, 9299
+"Vistara, SpiceJet",10/01/2023,Ahmedabad,Tirupati,05:05,15:40,635,1.0, 9359
+IndiGo,10/01/2023,Ahmedabad,Tirupati,04:40,10:55,375,1.0, 9458
+"Akasa Air, IndiGo",10/01/2023,Ahmedabad,Tirupati,11:50,19:30,460,2.0, 10172
+"IndiGo, SpiceJet",10/01/2023,Ahmedabad,Tirupati,09:45,15:40,355,1.0, 10189
+"IndiGo, SpiceJet",10/01/2023,Ahmedabad,Tirupati,08:45,15:40,415,1.0, 10524
+"IndiGo, Air India",10/01/2023,Ahmedabad,Tirupati,05:30,13:55,505,1.0, 12059
+"Go First, Akasa Air",10/01/2023,Ahmedabad,Bengaluru,15:05,00:05,540,1.0, 4702
+Akasa Air,10/01/2023,Ahmedabad,Bengaluru,12:55,15:00,125,0.0, 5853
+Akasa Air,10/01/2023,Ahmedabad,Bengaluru,17:35,19:45,130,0.0, 5853
+Akasa Air,10/01/2023,Ahmedabad,Bengaluru,21:35,23:35,120,0.0, 5853
+Go First,10/01/2023,Ahmedabad,Bengaluru,09:25,11:25,120,0.0, 5897
+Go First,10/01/2023,Ahmedabad,Bengaluru,21:10,23:25,135,0.0, 5897
+IndiGo,10/01/2023,Ahmedabad,Bengaluru,04:40,06:45,125,0.0, 5899
+IndiGo,10/01/2023,Ahmedabad,Bengaluru,14:55,17:15,140,0.0, 5899
+IndiGo,10/01/2023,Ahmedabad,Bengaluru,23:50,02:05,135,0.0, 5899
+"Akasa Air, AirAsia",10/01/2023,Ahmedabad,Bengaluru,16:05,21:40,335,1.0, 6238
+IndiGo,10/01/2023,Ahmedabad,Bengaluru,09:00,11:15,135,0.0, 6899
+"Akasa Air, Vistara",10/01/2023,Ahmedabad,Bengaluru,11:50,17:45,355,1.0, 6938
+IndiGo,10/01/2023,Ahmedabad,Bengaluru,19:25,21:45,140,0.0, 8999
+IndiGo,10/01/2023,Ahmedabad,Bengaluru,06:40,11:30,290,1.0, 9164
+Go First,10/01/2023,Ahmedabad,Mumbai,05:00,06:05,65,0.0, 2000
+Go First,10/01/2023,Ahmedabad,Mumbai,15:05,16:15,70,0.0, 2000
+Go First,10/01/2023,Ahmedabad,Mumbai,20:10,21:25,75,0.0, 2000
+Go First,10/01/2023,Ahmedabad,Mumbai,21:10,22:30,80,0.0, 2000
+IndiGo,10/01/2023,Ahmedabad,Mumbai,04:30,05:50,80,0.0, 2535
+Akasa Air,10/01/2023,Ahmedabad,Mumbai,11:50,13:15,85,0.0, 2538
+Vistara,10/01/2023,Ahmedabad,Mumbai,05:05,06:15,70,0.0, 2595
+Akasa Air,10/01/2023,Ahmedabad,Mumbai,16:05,17:25,80,0.0, 2638
+Go First,10/01/2023,Ahmedabad,Mumbai,08:55,10:15,80,0.0, 3096
+IndiGo,10/01/2023,Ahmedabad,Mumbai,14:50,16:10,80,0.0, 3304
+IndiGo,10/01/2023,Ahmedabad,Mumbai,09:45,10:55,70,0.0, 3425
+IndiGo,10/01/2023,Ahmedabad,Mumbai,08:45,10:05,80,0.0, 3760
+IndiGo,10/01/2023,Ahmedabad,Mumbai,06:40,07:55,75,0.0, 4570
+Akasa Air,10/01/2023,Ahmedabad,Mumbai,07:35,08:55,80,0.0, 4790
+IndiGo,10/01/2023,Ahmedabad,Mumbai,17:30,18:40,70,0.0, 5060
+Vistara,10/01/2023,Ahmedabad,Mumbai,08:25,09:40,75,0.0, 5062
+IndiGo,10/01/2023,Ahmedabad,Mumbai,22:20,23:35,75,0.0, 6765
+Air India,10/01/2023,Ahmedabad,Mumbai,20:40,22:05,85,0.0, 9892
+IndiGo,10/01/2023,Ahmedabad,Mumbai,18:35,20:00,85,0.0, 10836
+Vistara,10/01/2023,Ahmedabad,Mumbai,17:15,18:45,90,0.0, 10837
+Vistara,10/01/2023,Ahmedabad,Mumbai,06:45,15:00,495,1.0, 11362
+Air India,10/01/2023,Ahmedabad,New Delhi,07:55,09:25,90,0.0, 2543
+Vistara,10/01/2023,Ahmedabad,New Delhi,06:45,07:55,70,0.0, 3802
+IndiGo,10/01/2023,Ahmedabad,New Delhi,04:05,05:45,100,0.0, 4400
+IndiGo,10/01/2023,Ahmedabad,New Delhi,15:25,22:55,450,1.0, 4627
+Alliance Air,10/01/2023,Ahmedabad,New Delhi,16:50,19:55,185,1.0, 4642
+IndiGo,10/01/2023,Ahmedabad,New Delhi,22:35,00:05,90,0.0, 4810
+SpiceJet,10/01/2023,Ahmedabad,New Delhi,04:50,06:40,110,0.0, 4928
+SpiceJet,10/01/2023,Ahmedabad,New Delhi,22:05,10:30,745,1.0, 4943
+Go First,10/01/2023,Ahmedabad,New Delhi,08:30,10:05,95,0.0, 6042
+Go First,10/01/2023,Ahmedabad,New Delhi,19:35,21:15,100,0.0, 6042
+Go First,10/01/2023,Ahmedabad,New Delhi,23:15,00:50,95,0.0, 6042
+Go First,10/01/2023,Ahmedabad,New Delhi,05:00,14:30,570,1.0, 6270
+Go First,10/01/2023,Ahmedabad,New Delhi,08:10,20:55,765,2.0, 6270
+SpiceJet,10/01/2023,Ahmedabad,New Delhi,06:10,07:50,100,0.0, 6292
+Akasa Air,10/01/2023,Ahmedabad,New Delhi,09:15,11:00,105,0.0, 6890
+IndiGo,10/01/2023,Ahmedabad,New Delhi,07:15,15:25,490,1.0, 7239
+Vistara,10/01/2023,Ahmedabad,New Delhi,15:35,17:10,95,0.0, 8212
+IndiGo,10/01/2023,Ahmedabad,New Delhi,05:55,07:40,105,0.0, 8299
+IndiGo,10/01/2023,Ahmedabad,New Delhi,12:00,13:35,95,0.0, 8299
+IndiGo,10/01/2023,Ahmedabad,New Delhi,15:40,17:05,85,0.0, 8999
+Air India,10/01/2023,Ahmedabad,New Delhi,21:30,23:10,100,0.0, 9441
+Vistara,10/01/2023,Ahmedabad,New Delhi,08:40,10:20,100,0.0, 10136
+IndiGo,10/01/2023,Ahmedabad,New Delhi,09:35,14:20,285,1.0, 10364
+Vistara,10/01/2023,Ahmedabad,New Delhi,20:30,22:00,90,0.0, 11186
+IndiGo,10/01/2023,Ahmedabad,New Delhi,21:00,22:30,90,0.0, 14091
+IndiGo,10/01/2023,Ahmedabad,New Delhi,18:05,19:50,105,0.0, 16499
+IndiGo,10/01/2023,Tirupati,Goa,14:45,00:20,575,1.0, 5157
+IndiGo,10/01/2023,Tirupati,Goa,14:45,21:35,410,1.0, 5538
+IndiGo,10/01/2023,Tirupati,Goa,12:30,21:35,545,1.0, 5538
+"Air India, IndiGo",10/01/2023,Tirupati,Goa,14:30,00:20,590,1.0, 6248
+"Air India, AirAsia",10/01/2023,Tirupati,Goa,14:30,19:20,290,1.0, 6249
+IndiGo,10/01/2023,Tirupati,Goa,12:30,17:20,290,1.0, 6399
+"SpiceJet, Go First",10/01/2023,Tirupati,Goa,07:40,16:35,535,1.0, 7512
+"IndiGo, AirAsia",10/01/2023,Tirupati,Goa,14:45,19:20,275,1.0, 7614
+"Alliance Air, AirAsia",10/01/2023,Tirupati,Goa,08:10,19:20,670,1.0, 7719
+IndiGo,10/01/2023,Tirupati,Goa,20:05,00:20,255,1.0, 8018
+IndiGo,10/01/2023,Tirupati,Goa,21:00,07:00,600,1.0, 8596
+IndiGo,10/01/2023,Tirupati,Goa,15:35,21:10,335,1.0, 8690
+IndiGo,10/01/2023,Tirupati,Goa,15:35,23:05,450,1.0, 8694
+"Alliance Air, IndiGo",10/01/2023,Tirupati,Goa,08:10,13:55,345,1.0, 8873
+SpiceJet,10/01/2023,Tirupati,Goa,20:00,07:10,670,1.0, 9423
+SpiceJet,10/01/2023,Tirupati,Goa,20:00,18:10,1330,1.0, 9841
+"SpiceJet, IndiGo",10/01/2023,Tirupati,Goa,07:40,12:30,290,1.0, 9874
+"SpiceJet, IndiGo",10/01/2023,Tirupati,Goa,16:10,00:20,490,1.0, 9977
+"SpiceJet, IndiGo",10/01/2023,Tirupati,Goa,16:10,21:35,325,1.0, 10082
+Air India,10/01/2023,Tirupati,Goa,14:30,00:40,610,2.0, 10391
+SpiceJet,10/01/2023,Tirupati,Goa,16:10,07:10,900,1.0, 10473
+SpiceJet,10/01/2023,Tirupati,Goa,16:10,18:10,1560,1.0, 10891
+"Air India, IndiGo",10/01/2023,Tirupati,Ahmedabad,14:30,06:20,950,2.0, 9402
+"Air India, IndiGo",10/01/2023,Tirupati,Ahmedabad,14:30,06:20,950,2.0, 9402
+IndiGo,10/01/2023,Tirupati,Ahmedabad,14:45,06:20,935,2.0, 10767
+IndiGo,10/01/2023,Tirupati,Ahmedabad,14:45,06:20,935,2.0, 10767
+IndiGo,10/01/2023,Tirupati,Ahmedabad,12:30,06:20,1070,2.0, 10767
+IndiGo,10/01/2023,Tirupati,Ahmedabad,12:30,06:20,1070,2.0, 10767
+"Alliance Air, IndiGo",10/01/2023,Tirupati,Ahmedabad,08:10,20:20,730,2.0, 10872
+IndiGo,10/01/2023,Tirupati,Ahmedabad,21:00,07:15,615,1.0, 11262
+IndiGo,10/01/2023,Tirupati,Ahmedabad,15:35,01:45,610,2.0, 11750
+IndiGo,10/01/2023,Tirupati,Ahmedabad,20:05,06:20,615,2.0, 12027
+"SpiceJet, IndiGo",10/01/2023,Tirupati,Ahmedabad,20:00,06:20,620,2.0, 12605
+IndiGo,10/01/2023,Tirupati,Ahmedabad,15:35,23:20,465,1.0, 12793
+"Alliance Air, IndiGo",10/01/2023,Tirupati,Ahmedabad,08:10,15:40,450,1.0, 12870
+"Air India, IndiGo",10/01/2023,Tirupati,Ahmedabad,14:30,01:00,630,2.0, 15015
+IndiGo,10/01/2023,Tirupati,Ahmedabad,12:30,18:10,340,1.0, 15586
+IndiGo,10/01/2023,Tirupati,Ahmedabad,14:45,22:50,485,1.0, 22988
+IndiGo,10/01/2023,Tirupati,Ahmedabad,12:30,22:50,620,1.0, 23041
+Air India,10/01/2023,Tirupati,Ahmedabad,14:30,06:55,985,2.0, 25508
+IndiGo,10/01/2023,Tirupati,Bengaluru,15:35,16:35,60,0.0, 6595
+"Air India, AirAsia",10/01/2023,Tirupati,Bengaluru,14:30,23:15,525,1.0, 6670
+"IndiGo, AirAsia",10/01/2023,Tirupati,Bengaluru,14:45,23:15,510,1.0, 8035
+"IndiGo, AirAsia",10/01/2023,Tirupati,Bengaluru,12:30,23:15,645,1.0, 8035
+"Air India, AirAsia",10/01/2023,Tirupati,Bengaluru,14:30,20:50,380,1.0, 9183
+"Alliance Air, AirAsia",10/01/2023,Tirupati,Bengaluru,08:10,15:30,440,1.0, 9719
+"Alliance Air, IndiGo",10/01/2023,Tirupati,Bengaluru,08:10,13:00,290,1.0, 9720
+"IndiGo, AirAsia",10/01/2023,Tirupati,Bengaluru,14:45,20:50,365,1.0, 10548
+"IndiGo, AirAsia",10/01/2023,Tirupati,Bengaluru,12:30,20:50,500,1.0, 10548
+"SpiceJet, AirAsia",10/01/2023,Tirupati,Bengaluru,16:10,23:15,425,1.0, 11029
+"SpiceJet, Star Air",10/01/2023,Tirupati,Bengaluru,16:10,21:25,315,1.0, 11652
+Air India,10/01/2023,Tirupati,Bengaluru,14:30,05:35,905,3.0, 13235
+Air India,10/01/2023,Tirupati,Bengaluru,14:30,00:05,575,2.0, 16132
+IndiGo,10/01/2023,Tirupati,Mumbai,07:50,17:05,555,1.0, 5270
+IndiGo,10/01/2023,Tirupati,Mumbai,21:00,05:55,535,1.0, 5270
+SpiceJet,10/01/2023,Tirupati,Mumbai,07:40,09:25,105,0.0, 5296
+IndiGo,10/01/2023,Tirupati,Mumbai,15:35,23:25,470,1.0, 8673
+"IndiGo, Go First",10/01/2023,Tirupati,Mumbai,15:35,20:35,300,1.0, 8773
+"Air India, IndiGo",10/01/2023,Tirupati,Mumbai,14:30,07:55,1045,2.0, 9167
+IndiGo,10/01/2023,Tirupati,Mumbai,14:45,07:55,1030,2.0, 10532
+IndiGo,10/01/2023,Tirupati,Mumbai,12:30,07:55,1165,2.0, 10532
+"Alliance Air, IndiGo",10/01/2023,Tirupati,Mumbai,08:10,01:00,1010,2.0, 10815
+"Alliance Air, Vistara",10/01/2023,Tirupati,Mumbai,08:10,14:35,385,1.0, 11296
+"Air India, IndiGo",10/01/2023,Tirupati,Mumbai,14:30,23:25,535,2.0, 11799
+"SpiceJet, IndiGo",10/01/2023,Tirupati,Mumbai,16:10,01:00,530,2.0, 13074
+Air India,10/01/2023,Tirupati,Mumbai,14:30,08:10,1060,3.0, 13856
+Air India,10/01/2023,Tirupati,Mumbai,14:30,22:10,460,2.0, 16268
+IndiGo,10/01/2023,Tirupati,Mumbai,14:45,19:45,300,1.0, 21203
+IndiGo,10/01/2023,Tirupati,Mumbai,12:30,16:55,265,1.0, 21256
+IndiGo,10/01/2023,Tirupati,New Delhi,14:45,00:05,560,1.0, 7829
+IndiGo,10/01/2023,Tirupati,New Delhi,12:30,00:05,695,1.0, 7829
+SpiceJet,10/01/2023,Tirupati,New Delhi,07:40,01:15,1055,1.0, 9212
+Air India,10/01/2023,Tirupati,New Delhi,14:30,18:45,255,1.0, 9338
+"Air India, SpiceJet",10/01/2023,Tirupati,New Delhi,14:30,21:50,440,1.0, 9457
+IndiGo,10/01/2023,Tirupati,New Delhi,14:45,18:55,250,1.0, 9700
+IndiGo,10/01/2023,Tirupati,New Delhi,14:45,20:40,355,1.0, 10283
+"Alliance Air, SpiceJet",10/01/2023,Tirupati,New Delhi,08:10,21:50,820,1.0, 10402
+IndiGo,10/01/2023,Tirupati,New Delhi,15:35,01:00,565,1.0, 10747
+IndiGo,10/01/2023,Tirupati,New Delhi,12:30,18:55,385,1.0, 10861
+SpiceJet,10/01/2023,Tirupati,New Delhi,14:20,17:15,1615,1.0, 11043
+IndiGo,10/01/2023,Tirupati,New Delhi,21:00,07:30,630,1.0, 11071
+"Alliance Air, IndiGo",10/01/2023,Tirupati,New Delhi,08:10,14:15,365,1.0, 11295
+SpiceJet,10/01/2023,Tirupati,New Delhi,16:10,21:50,340,1.0, 11402
+SpiceJet,10/01/2023,Tirupati,New Delhi,07:40,23:20,940,1.0, 11668
+SpiceJet,10/01/2023,Tirupati,New Delhi,20:00,19:20,1400,1.0, 12332
+"Air India, Vistara",10/01/2023,Tirupati,New Delhi,14:30,19:55,325,1.0, 13186
+"IndiGo, Vistara",10/01/2023,Tirupati,New Delhi,15:35,21:25,350,1.0, 19430
+IndiGo,10/01/2023,Bengaluru,Goa,19:50,21:10,80,0.0, 2796
+Go First,10/01/2023,Bengaluru,Goa,08:45,09:55,70,0.0, 2797
+Go First,10/01/2023,Bengaluru,Goa,15:50,17:10,80,0.0, 2797
+AirAsia,10/01/2023,Bengaluru,Goa,04:10,05:25,75,0.0, 2800
+AirAsia,10/01/2023,Bengaluru,Goa,05:30,06:45,75,0.0, 2800
+AirAsia,10/01/2023,Bengaluru,Goa,13:00,14:15,75,0.0, 2800
+IndiGo,10/01/2023,Bengaluru,Goa,21:55,23:05,70,0.0, 2800
+IndiGo,10/01/2023,Bengaluru,Goa,06:15,07:35,80,0.0, 2918
+IndiGo,10/01/2023,Bengaluru,Goa,10:10,11:25,75,0.0, 3392
+Air India,10/01/2023,Bengaluru,Goa,16:20,17:45,85,0.0, 3688
+Vistara,10/01/2023,Bengaluru,Goa,12:50,14:05,75,0.0, 3694
+Vistara,10/01/2023,Bengaluru,Goa,09:40,00:05,865,1.0, 4823
+IndiGo,10/01/2023,Bengaluru,Goa,13:05,14:35,90,0.0, 5794
+IndiGo,10/01/2023,Bengaluru,Goa,07:00,15:35,515,1.0, 5808
+Go First,10/01/2023,Bengaluru,Ahmedabad,18:50,23:50,300,1.0, 4077
+"Akasa Air, Go First",10/01/2023,Bengaluru,Ahmedabad,16:35,23:50,435,1.0, 4367
+"Akasa Air, Go First",10/01/2023,Bengaluru,Ahmedabad,11:45,23:50,725,1.0, 4367
+"Akasa Air, Go First",10/01/2023,Bengaluru,Ahmedabad,10:15,23:50,815,1.0, 4487
+"IndiGo, Go First",10/01/2023,Bengaluru,Ahmedabad,18:00,23:50,350,1.0, 4839
+"IndiGo, Go First",10/01/2023,Bengaluru,Ahmedabad,16:20,23:50,450,1.0, 4839
+"IndiGo, Go First",10/01/2023,Bengaluru,Ahmedabad,19:25,00:40,315,1.0, 4839
+"Akasa Air, IndiGo",10/01/2023,Bengaluru,Ahmedabad,11:45,17:00,315,1.0, 5363
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,12:20,18:05,345,1.0, 5439
+SpiceJet,10/01/2023,Bengaluru,Ahmedabad,10:25,15:45,320,1.0, 5685
+Akasa Air,10/01/2023,Bengaluru,Ahmedabad,05:55,08:20,145,0.0, 5695
+Akasa Air,10/01/2023,Bengaluru,Ahmedabad,09:55,12:15,140,0.0, 5695
+Akasa Air,10/01/2023,Bengaluru,Ahmedabad,14:35,16:55,140,0.0, 5695
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,10:15,17:00,405,1.0, 5700
+Go First,10/01/2023,Bengaluru,Ahmedabad,06:20,08:45,145,0.0, 5713
+Go First,10/01/2023,Bengaluru,Ahmedabad,18:30,20:35,125,0.0, 5713
+"Akasa Air, Go First",10/01/2023,Bengaluru,Ahmedabad,10:15,16:25,370,1.0, 5734
+"IndiGo, Akasa Air",10/01/2023,Bengaluru,Ahmedabad,10:15,15:25,310,1.0, 5950
+Vistara,10/01/2023,Bengaluru,Ahmedabad,09:40,16:40,420,1.0, 6001
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,01:40,03:45,125,0.0, 6017
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,06:10,08:25,135,0.0, 6017
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,12:05,14:25,140,0.0, 6017
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,05:50,14:15,505,1.0, 6029
+"Air India, Go First",10/01/2023,Bengaluru,Ahmedabad,19:15,00:40,325,1.0, 6297
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,00:30,06:05,335,1.0, 6334
+"Vistara, Go First",10/01/2023,Bengaluru,Ahmedabad,19:00,23:50,290,1.0, 6570
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,11:25,17:15,350,1.0, 6687
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,07:20,14:15,415,1.0, 6859
+Go First,10/01/2023,Bengaluru,Ahmedabad,08:00,14:35,395,1.0, 6923
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,21:00,23:20,140,0.0, 7017
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,17:15,00:05,410,1.0, 7107
+"Vistara, Go First",10/01/2023,Bengaluru,Ahmedabad,18:30,23:50,320,1.0, 7515
+Vistara,10/01/2023,Bengaluru,Ahmedabad,11:05,16:40,335,1.0, 7541
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,06:50,12:30,340,1.0, 7579
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,08:45,15:00,375,1.0, 7579
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,13:55,20:20,385,1.0, 7579
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,16:20,21:40,320,1.0, 7579
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,23:50,06:20,390,1.0, 7579
+"Vistara, Go First",10/01/2023,Bengaluru,Ahmedabad,11:05,16:25,320,1.0, 7817
+IndiGo,10/01/2023,Bengaluru,Ahmedabad,16:40,18:55,135,0.0, 10717
+"Star Air, IndiGo",10/01/2023,Bengaluru,Ahmedabad,07:05,15:40,515,1.0, 11244
+"AirAsia, IndiGo",10/01/2023,Bengaluru,Ahmedabad,07:40,15:40,480,1.0, 11637
+"Alliance Air, IndiGo",10/01/2023,Bengaluru,Ahmedabad,09:20,15:40,380,1.0, 12581
+IndiGo,10/01/2023,Bengaluru,Tirupati,09:35,10:55,80,0.0, 5765
+Air India,10/01/2023,Bengaluru,Tirupati,21:20,13:55,995,2.0, 7960
+Air India,10/01/2023,Bengaluru,Tirupati,07:25,13:55,390,1.0, 8314
+Air India,10/01/2023,Bengaluru,Tirupati,19:15,13:55,1120,2.0, 9756
+Air India,10/01/2023,Bengaluru,Tirupati,05:45,13:55,490,2.0, 14688
+Air India,10/01/2023,Bengaluru,Tirupati,21:00,13:55,1015,2.0, 15528
+Air India,10/01/2023,Bengaluru,Tirupati,16:20,13:55,1295,3.0, 15745
+Air India,10/01/2023,Bengaluru,Tirupati,19:20,13:55,1115,2.0, 16368
+Air India,10/01/2023,Bengaluru,Tirupati,21:00,13:55,1015,2.0, 17733
+Air India,10/01/2023,Bengaluru,Tirupati,19:20,13:55,1115,2.0, 18573
+Go First,10/01/2023,Bengaluru,Mumbai,20:25,22:00,95,0.0, 2178
+Akasa Air,10/01/2023,Bengaluru,Mumbai,05:30,07:10,100,0.0, 2468
+Akasa Air,10/01/2023,Bengaluru,Mumbai,11:45,13:30,105,0.0, 2468
+Akasa Air,10/01/2023,Bengaluru,Mumbai,16:35,18:20,105,0.0, 2468
+Akasa Air,10/01/2023,Bengaluru,Mumbai,19:45,21:35,110,0.0, 2468
+Akasa Air,10/01/2023,Bengaluru,Mumbai,20:30,22:20,110,0.0, 2468
+IndiGo,10/01/2023,Bengaluru,Mumbai,04:30,06:20,110,0.0, 2585
+IndiGo,10/01/2023,Bengaluru,Mumbai,05:50,07:50,120,0.0, 2585
+Akasa Air,10/01/2023,Bengaluru,Mumbai,10:15,12:20,125,0.0, 2588
+Air India,10/01/2023,Bengaluru,Mumbai,21:20,23:20,120,0.0, 2602
+IndiGo,10/01/2023,Bengaluru,Mumbai,21:30,23:25,115,0.0, 2779
+IndiGo,10/01/2023,Bengaluru,Mumbai,12:20,14:20,120,0.0, 2940
+IndiGo,10/01/2023,Bengaluru,Mumbai,16:20,18:15,115,0.0, 2940
+IndiGo,10/01/2023,Bengaluru,Mumbai,18:00,19:50,110,0.0, 2940
+IndiGo,10/01/2023,Bengaluru,Mumbai,19:25,21:15,110,0.0, 2940
+AirAsia,10/01/2023,Bengaluru,Mumbai,17:15,19:00,105,0.0, 3045
+AirAsia,10/01/2023,Bengaluru,Mumbai,19:20,21:00,100,0.0, 3045
+AirAsia,10/01/2023,Bengaluru,Mumbai,22:50,00:40,110,0.0, 3045
+IndiGo,10/01/2023,Bengaluru,Mumbai,14:45,16:50,125,0.0, 3058
+IndiGo,10/01/2023,Bengaluru,Mumbai,22:55,00:50,115,0.0, 3140
+Go First,10/01/2023,Bengaluru,Mumbai,18:50,20:35,105,0.0, 3152
+IndiGo,10/01/2023,Bengaluru,Mumbai,10:15,12:05,110,0.0, 3353
+IndiGo,10/01/2023,Bengaluru,Mumbai,07:20,09:10,110,0.0, 3415
+Akasa Air,10/01/2023,Bengaluru,Mumbai,07:00,08:35,95,0.0, 3515
+Go First,10/01/2023,Bengaluru,Mumbai,08:00,09:40,100,0.0, 4352
+Air India,10/01/2023,Bengaluru,Mumbai,19:15,21:30,135,0.0, 4398
+AirAsia,10/01/2023,Bengaluru,Mumbai,13:00,02:20,800,1.0, 4642
+Vistara,10/01/2023,Bengaluru,Mumbai,06:40,08:20,100,0.0, 4671
+Vistara,10/01/2023,Bengaluru,Mumbai,11:05,13:05,120,0.0, 4671
+Vistara,10/01/2023,Bengaluru,Mumbai,19:00,20:40,100,0.0, 4671
+IndiGo,10/01/2023,Bengaluru,Mumbai,07:00,12:00,300,1.0, 5158
+Air India,10/01/2023,Bengaluru,Mumbai,06:40,08:35,115,0.0, 5238
+Vistara,10/01/2023,Bengaluru,Mumbai,21:35,23:20,105,0.0, 5292
+Vistara,10/01/2023,Bengaluru,Mumbai,18:30,20:15,105,0.0, 5616
+IndiGo,10/01/2023,Bengaluru,Mumbai,21:55,07:55,600,1.0, 5719
+Vistara,10/01/2023,Bengaluru,Mumbai,09:40,11:25,105,0.0, 8451
+Vistara,10/01/2023,Bengaluru,Mumbai,06:55,14:35,460,1.0, 9469
+IndiGo,10/01/2023,Bengaluru,Mumbai,05:15,09:15,240,1.0, 9471
+Vistara,10/01/2023,Bengaluru,Mumbai,19:55,21:40,105,0.0, 10236
+Air India,10/01/2023,Bengaluru,Mumbai,07:25,14:55,450,1.0, 10309
+Vistara,10/01/2023,Bengaluru,Mumbai,08:25,10:10,105,0.0, 11995
+Air India,10/01/2023,Bengaluru,Mumbai,05:45,12:25,400,1.0, 12693
+IndiGo,10/01/2023,Bengaluru,Mumbai,22:00,04:20,380,1.0, 13004
+SpiceJet,10/01/2023,Bengaluru,New Delhi,23:00,01:45,165,0.0, 5235
+IndiGo,10/01/2023,Bengaluru,New Delhi,22:00,01:00,180,0.0, 5236
+AirAsia,10/01/2023,Bengaluru,New Delhi,22:40,01:25,165,0.0, 5236
+Go First,10/01/2023,Bengaluru,New Delhi,06:30,14:30,480,1.0, 5427
+Go First,10/01/2023,Bengaluru,New Delhi,16:40,21:50,310,1.0, 5427
+IndiGo,10/01/2023,Bengaluru,New Delhi,20:40,23:35,175,0.0, 5449
+IndiGo,10/01/2023,Bengaluru,New Delhi,23:20,02:10,170,0.0, 5449
+AirAsia,10/01/2023,Bengaluru,New Delhi,15:00,20:45,345,1.0, 5658
+AirAsia,10/01/2023,Bengaluru,New Delhi,05:45,08:35,170,0.0, 5685
+AirAsia,10/01/2023,Bengaluru,New Delhi,19:50,22:50,180,0.0, 5685
+Air India,10/01/2023,Bengaluru,New Delhi,05:45,08:45,180,0.0, 5763
+IndiGo,10/01/2023,Bengaluru,New Delhi,04:25,07:15,170,0.0, 5777
+IndiGo,10/01/2023,Bengaluru,New Delhi,05:35,08:25,170,0.0, 5777
+Akasa Air,10/01/2023,Bengaluru,New Delhi,15:40,18:25,165,0.0, 5956
+IndiGo,10/01/2023,Bengaluru,New Delhi,19:15,22:10,175,0.0, 5987
+AirAsia,10/01/2023,Bengaluru,New Delhi,17:55,20:45,170,0.0, 6058
+AirAsia,10/01/2023,Bengaluru,New Delhi,16:35,01:40,545,1.0, 6163
+IndiGo,10/01/2023,Bengaluru,New Delhi,07:00,09:50,170,0.0, 6499
+IndiGo,10/01/2023,Bengaluru,New Delhi,15:45,18:35,170,0.0, 6499
+Go First,10/01/2023,Bengaluru,New Delhi,06:20,09:00,160,0.0, 6601
+Air India,10/01/2023,Bengaluru,New Delhi,08:00,10:50,170,0.0, 6603
+Air India,10/01/2023,Bengaluru,New Delhi,21:00,00:10,190,0.0, 6603
+IndiGo,10/01/2023,Bengaluru,New Delhi,08:00,10:55,175,0.0, 6617
+IndiGo,10/01/2023,Bengaluru,New Delhi,16:50,19:45,175,0.0, 6617
+Go First,10/01/2023,Bengaluru,New Delhi,18:50,01:05,375,1.0, 6998
+IndiGo,10/01/2023,Bengaluru,New Delhi,18:00,20:50,170,0.0, 7037
+SpiceJet,10/01/2023,Bengaluru,New Delhi,05:55,08:35,160,0.0, 7101
+SpiceJet,10/01/2023,Bengaluru,New Delhi,17:20,19:30,130,0.0, 7101
+SpiceJet,10/01/2023,Bengaluru,New Delhi,18:30,21:15,165,0.0, 7101
+AirAsia,10/01/2023,Bengaluru,New Delhi,03:30,08:50,320,1.0, 7142
+Air India,10/01/2023,Bengaluru,New Delhi,10:00,12:50,170,0.0, 7443
+Air India,10/01/2023,Bengaluru,New Delhi,11:45,14:45,180,0.0, 7443
+Air India,10/01/2023,Bengaluru,New Delhi,15:00,18:00,180,0.0, 7443
+Air India,10/01/2023,Bengaluru,New Delhi,17:00,19:45,165,0.0, 7443
+Air India,10/01/2023,Bengaluru,New Delhi,19:20,22:20,180,0.0, 7443
+Vistara,10/01/2023,Bengaluru,New Delhi,21:10,23:45,155,0.0, 7443
+IndiGo,10/01/2023,Bengaluru,New Delhi,12:00,14:50,170,0.0, 7457
+IndiGo,10/01/2023,Bengaluru,New Delhi,13:45,16:45,180,0.0, 7457
+Go First,10/01/2023,Bengaluru,New Delhi,21:25,00:10,165,0.0, 7700
+AirAsia,10/01/2023,Bengaluru,New Delhi,11:30,14:20,170,0.0, 8493
+Air India,10/01/2023,Bengaluru,New Delhi,14:00,19:50,350,1.0, 8493
+Vistara,10/01/2023,Bengaluru,New Delhi,07:00,09:40,160,0.0, 10593
+Vistara,10/01/2023,Bengaluru,New Delhi,09:45,12:40,175,0.0, 10593
+Vistara,10/01/2023,Bengaluru,New Delhi,19:40,22:20,160,0.0, 10593
+Air India,10/01/2023,Bengaluru,New Delhi,07:25,12:30,305,1.0, 11044
+Go First,10/01/2023,Bengaluru,New Delhi,15:50,20:20,270,1.0, 12987
+Vistara,10/01/2023,Bengaluru,New Delhi,08:00,10:35,155,0.0, 13218
+Vistara,10/01/2023,Bengaluru,New Delhi,11:30,14:10,160,0.0, 13218
+Vistara,10/01/2023,Bengaluru,New Delhi,18:45,21:25,160,0.0, 13218
+Vistara,10/01/2023,Bengaluru,New Delhi,17:50,20:30,160,0.0, 15843
+Go First,10/01/2023,Mumbai,Goa,05:00,06:10,70,0.0, 2216
+Go First,10/01/2023,Mumbai,Goa,15:20,16:35,75,0.0, 2216
+Go First,10/01/2023,Mumbai,Goa,16:30,17:45,75,0.0, 2216
+Go First,10/01/2023,Mumbai,Goa,22:05,23:25,80,0.0, 2216
+AirAsia,10/01/2023,Mumbai,Goa,03:55,05:15,80,0.0, 2395
+AirAsia,10/01/2023,Mumbai,Goa,23:20,00:30,70,0.0, 2395
+SpiceJet,10/01/2023,Mumbai,Goa,21:05,22:20,75,0.0, 2397
+Vistara,10/01/2023,Mumbai,Goa,22:50,00:05,75,0.0, 2405
+IndiGo,10/01/2023,Mumbai,Goa,21:55,23:10,75,0.0, 2650
+Alliance Air,10/01/2023,Mumbai,Goa,19:00,20:30,90,0.0, 2900
+SpiceJet,10/01/2023,Mumbai,Goa,15:05,16:30,85,0.0, 3194
+Go First,10/01/2023,Mumbai,Goa,10:05,11:15,70,0.0, 3212
+Air India,10/01/2023,Mumbai,Goa,21:00,22:20,80,0.0, 3213
+SpiceJet,10/01/2023,Mumbai,Goa,11:15,12:30,75,0.0, 3404
+Go First,10/01/2023,Mumbai,Goa,11:30,12:45,75,0.0, 3747
+Air India,10/01/2023,Mumbai,Goa,05:00,06:20,80,0.0, 3843
+IndiGo,10/01/2023,Mumbai,Goa,04:50,06:10,80,0.0, 4053
+Vistara,10/01/2023,Mumbai,Goa,20:55,22:10,75,0.0, 4158
+IndiGo,10/01/2023,Mumbai,Goa,11:30,12:30,60,0.0, 4578
+IndiGo,10/01/2023,Mumbai,Goa,14:05,15:25,80,0.0, 4578
+IndiGo,10/01/2023,Mumbai,Goa,17:00,18:15,75,0.0, 4578
+AirAsia,10/01/2023,Mumbai,Goa,21:50,05:25,455,1.0, 5073
+IndiGo,10/01/2023,Mumbai,Goa,09:40,10:55,75,0.0, 5628
+Vistara,10/01/2023,Mumbai,Goa,11:25,12:45,80,0.0, 5628
+AirAsia,10/01/2023,Mumbai,Goa,20:35,05:25,530,1.0, 5672
+AirAsia,10/01/2023,Mumbai,Goa,19:40,05:25,585,1.0, 5672
+AirAsia,10/01/2023,Mumbai,Goa,01:15,02:25,70,0.0, 5838
+Air India,10/01/2023,Mumbai,Goa,13:30,14:45,75,0.0, 5838
+Vistara,10/01/2023,Mumbai,Goa,16:00,14:05,1325,1.0, 7445
+Go First,10/01/2023,Mumbai,Ahmedabad,22:40,23:50,70,0.0, 1899
+Go First,10/01/2023,Mumbai,Ahmedabad,23:30,00:40,70,0.0, 1899
+Akasa Air,10/01/2023,Mumbai,Ahmedabad,14:10,15:25,75,0.0, 2597
+Akasa Air,10/01/2023,Mumbai,Ahmedabad,05:40,06:55,75,0.0, 2797
+IndiGo,10/01/2023,Mumbai,Ahmedabad,15:40,17:00,80,0.0, 2895
+IndiGo,10/01/2023,Mumbai,Ahmedabad,00:30,01:45,75,0.0, 2930
+IndiGo,10/01/2023,Mumbai,Ahmedabad,16:45,18:05,80,0.0, 2930
+Go First,10/01/2023,Mumbai,Ahmedabad,15:15,16:25,70,0.0, 3146
+Vistara,10/01/2023,Mumbai,Ahmedabad,15:20,16:40,80,0.0, 3439
+Go First,10/01/2023,Mumbai,Ahmedabad,13:30,14:35,65,0.0, 3446
+IndiGo,10/01/2023,Mumbai,Ahmedabad,13:10,14:15,65,0.0, 3875
+IndiGo,10/01/2023,Mumbai,Ahmedabad,06:30,07:45,75,0.0, 4780
+Vistara,10/01/2023,Mumbai,Ahmedabad,06:35,07:50,75,0.0, 6363
+Vistara,10/01/2023,Mumbai,Ahmedabad,22:40,23:55,75,0.0, 6363
+Go First,10/01/2023,Mumbai,Ahmedabad,07:20,08:25,65,0.0, 8117
+Air India,10/01/2023,Mumbai,Ahmedabad,18:35,19:55,80,0.0, 8253
+IndiGo,10/01/2023,Mumbai,Ahmedabad,18:35,19:50,75,0.0, 8720
+IndiGo,10/01/2023,Mumbai,Ahmedabad,20:25,21:40,75,0.0, 10879
+Go First,10/01/2023,Mumbai,Ahmedabad,13:40,20:25,405,1.0, 11700
+IndiGo,10/01/2023,Mumbai,Ahmedabad,08:05,09:05,60,0.0, 12699
+Vistara,10/01/2023,Mumbai,Ahmedabad,15:45,22:55,430,1.0, 12978
+Akasa Air,10/01/2023,Mumbai,Ahmedabad,09:50,11:10,80,0.0, 13197
+Vistara,10/01/2023,Mumbai,Ahmedabad,23:10,22:55,1425,1.0, 13923
+IndiGo,10/01/2023,Mumbai,Tirupati,05:25,14:05,520,1.0, 5364
+Air India,10/01/2023,Mumbai,Tirupati,06:00,13:55,475,1.0, 6429
+IndiGo,10/01/2023,Mumbai,Tirupati,00:15,10:55,640,1.0, 6559
+SpiceJet,10/01/2023,Mumbai,Tirupati,13:45,15:40,115,0.0, 7918
+IndiGo,10/01/2023,Mumbai,Tirupati,16:05,19:30,205,1.0, 8022
+"IndiGo, Air India",10/01/2023,Mumbai,Tirupati,05:25,13:55,510,1.0, 8741
+"Vistara, Air India",10/01/2023,Mumbai,Tirupati,06:20,13:55,455,1.0, 9791
+IndiGo,10/01/2023,Mumbai,Tirupati,13:10,19:30,380,1.0, 10721
+IndiGo,10/01/2023,Mumbai,Tirupati,20:30,07:30,660,1.0, 11298
+"IndiGo, Air India",10/01/2023,Mumbai,Tirupati,05:35,13:55,500,2.0, 11757
+"IndiGo, Air India",10/01/2023,Mumbai,Tirupati,06:50,13:55,425,1.0, 12311
+IndiGo,10/01/2023,Mumbai,Tirupati,06:50,14:05,435,1.0, 13136
+IndiGo,10/01/2023,Mumbai,Tirupati,06:50,17:10,620,1.0, 13451
+IndiGo,10/01/2023,Mumbai,Tirupati,09:10,19:30,620,1.0, 15446
+IndiGo,10/01/2023,Mumbai,Tirupati,09:10,14:05,295,1.0, 15761
+IndiGo,10/01/2023,Mumbai,Tirupati,09:10,17:10,480,1.0, 16076
+Akasa Air,10/01/2023,Mumbai,Bengaluru,22:20,00:05,105,0.0, 2702
+AirAsia,10/01/2023,Mumbai,Bengaluru,21:50,23:50,120,0.0, 2999
+Akasa Air,10/01/2023,Mumbai,Bengaluru,00:05,01:45,100,0.0, 2152
+IndiGo,10/01/2023,Mumbai,Bengaluru,00:15,02:00,105,0.0, 3000
+Akasa Air,10/01/2023,Mumbai,Bengaluru,00:05,01:45,100,0.0, 3002
+Akasa Air,10/01/2023,Mumbai,Bengaluru,20:25,22:05,100,0.0, 3002
+Go First,10/01/2023,Mumbai,Bengaluru,22:15,23:55,100,0.0, 3151
+Akasa Air,10/01/2023,Mumbai,Bengaluru,13:00,14:30,90,0.0, 3599
+Akasa Air,10/01/2023,Mumbai,Bengaluru,14:15,15:45,90,0.0, 3599
+AirAsia,10/01/2023,Mumbai,Bengaluru,19:40,21:40,120,0.0, 3600
+AirAsia,10/01/2023,Mumbai,Bengaluru,20:35,22:15,100,0.0, 3600
+IndiGo,10/01/2023,Mumbai,Bengaluru,15:00,16:35,95,0.0, 3789
+Go First,10/01/2023,Mumbai,Bengaluru,05:45,07:25,100,0.0, 3950
+Go First,10/01/2023,Mumbai,Bengaluru,19:15,20:55,100,0.0, 3950
+IndiGo,10/01/2023,Mumbai,Bengaluru,23:10,00:45,95,0.0, 3999
+IndiGo,10/01/2023,Mumbai,Bengaluru,16:45,18:40,115,0.0, 4085
+AirAsia,10/01/2023,Mumbai,Bengaluru,03:55,08:20,265,1.0, 4277
+AirAsia,10/01/2023,Mumbai,Bengaluru,23:20,07:05,465,1.0, 4277
+Vistara,10/01/2023,Mumbai,Bengaluru,16:00,17:45,105,0.0, 4400
+IndiGo,10/01/2023,Mumbai,Bengaluru,18:50,20:40,110,0.0, 4400
+Air India,10/01/2023,Mumbai,Bengaluru,05:25,12:20,415,1.0, 4862
+AirAsia,10/01/2023,Mumbai,Bengaluru,01:15,07:05,350,1.0, 4966
+IndiGo,10/01/2023,Mumbai,Bengaluru,09:50,11:30,100,0.0, 5025
+IndiGo,10/01/2023,Mumbai,Bengaluru,20:35,22:25,110,0.0, 5025
+Vistara,10/01/2023,Mumbai,Bengaluru,06:00,07:45,105,0.0, 5049
+Akasa Air,10/01/2023,Mumbai,Bengaluru,09:20,11:05,105,0.0, 5052
+IndiGo,10/01/2023,Mumbai,Bengaluru,07:00,08:35,95,0.0, 5335
+IndiGo,10/01/2023,Mumbai,Bengaluru,07:40,09:35,115,0.0, 5335
+IndiGo,10/01/2023,Mumbai,Bengaluru,12:15,13:45,90,0.0, 5335
+Vistara,10/01/2023,Mumbai,Bengaluru,17:30,19:15,105,0.0, 5345
+Air India,10/01/2023,Mumbai,Bengaluru,21:00,05:35,515,1.0, 6056
+Air India,10/01/2023,Mumbai,Bengaluru,06:45,08:30,105,0.0, 6122
+Air India,10/01/2023,Mumbai,Bengaluru,09:20,11:05,105,0.0, 6122
+Air India,10/01/2023,Mumbai,Bengaluru,16:40,18:25,105,0.0, 6122
+Air India,10/01/2023,Mumbai,Bengaluru,18:50,20:30,100,0.0, 6122
+IndiGo,10/01/2023,Mumbai,Bengaluru,08:30,10:20,110,0.0, 6206
+IndiGo,10/01/2023,Mumbai,Bengaluru,05:35,13:55,500,1.0, 6222
+Vistara,10/01/2023,Mumbai,Bengaluru,17:55,19:15,80,0.0, 6605
+Vistara,10/01/2023,Mumbai,Bengaluru,22:50,15:55,1025,1.0, 6605
+IndiGo,10/01/2023,Mumbai,Bengaluru,20:30,06:35,605,1.0, 8110
+Vistara,10/01/2023,Mumbai,Bengaluru,21:30,22:50,80,0.0, 8180
+IndiGo,10/01/2023,Mumbai,Bengaluru,04:50,09:25,275,1.0, 8726
+Vistara,10/01/2023,Mumbai,Bengaluru,09:05,10:50,105,0.0, 9965
+Vistara,10/01/2023,Mumbai,Bengaluru,19:10,20:55,105,0.0, 9965
+Vistara,10/01/2023,Mumbai,Bengaluru,11:25,15:55,270,1.0, 10038
+Vistara,10/01/2023,Mumbai,Bengaluru,07:00,08:45,105,0.0, 11724
+IndiGo,10/01/2023,Mumbai,Bengaluru,11:30,16:15,285,1.0, 12401
+AirAsia,10/01/2023,Mumbai,New Delhi,15:15,23:05,470,1.0, 5328
+Go First,10/01/2023,Mumbai,New Delhi,05:50,08:00,130,0.0, 5395
+Go First,10/01/2023,Mumbai,New Delhi,08:45,10:55,130,0.0, 5395
+Go First,10/01/2023,Mumbai,New Delhi,09:55,12:05,130,0.0, 5395
+Go First,10/01/2023,Mumbai,New Delhi,19:10,21:20,130,0.0, 5395
+Go First,10/01/2023,Mumbai,New Delhi,20:15,22:25,130,0.0, 5395
+Go First,10/01/2023,Mumbai,New Delhi,21:15,23:30,135,0.0, 5395
+Go First,10/01/2023,Mumbai,New Delhi,22:55,01:05,130,0.0, 5395
+Go First,10/01/2023,Mumbai,New Delhi,23:45,02:00,135,0.0, 5395
+IndiGo,10/01/2023,Mumbai,New Delhi,23:50,09:40,590,1.0, 5581
+SpiceJet,10/01/2023,Mumbai,New Delhi,06:10,10:30,260,1.0, 5731
+Akasa Air,10/01/2023,Mumbai,New Delhi,13:25,15:30,125,0.0, 5823
+AirAsia,10/01/2023,Mumbai,New Delhi,07:35,14:30,415,1.0, 5855
+IndiGo,10/01/2023,Mumbai,New Delhi,23:15,01:40,145,0.0, 5899
+SpiceJet,10/01/2023,Mumbai,New Delhi,07:10,09:30,140,0.0, 5938
+SpiceJet,10/01/2023,Mumbai,New Delhi,10:05,12:20,135,0.0, 5938
+SpiceJet,10/01/2023,Mumbai,New Delhi,23:00,01:15,135,0.0, 5938
+IndiGo,10/01/2023,Mumbai,New Delhi,23:50,06:40,410,1.0, 6092
+SpiceJet,10/01/2023,Mumbai,New Delhi,21:10,23:20,130,0.0, 6942
+IndiGo,10/01/2023,Mumbai,New Delhi,02:30,04:45,135,0.0, 7308
+IndiGo,10/01/2023,Mumbai,New Delhi,05:00,07:15,135,0.0, 7308
+IndiGo,10/01/2023,Mumbai,New Delhi,06:05,08:20,135,0.0, 7308
+IndiGo,10/01/2023,Mumbai,New Delhi,07:00,09:15,135,0.0, 7308
+Air India,10/01/2023,Mumbai,New Delhi,07:00,09:15,135,0.0, 7308
+IndiGo,10/01/2023,Mumbai,New Delhi,07:45,10:00,135,0.0, 7308
+Air India,10/01/2023,Mumbai,New Delhi,08:00,10:15,135,0.0, 7308
+IndiGo,10/01/2023,Mumbai,New Delhi,08:30,10:45,135,0.0, 7308
+Air India,10/01/2023,Mumbai,New Delhi,09:00,11:20,140,0.0, 7308
+IndiGo,10/01/2023,Mumbai,New Delhi,09:30,11:45,135,0.0, 7308
+Air India,10/01/2023,Mumbai,New Delhi,10:00,12:15,135,0.0, 7308
+IndiGo,10/01/2023,Mumbai,New Delhi,10:25,12:40,135,0.0, 7308
+Vistara,10/01/2023,Mumbai,New Delhi,11:55,14:05,130,0.0, 7308
+IndiGo,10/01/2023,Mumbai,New Delhi,12:05,14:15,130,0.0, 7308
+Vistara,10/01/2023,Mumbai,New Delhi,12:25,14:50,145,0.0, 7308
+IndiGo,10/01/2023,Mumbai,New Delhi,12:40,15:00,140,0.0, 7308
+Air India,10/01/2023,Mumbai,New Delhi,13:00,15:15,135,0.0, 7308
+IndiGo,10/01/2023,Mumbai,New Delhi,14:35,16:45,130,0.0, 7308
+Air India,10/01/2023,Mumbai,New Delhi,15:30,17:55,145,0.0, 7308
+IndiGo,10/01/2023,Mumbai,New Delhi,15:45,17:35,110,0.0, 7308
+Vistara,10/01/2023,Mumbai,New Delhi,15:45,18:05,140,0.0, 7308
+Air India,10/01/2023,Mumbai,New Delhi,16:35,18:40,125,0.0, 7308
+IndiGo,10/01/2023,Mumbai,New Delhi,17:15,19:30,135,0.0, 7308
+Air India,10/01/2023,Mumbai,New Delhi,18:00,20:20,140,0.0, 7308
+IndiGo,10/01/2023,Mumbai,New Delhi,18:45,21:00,135,0.0, 7308
+Air India,10/01/2023,Mumbai,New Delhi,19:00,21:20,140,0.0, 7308
+IndiGo,10/01/2023,Mumbai,New Delhi,20:00,22:15,135,0.0, 7308
+Air India,10/01/2023,Mumbai,New Delhi,21:05,22:55,110,0.0, 7308
+Vistara,10/01/2023,Mumbai,New Delhi,21:55,00:10,135,0.0, 7308
+IndiGo,10/01/2023,Mumbai,New Delhi,22:15,00:40,145,0.0, 7308
+Vistara,10/01/2023,Mumbai,New Delhi,23:10,01:00,110,0.0, 7308
+IndiGo,10/01/2023,Mumbai,New Delhi,15:40,00:05,505,1.0, 7316
+Vistara,10/01/2023,Mumbai,New Delhi,06:00,07:55,115,0.0, 8568
+Vistara,10/01/2023,Mumbai,New Delhi,06:30,08:35,125,0.0, 8568
+Vistara,10/01/2023,Mumbai,New Delhi,14:40,16:55,135,0.0, 8568
+Vistara,10/01/2023,Mumbai,New Delhi,10:30,14:40,250,1.0, 8988
+Vistara,10/01/2023,Mumbai,New Delhi,10:20,12:40,140,0.0, 10143
+Air India,10/01/2023,Mumbai,New Delhi,17:10,23:25,375,1.0, 10269
+Vistara,10/01/2023,Mumbai,New Delhi,17:35,19:45,130,0.0, 11718
+Vistara,10/01/2023,Mumbai,New Delhi,18:30,20:40,130,0.0, 11718
+Vistara,10/01/2023,Mumbai,New Delhi,20:55,23:00,125,0.0, 11718
+IndiGo,10/01/2023,Mumbai,New Delhi,13:10,17:05,235,1.0, 12485
+IndiGo,10/01/2023,Mumbai,New Delhi,05:45,09:35,230,1.0, 13451
+Vistara,10/01/2023,Mumbai,New Delhi,08:45,11:00,135,0.0, 13818
+Vistara,10/01/2023,Mumbai,New Delhi,19:45,21:55,130,0.0, 13818
+Vistara,10/01/2023,Mumbai,New Delhi,07:30,09:40,130,0.0, 19068
+Go First,10/01/2023,New Delhi,Goa,10:55,13:30,155,0.0, 5202
+IndiGo,10/01/2023,New Delhi,Goa,19:10,21:55,165,0.0, 5219
+Go First,10/01/2023,New Delhi,Goa,21:30,00:05,155,0.0, 5932
+IndiGo,10/01/2023,New Delhi,Goa,20:25,22:50,145,0.0, 6007
+SpiceJet,10/01/2023,New Delhi,Goa,07:00,22:20,920,1.0, 6317
+SpiceJet,10/01/2023,New Delhi,Goa,16:50,19:15,145,0.0, 6999
+SpiceJet,10/01/2023,New Delhi,Goa,17:45,20:25,160,0.0, 6999
+IndiGo,10/01/2023,New Delhi,Goa,17:40,20:20,160,0.0, 7004
+Go First,10/01/2023,New Delhi,Goa,07:20,16:35,555,1.0, 7050
+Vistara,10/01/2023,New Delhi,Goa,18:40,21:20,160,0.0, 7373
+SpiceJet,10/01/2023,New Delhi,Goa,12:15,14:50,155,0.0, 7529
+Go First,10/01/2023,New Delhi,Goa,07:20,12:45,325,1.0, 7713
+AirAsia,10/01/2023,New Delhi,Goa,04:35,07:25,170,0.0, 8159
+AirAsia,10/01/2023,New Delhi,Goa,12:45,15:25,160,0.0, 8159
+IndiGo,10/01/2023,New Delhi,Goa,16:25,19:05,160,0.0, 8159
+AirAsia,10/01/2023,New Delhi,Goa,20:00,22:35,155,0.0, 8159
+AirAsia,10/01/2023,New Delhi,Goa,13:15,17:35,260,1.0, 8159
+IndiGo,10/01/2023,New Delhi,Goa,17:15,00:20,425,1.0, 8159
+Air India,10/01/2023,New Delhi,Goa,10:55,13:25,150,0.0, 8160
+Air India,10/01/2023,New Delhi,Goa,22:00,00:40,160,0.0, 8160
+"SpiceJet, Go First",10/01/2023,New Delhi,Goa,18:10,23:25,315,1.0, 8168
+IndiGo,10/01/2023,New Delhi,Goa,12:05,14:40,155,0.0, 8350
+IndiGo,10/01/2023,New Delhi,Goa,20:30,01:30,300,1.0, 8435
+IndiGo,10/01/2023,New Delhi,Goa,09:55,12:35,160,0.0, 8650
+IndiGo,10/01/2023,New Delhi,Goa,10:55,13:40,165,0.0, 8650
+"Go First, SpiceJet",10/01/2023,New Delhi,Goa,06:00,12:30,390,1.0, 8813
+IndiGo,10/01/2023,New Delhi,Goa,01:55,07:00,305,1.0, 8834
+IndiGo,10/01/2023,New Delhi,Goa,07:25,10:05,160,0.0, 8900
+IndiGo,10/01/2023,New Delhi,Goa,20:10,01:35,325,1.0, 8989
+Vistara,10/01/2023,New Delhi,Goa,11:10,13:50,160,0.0, 10575
+Go First,10/01/2023,New Delhi,Ahmedabad,22:00,23:35,95,0.0, 4239
+Alliance Air,10/01/2023,New Delhi,Ahmedabad,13:15,16:20,185,1.0, 4695
+IndiGo,10/01/2023,New Delhi,Ahmedabad,22:00,23:35,95,0.0, 4952
+IndiGo,10/01/2023,New Delhi,Ahmedabad,05:10,15:00,590,1.0, 5514
+SpiceJet,10/01/2023,New Delhi,Ahmedabad,20:10,07:40,690,1.0, 5792
+Vistara,10/01/2023,New Delhi,Ahmedabad,21:20,22:55,95,0.0, 6060
+SpiceJet,10/01/2023,New Delhi,Ahmedabad,20:30,22:10,100,0.0, 6310
+Go First,10/01/2023,New Delhi,Ahmedabad,06:00,07:35,95,0.0, 6539
+Go First,10/01/2023,New Delhi,Ahmedabad,17:30,19:05,95,0.0, 6539
+IndiGo,10/01/2023,New Delhi,Ahmedabad,13:20,15:00,100,0.0, 6747
+IndiGo,10/01/2023,New Delhi,Ahmedabad,21:30,07:25,595,1.0, 7688
+Vistara,10/01/2023,New Delhi,Ahmedabad,06:30,08:05,95,0.0, 8265
+IndiGo,10/01/2023,New Delhi,Ahmedabad,23:40,01:25,105,0.0, 8517
+Air India,10/01/2023,New Delhi,Ahmedabad,04:45,14:10,565,1.0, 9074
+Air India,10/01/2023,New Delhi,Ahmedabad,04:55,06:55,120,0.0, 9494
+IndiGo,10/01/2023,New Delhi,Ahmedabad,20:20,21:55,95,0.0, 9952
+Vistara,10/01/2023,New Delhi,Ahmedabad,13:25,15:00,95,0.0, 10189
+Vistara,10/01/2023,New Delhi,Ahmedabad,18:00,19:45,105,0.0, 10189
+IndiGo,10/01/2023,New Delhi,Ahmedabad,15:10,20:45,335,1.0, 10361
+IndiGo,10/01/2023,New Delhi,Ahmedabad,09:40,11:25,105,0.0, 10952
+IndiGo,10/01/2023,New Delhi,Ahmedabad,14:55,20:15,320,1.0, 11729
+Air India,10/01/2023,New Delhi,Ahmedabad,19:10,20:50,100,0.0, 11835
+Vistara,10/01/2023,New Delhi,Ahmedabad,07:30,16:40,550,1.0, 12187
+Akasa Air,10/01/2023,New Delhi,Ahmedabad,19:10,20:55,105,0.0, 13187
+Vistara,10/01/2023,New Delhi,Ahmedabad,17:45,23:55,370,1.0, 13305
+IndiGo,10/01/2023,New Delhi,Ahmedabad,06:20,08:05,105,0.0, 17294
+IndiGo,10/01/2023,New Delhi,Ahmedabad,18:40,20:15,95,0.0, 18052
+Air India,10/01/2023,New Delhi,Tirupati,07:10,13:55,405,1.0, 8019
+IndiGo,10/01/2023,New Delhi,Tirupati,01:55,07:30,335,1.0, 8245
+IndiGo,10/01/2023,New Delhi,Tirupati,06:30,14:05,455,1.0, 8245
+IndiGo,10/01/2023,New Delhi,Tirupati,09:55,17:10,435,1.0, 8245
+IndiGo,10/01/2023,New Delhi,Tirupati,06:30,17:10,640,1.0, 8245
+IndiGo,10/01/2023,New Delhi,Tirupati,09:55,19:30,575,1.0, 8245
+IndiGo,10/01/2023,New Delhi,Tirupati,09:55,14:05,250,1.0, 8894
+IndiGo,10/01/2023,New Delhi,Tirupati,04:20,10:55,395,1.0, 9251
+Air India,10/01/2023,New Delhi,Tirupati,09:45,13:55,250,1.0, 9315
+SpiceJet,10/01/2023,New Delhi,Tirupati,20:00,15:40,1180,1.0, 9738
+SpiceJet,10/01/2023,New Delhi,Tirupati,18:10,15:40,1290,1.0, 9738
+IndiGo,10/01/2023,New Delhi,Tirupati,06:10,12:10,360,1.0, 9842
+"IndiGo, Air India",10/01/2023,New Delhi,Tirupati,06:30,13:55,445,1.0, 10327
+SpiceJet,10/01/2023,New Delhi,Tirupati,07:00,15:40,520,1.0, 10684
+SpiceJet,10/01/2023,New Delhi,Tirupati,02:00,15:40,820,1.0, 10684
+"IndiGo, Air India",10/01/2023,New Delhi,Tirupati,08:10,13:55,345,1.0, 10957
+"Vistara, Air India",10/01/2023,New Delhi,Tirupati,07:20,13:55,395,1.0, 10958
+IndiGo,10/01/2023,New Delhi,Tirupati,13:40,19:30,350,1.0, 11414
+SpiceJet,10/01/2023,New Delhi,Tirupati,16:25,07:20,895,1.0, 11442
+IndiGo,10/01/2023,New Delhi,Tirupati,08:10,19:30,680,1.0, 11467
+IndiGo,10/01/2023,New Delhi,Tirupati,08:10,14:05,355,1.0, 11782
+IndiGo,10/01/2023,New Delhi,Tirupati,08:10,17:10,540,1.0, 12097
+SpiceJet,10/01/2023,New Delhi,Tirupati,17:35,20:00,1585,1.0, 12779
+IndiGo,10/01/2023,New Delhi,Tirupati,21:25,07:30,605,1.0, 13042
+IndiGo,10/01/2023,New Delhi,Tirupati,19:45,07:30,705,1.0, 13042
+Go First,10/01/2023,New Delhi,Bengaluru,09:35,19:50,615,1.0, 5229
+IndiGo,10/01/2023,New Delhi,Bengaluru,04:20,07:15,175,0.0, 5482
+IndiGo,10/01/2023,New Delhi,Bengaluru,17:25,20:05,160,0.0, 5482
+AirAsia,10/01/2023,New Delhi,Bengaluru,05:45,12:25,400,1.0, 5901
+AirAsia,10/01/2023,New Delhi,Bengaluru,08:10,10:55,165,0.0, 6217
+AirAsia,10/01/2023,New Delhi,Bengaluru,09:30,12:15,165,0.0, 6217
+Vistara,10/01/2023,New Delhi,Bengaluru,19:55,22:40,165,0.0, 6344
+IndiGo,10/01/2023,New Delhi,Bengaluru,07:00,09:50,170,0.0, 6416
+IndiGo,10/01/2023,New Delhi,Bengaluru,07:55,11:05,190,0.0, 6416
+SpiceJet,10/01/2023,New Delhi,Bengaluru,09:20,17:05,465,1.0, 6440
+IndiGo,10/01/2023,New Delhi,Bengaluru,21:45,00:35,170,0.0, 6659
+AirAsia,10/01/2023,New Delhi,Bengaluru,10:10,17:20,430,1.0, 6737
+AirAsia,10/01/2023,New Delhi,Bengaluru,23:05,06:55,470,1.0, 6737
+AirAsia,10/01/2023,New Delhi,Bengaluru,21:20,00:25,185,0.0, 7016
+IndiGo,10/01/2023,New Delhi,Bengaluru,09:15,12:05,170,0.0, 7079
+IndiGo,10/01/2023,New Delhi,Bengaluru,20:30,23:25,175,0.0, 7079
+IndiGo,10/01/2023,New Delhi,Bengaluru,22:55,01:45,170,0.0, 7079
+Air India,10/01/2023,New Delhi,Bengaluru,18:10,21:00,170,0.0, 7184
+Air India,10/01/2023,New Delhi,Bengaluru,21:10,00:05,175,0.0, 7184
+IndiGo,10/01/2023,New Delhi,Bengaluru,01:55,08:10,375,1.0, 7487
+IndiGo,10/01/2023,New Delhi,Bengaluru,18:25,02:20,475,1.0, 7487
+IndiGo,10/01/2023,New Delhi,Bengaluru,10:40,13:30,170,0.0, 7499
+IndiGo,10/01/2023,New Delhi,Bengaluru,12:15,15:05,170,0.0, 7499
+IndiGo,10/01/2023,New Delhi,Bengaluru,13:05,15:55,170,0.0, 7499
+Go First,10/01/2023,New Delhi,Bengaluru,20:10,22:50,160,0.0, 7702
+SpiceJet,10/01/2023,New Delhi,Bengaluru,06:20,09:10,170,0.0, 7754
+SpiceJet,10/01/2023,New Delhi,Bengaluru,19:35,22:20,165,0.0, 7754
+SpiceJet,10/01/2023,New Delhi,Bengaluru,22:00,00:45,165,0.0, 7754
+IndiGo,10/01/2023,New Delhi,Bengaluru,19:20,22:05,165,0.0, 7919
+Vistara,10/01/2023,New Delhi,Bengaluru,05:35,08:20,165,0.0, 8234
+Air India,10/01/2023,New Delhi,Bengaluru,06:10,08:55,165,0.0, 8234
+Air India,10/01/2023,New Delhi,Bengaluru,19:25,22:40,195,0.0, 8234
+Vistara,10/01/2023,New Delhi,Bengaluru,20:40,23:20,160,0.0, 8234
+Air India,10/01/2023,New Delhi,Bengaluru,05:45,12:20,395,1.0, 8234
+SpiceJet,10/01/2023,New Delhi,Bengaluru,14:00,16:40,160,0.0, 8445
+IndiGo,10/01/2023,New Delhi,Bengaluru,15:40,18:30,170,0.0, 8580
+"IndiGo, Akasa Air",10/01/2023,New Delhi,Bengaluru,08:25,14:50,385,1.0, 8654
+AirAsia,10/01/2023,New Delhi,Bengaluru,16:30,19:20,170,0.0, 9000
+Vistara,10/01/2023,New Delhi,Bengaluru,09:05,11:50,165,0.0, 9284
+Go First,10/01/2023,New Delhi,Bengaluru,10:55,15:10,255,1.0, 9367
+Go First,10/01/2023,New Delhi,Bengaluru,05:45,08:35,170,0.0, 9701
+Akasa Air,10/01/2023,New Delhi,Bengaluru,11:50,14:35,165,0.0, 9977
+Air India,10/01/2023,New Delhi,Bengaluru,08:00,10:55,175,0.0, 10334
+Air India,10/01/2023,New Delhi,Bengaluru,09:45,12:30,165,0.0, 10334
+Vistara,10/01/2023,New Delhi,Bengaluru,16:05,18:50,165,0.0, 10334
+Air India,10/01/2023,New Delhi,Bengaluru,16:55,20:15,200,0.0, 10334
+Vistara,10/01/2023,New Delhi,Bengaluru,17:30,20:25,175,0.0, 10334
+AirAsia,10/01/2023,New Delhi,Bengaluru,19:05,21:45,160,0.0, 10501
+"IndiGo, Star Air",10/01/2023,New Delhi,Bengaluru,15:10,21:25,375,1.0, 11364
+Vistara,10/01/2023,New Delhi,Bengaluru,08:10,10:45,155,0.0, 12959
+Vistara,10/01/2023,New Delhi,Bengaluru,14:10,17:00,170,0.0, 12959
+Air India,10/01/2023,New Delhi,Bengaluru,15:35,18:30,175,0.0, 18345
+SpiceJet,10/01/2023,New Delhi,Mumbai,20:10,10:30,860,1.0, 4841
+AirAsia,10/01/2023,New Delhi,Mumbai,04:55,13:05,490,1.0, 5383
+Go First,10/01/2023,New Delhi,Mumbai,02:40,04:50,130,0.0, 5409
+Go First,10/01/2023,New Delhi,Mumbai,06:00,08:10,130,0.0, 5409
+Go First,10/01/2023,New Delhi,Mumbai,07:20,09:30,130,0.0, 5409
+Go First,10/01/2023,New Delhi,Mumbai,14:35,16:45,130,0.0, 5409
+Go First,10/01/2023,New Delhi,Mumbai,18:00,20:10,130,0.0, 5409
+Go First,10/01/2023,New Delhi,Mumbai,20:00,22:10,130,0.0, 5409
+Go First,10/01/2023,New Delhi,Mumbai,21:00,23:15,135,0.0, 5409
+Go First,10/01/2023,New Delhi,Mumbai,22:30,00:40,130,0.0, 5409
+IndiGo,10/01/2023,New Delhi,Mumbai,11:05,16:45,340,1.0, 5592
+Akasa Air,10/01/2023,New Delhi,Mumbai,16:10,18:20,130,0.0, 5790
+IndiGo,10/01/2023,New Delhi,Mumbai,02:00,04:15,135,0.0, 5899
+IndiGo,10/01/2023,New Delhi,Mumbai,04:45,07:10,145,0.0, 5899
+IndiGo,10/01/2023,New Delhi,Mumbai,06:30,08:45,135,0.0, 5899
+IndiGo,10/01/2023,New Delhi,Mumbai,08:45,11:10,145,0.0, 5899
+IndiGo,10/01/2023,New Delhi,Mumbai,10:00,12:35,155,0.0, 5899
+IndiGo,10/01/2023,New Delhi,Mumbai,23:00,01:20,140,0.0, 5899
+SpiceJet,10/01/2023,New Delhi,Mumbai,02:00,04:15,135,0.0, 5952
+SpiceJet,10/01/2023,New Delhi,Mumbai,07:00,09:15,135,0.0, 5952
+SpiceJet,10/01/2023,New Delhi,Mumbai,18:10,20:05,115,0.0, 5952
+SpiceJet,10/01/2023,New Delhi,Mumbai,20:00,22:05,125,0.0, 5952
+Go First,10/01/2023,New Delhi,Mumbai,22:00,10:15,735,1.0, 6084
+IndiGo,10/01/2023,New Delhi,Mumbai,07:15,09:40,145,0.0, 7319
+IndiGo,10/01/2023,New Delhi,Mumbai,08:10,10:05,115,0.0, 7319
+IndiGo,10/01/2023,New Delhi,Mumbai,11:00,13:20,140,0.0, 7319
+IndiGo,10/01/2023,New Delhi,Mumbai,12:00,14:20,140,0.0, 7319
+IndiGo,10/01/2023,New Delhi,Mumbai,14:15,16:30,135,0.0, 7319
+IndiGo,10/01/2023,New Delhi,Mumbai,15:45,18:00,135,0.0, 7319
+IndiGo,10/01/2023,New Delhi,Mumbai,16:25,18:40,135,0.0, 7319
+IndiGo,10/01/2023,New Delhi,Mumbai,17:25,19:40,135,0.0, 7319
+IndiGo,10/01/2023,New Delhi,Mumbai,19:20,21:30,130,0.0, 7319
+IndiGo,10/01/2023,New Delhi,Mumbai,20:20,22:35,135,0.0, 7319
+IndiGo,10/01/2023,New Delhi,Mumbai,21:45,00:00,135,0.0, 7319
+AirAsia,10/01/2023,New Delhi,Mumbai,20:00,02:20,380,1.0, 7319
+Vistara,10/01/2023,New Delhi,Mumbai,05:45,08:00,135,0.0, 7320
+Air India,10/01/2023,New Delhi,Mumbai,07:00,09:15,135,0.0, 7320
+Air India,10/01/2023,New Delhi,Mumbai,08:00,10:20,140,0.0, 7320
+Air India,10/01/2023,New Delhi,Mumbai,09:00,11:20,140,0.0, 7320
+Air India,10/01/2023,New Delhi,Mumbai,10:00,12:25,145,0.0, 7320
+Vistara,10/01/2023,New Delhi,Mumbai,12:50,15:00,130,0.0, 7320
+Air India,10/01/2023,New Delhi,Mumbai,14:00,16:20,140,0.0, 7320
+Vistara,10/01/2023,New Delhi,Mumbai,14:20,16:30,130,0.0, 7320
+Vistara,10/01/2023,New Delhi,Mumbai,17:45,19:55,130,0.0, 7320
+Air India,10/01/2023,New Delhi,Mumbai,17:50,20:15,145,0.0, 7320
+Air India,10/01/2023,New Delhi,Mumbai,19:00,21:25,145,0.0, 7320
+Air India,10/01/2023,New Delhi,Mumbai,20:00,22:10,130,0.0, 7320
+Vistara,10/01/2023,New Delhi,Mumbai,20:40,22:55,135,0.0, 7320
+Air India,10/01/2023,New Delhi,Mumbai,21:20,23:35,135,0.0, 7320
+Vistara,10/01/2023,New Delhi,Mumbai,21:40,23:40,120,0.0, 7320
+Air India,10/01/2023,New Delhi,Mumbai,22:30,00:45,135,0.0, 7320
+IndiGo,10/01/2023,New Delhi,Mumbai,22:00,07:55,595,1.0, 7714
+IndiGo,10/01/2023,New Delhi,Mumbai,05:10,14:15,545,1.0, 7825
+Vistara,10/01/2023,New Delhi,Mumbai,07:30,09:40,130,0.0, 8580
+Vistara,10/01/2023,New Delhi,Mumbai,15:30,17:35,125,0.0, 8580
+IndiGo,10/01/2023,New Delhi,Mumbai,06:55,11:30,275,1.0, 8668
+Vistara,10/01/2023,New Delhi,Mumbai,08:50,11:15,145,0.0, 10155
+Vistara,10/01/2023,New Delhi,Mumbai,10:20,12:35,135,0.0, 10155
+Vistara,10/01/2023,New Delhi,Mumbai,11:40,13:55,135,0.0, 10155
+Vistara,10/01/2023,New Delhi,Mumbai,16:35,19:05,150,0.0, 10155
+Vistara,10/01/2023,New Delhi,Mumbai,19:45,22:00,135,0.0, 10155
+IndiGo,10/01/2023,New Delhi,Mumbai,23:40,10:05,625,1.0, 10363
+Vistara,10/01/2023,New Delhi,Mumbai,09:30,11:35,125,0.0, 13830
+Vistara,10/01/2023,New Delhi,Mumbai,19:00,21:15,135,0.0, 13830
+IndiGo,10/01/2023,New Delhi,Mumbai,09:40,16:10,390,1.0, 13868
+"AirAsia, Go First",11/01/2023,Goa,Ahmedabad,05:45,18:25,760,1.0, 4499
+"AirAsia, Akasa Air",11/01/2023,Goa,Ahmedabad,01:00,06:55,355,1.0, 5197
+"Vistara, Akasa Air",11/01/2023,Goa,Ahmedabad,00:40,06:55,375,1.0, 5618
+"AirAsia, IndiGo",11/01/2023,Goa,Ahmedabad,02:55,17:00,845,1.0, 6000
+"Air India, Go First",11/01/2023,Goa,Ahmedabad,06:50,18:25,695,1.0, 6043
+"AirAsia, Akasa Air",11/01/2023,Goa,Ahmedabad,05:45,15:25,580,1.0, 6147
+SpiceJet,11/01/2023,Goa,Ahmedabad,01:20,02:55,95,0.0, 6417
+IndiGo,11/01/2023,Goa,Ahmedabad,00:50,07:15,385,1.0, 6559
+IndiGo,11/01/2023,Goa,Ahmedabad,00:50,09:30,520,1.0, 6559
+IndiGo,11/01/2023,Goa,Ahmedabad,07:35,15:40,485,1.0, 6559
+IndiGo,11/01/2023,Goa,Ahmedabad,06:45,17:00,615,1.0, 6559
+IndiGo,11/01/2023,Goa,Ahmedabad,07:35,18:10,635,1.0, 6559
+IndiGo,11/01/2023,Goa,Ahmedabad,08:05,18:55,650,1.0, 6559
+IndiGo,11/01/2023,Goa,Ahmedabad,14:25,22:50,505,1.0, 6559
+IndiGo,11/01/2023,Goa,Ahmedabad,22:05,07:15,550,1.0, 6559
+IndiGo,11/01/2023,Goa,Ahmedabad,23:40,08:25,525,1.0, 6559
+Go First,11/01/2023,Goa,Ahmedabad,06:40,18:25,705,1.0, 6578
+IndiGo,11/01/2023,Goa,Ahmedabad,08:55,10:35,100,0.0, 6595
+Go First,11/01/2023,Goa,Ahmedabad,23:55,08:25,510,1.0, 6614
+Go First,11/01/2023,Goa,Ahmedabad,21:05,22:40,95,0.0, 7085
+"IndiGo, Go First",11/01/2023,Goa,Ahmedabad,13:05,18:25,320,1.0, 7367
+IndiGo,11/01/2023,Goa,Ahmedabad,23:15,01:00,105,0.0, 7714
+IndiGo,11/01/2023,Goa,Ahmedabad,23:20,06:05,405,1.0, 7813
+"IndiGo, Go First",11/01/2023,Goa,Ahmedabad,18:45,23:50,305,1.0, 7828
+"IndiGo, Go First",11/01/2023,Goa,Ahmedabad,16:30,23:50,440,1.0, 7828
+Go First,11/01/2023,Goa,Ahmedabad,17:05,00:40,455,1.0, 7976
+Go First,11/01/2023,Goa,Ahmedabad,13:15,00:40,685,1.0, 7976
+Go First,11/01/2023,Goa,Ahmedabad,13:15,18:25,310,1.0, 8278
+IndiGo,11/01/2023,Goa,Ahmedabad,13:05,18:05,300,1.0, 8323
+IndiGo,11/01/2023,Goa,Ahmedabad,13:05,17:00,235,1.0, 8373
+Go First,11/01/2023,Goa,Ahmedabad,18:15,00:40,385,1.0, 8502
+"Go First, IndiGo",11/01/2023,Goa,Ahmedabad,13:15,18:05,290,1.0, 8755
+IndiGo,11/01/2023,Goa,Ahmedabad,18:45,01:45,420,1.0, 8898
+IndiGo,11/01/2023,Goa,Ahmedabad,16:30,01:45,555,1.0, 8898
+IndiGo,11/01/2023,Goa,Ahmedabad,21:40,08:25,645,1.0, 9010
+Go First,11/01/2023,Goa,Ahmedabad,17:05,23:50,405,1.0, 9026
+Go First,11/01/2023,Goa,Ahmedabad,13:15,23:50,635,1.0, 9026
+Go First,11/01/2023,Goa,Ahmedabad,14:10,20:35,385,1.0, 9512
+Go First,11/01/2023,Goa,Ahmedabad,18:15,23:50,335,1.0, 9552
+IndiGo,11/01/2023,Goa,Ahmedabad,23:45,07:45,480,1.0, 9580
+"Vistara, Go First",11/01/2023,Goa,Ahmedabad,13:20,18:25,305,1.0, 9613
+IndiGo,11/01/2023,Goa,Ahmedabad,13:05,19:50,405,1.0, 10073
+Go First,11/01/2023,Goa,Ahmedabad,14:00,20:35,395,1.0, 10086
+IndiGo,11/01/2023,Goa,Ahmedabad,21:40,03:45,365,1.0, 10510
+IndiGo,11/01/2023,Goa,Ahmedabad,08:00,17:55,595,1.0, 10969
+IndiGo,11/01/2023,Goa,Ahmedabad,11:25,18:05,400,1.0, 11089
+SpiceJet,11/01/2023,Goa,Ahmedabad,13:55,21:35,460,1.0, 11127
+IndiGo,11/01/2023,Goa,Ahmedabad,11:25,17:00,335,1.0, 11139
+Go First,11/01/2023,Goa,Ahmedabad,18:15,08:25,850,1.0, 11452
+IndiGo,11/01/2023,Goa,Ahmedabad,11:25,19:50,505,1.0, 12839
+IndiGo,11/01/2023,Goa,Ahmedabad,13:00,18:10,310,1.0, 12958
+IndiGo,11/01/2023,Goa,Ahmedabad,08:45,18:10,565,1.0, 12958
+IndiGo,11/01/2023,Goa,Ahmedabad,09:55,15:00,305,1.0, 13798
+IndiGo,11/01/2023,Goa,Ahmedabad,12:05,23:20,675,1.0, 14949
+IndiGo,11/01/2023,Goa,Ahmedabad,23:45,09:05,560,1.0, 15919
+IndiGo,11/01/2023,Goa,Ahmedabad,12:05,18:55,410,1.0, 15950
+IndiGo,11/01/2023,Goa,Ahmedabad,08:45,15:40,415,1.0, 16423
+IndiGo,11/01/2023,Goa,Ahmedabad,13:00,22:50,590,1.0, 16423
+IndiGo,11/01/2023,Goa,Ahmedabad,17:55,22:50,295,1.0, 16587
+IndiGo,11/01/2023,Goa,Ahmedabad,13:05,21:40,515,1.0, 17672
+IndiGo,11/01/2023,Goa,Ahmedabad,14:35,23:20,525,1.0, 17801
+IndiGo,11/01/2023,Goa,Ahmedabad,16:30,21:40,310,1.0, 18197
+IndiGo,11/01/2023,Goa,Ahmedabad,15:05,23:20,495,1.0, 19481
+IndiGo,11/01/2023,Goa,Ahmedabad,11:25,21:40,615,1.0, 20438
+IndiGo,11/01/2023,Goa,Ahmedabad,20:25,06:20,595,1.0, 31654
+SpiceJet,11/01/2023,Goa,Tirupati,18:40,19:40,1500,1.0, 7349
+SpiceJet,11/01/2023,Goa,Tirupati,18:40,20:35,1555,1.0, 7349
+IndiGo,11/01/2023,Goa,Tirupati,08:45,19:30,645,1.0, 5444
+IndiGo,11/01/2023,Goa,Tirupati,14:25,19:30,305,1.0, 7923
+SpiceJet,11/01/2023,Goa,Tirupati,18:40,07:20,760,1.0, 8765
+SpiceJet,11/01/2023,Goa,Tirupati,07:30,07:20,1430,1.0, 9289
+Air India,11/01/2023,Goa,Tirupati,23:10,13:55,885,2.0, 9502
+IndiGo,11/01/2023,Goa,Tirupati,13:00,19:30,390,1.0, 9598
+IndiGo,11/01/2023,Goa,Tirupati,08:45,19:30,645,1.0, 9598
+IndiGo,11/01/2023,Goa,Tirupati,00:50,07:30,400,1.0, 9928
+"Alliance Air, IndiGo",11/01/2023,Goa,Tirupati,13:15,19:30,375,1.0, 9986
+IndiGo,11/01/2023,Goa,Tirupati,07:35,14:05,390,1.0, 10129
+IndiGo,11/01/2023,Goa,Tirupati,08:45,14:05,320,1.0, 10228
+"IndiGo, Air India",11/01/2023,Goa,Tirupati,08:45,13:55,310,1.0, 10453
+"AirAsia, IndiGo",11/01/2023,Goa,Tirupati,07:15,19:30,735,2.0, 11642
+IndiGo,11/01/2023,Goa,Tirupati,07:35,17:10,575,1.0, 11914
+"Go First, IndiGo",11/01/2023,Goa,Tirupati,10:35,17:10,395,1.0, 11919
+IndiGo,11/01/2023,Goa,Tirupati,13:00,17:10,250,1.0, 12013
+IndiGo,11/01/2023,Goa,Tirupati,08:45,17:10,505,1.0, 12013
+IndiGo,11/01/2023,Goa,Tirupati,22:05,07:30,565,1.0, 12334
+Akasa Air,11/01/2023,Goa,Bengaluru,20:05,21:30,85,0.0, 2774
+Akasa Air,11/01/2023,Goa,Bengaluru,22:25,23:30,65,0.0, 2774
+Go First,11/01/2023,Goa,Bengaluru,14:10,15:25,75,0.0, 2775
+AirAsia,11/01/2023,Goa,Bengaluru,05:55,07:05,70,0.0, 2801
+Alliance Air,11/01/2023,Goa,Bengaluru,00:25,01:50,85,0.0, 3304
+Go First,11/01/2023,Goa,Bengaluru,14:00,15:10,70,0.0, 3349
+Air India,11/01/2023,Goa,Bengaluru,04:20,05:35,75,0.0, 3522
+IndiGo,11/01/2023,Goa,Bengaluru,21:40,23:00,80,0.0, 3812
+IndiGo,11/01/2023,Goa,Bengaluru,23:40,00:55,75,0.0, 4144
+IndiGo,11/01/2023,Goa,Bengaluru,08:05,09:25,80,0.0, 4564
+IndiGo,11/01/2023,Goa,Bengaluru,12:05,13:30,85,0.0, 4652
+AirAsia,11/01/2023,Goa,Bengaluru,07:15,08:20,65,0.0, 4879
+Vistara,11/01/2023,Goa,Bengaluru,14:40,15:55,75,0.0, 4879
+AirAsia,11/01/2023,Goa,Bengaluru,19:50,23:15,205,1.0, 4879
+AirAsia,11/01/2023,Goa,Bengaluru,14:45,16:00,75,0.0, 5719
+AirAsia,11/01/2023,Goa,Bengaluru,19:15,23:15,240,1.0, 6527
+IndiGo,11/01/2023,Goa,Bengaluru,14:35,15:50,75,0.0, 7568
+IndiGo,11/01/2023,Goa,Bengaluru,08:45,13:00,255,1.0, 9178
+IndiGo,11/01/2023,Goa,Bengaluru,15:05,16:15,70,0.0, 9184
+Vistara,11/01/2023,Goa,Bengaluru,13:20,19:15,355,1.0, 9888
+Air India,11/01/2023,Goa,Bengaluru,15:25,20:30,305,1.0, 9888
+AirAsia,11/01/2023,Goa,Mumbai,01:00,02:20,80,0.0, 2600
+AirAsia,11/01/2023,Goa,Mumbai,02:55,04:00,65,0.0, 2600
+AirAsia,11/01/2023,Goa,Mumbai,05:45,06:55,70,0.0, 2600
+Akasa Air,11/01/2023,Goa,Mumbai,11:50,13:15,85,0.0, 2640
+Vistara,11/01/2023,Goa,Mumbai,00:40,02:00,80,0.0, 3021
+IndiGo,11/01/2023,Goa,Mumbai,23:45,01:00,75,0.0, 3619
+Go First,11/01/2023,Goa,Mumbai,06:40,08:00,80,0.0, 3707
+Go First,11/01/2023,Goa,Mumbai,23:55,01:20,85,0.0, 3707
+SpiceJet,11/01/2023,Goa,Mumbai,22:50,23:50,60,0.0, 3840
+Air India,11/01/2023,Goa,Mumbai,06:50,08:10,80,0.0, 4144
+Air India,11/01/2023,Goa,Mumbai,23:10,00:20,70,0.0, 4144
+Alliance Air,11/01/2023,Goa,Mumbai,21:00,22:30,90,0.0, 4669
+SpiceJet,11/01/2023,Goa,Mumbai,13:05,14:20,75,0.0, 4784
+IndiGo,11/01/2023,Goa,Mumbai,06:45,07:55,70,0.0, 4879
+Vistara,11/01/2023,Goa,Mumbai,22:45,00:15,90,0.0, 4879
+SpiceJet,11/01/2023,Goa,Mumbai,17:05,18:20,75,0.0, 5310
+SpiceJet,11/01/2023,Goa,New Delhi,22:50,09:30,640,1.0, 7336
+AirAsia,11/01/2023,Goa,New Delhi,23:05,01:45,160,0.0, 8869
+AirAsia,11/01/2023,Goa,New Delhi,07:15,14:20,425,1.0, 8901
+AirAsia,11/01/2023,Goa,New Delhi,05:55,14:20,505,1.0, 8901
+IndiGo,11/01/2023,Goa,New Delhi,22:30,01:00,150,0.0, 9027
+SpiceJet,11/01/2023,Goa,New Delhi,01:20,07:50,390,1.0, 9286
+AirAsia,11/01/2023,Goa,New Delhi,18:05,22:15,250,1.0, 9395
+IndiGo,11/01/2023,Goa,New Delhi,13:10,15:40,150,0.0, 9447
+IndiGo,11/01/2023,Goa,New Delhi,14:15,16:45,150,0.0, 9447
+SpiceJet,11/01/2023,Goa,New Delhi,19:55,22:35,160,0.0, 9641
+Air India,11/01/2023,Goa,New Delhi,01:15,03:50,155,0.0, 9709
+AirAsia,11/01/2023,Goa,New Delhi,18:05,00:35,390,1.0, 9709
+IndiGo,11/01/2023,Goa,New Delhi,02:10,09:20,430,1.0, 9733
+IndiGo,11/01/2023,Goa,New Delhi,19:40,22:20,160,0.0, 9867
+IndiGo,11/01/2023,Goa,New Delhi,10:35,13:10,155,0.0, 9902
+IndiGo,11/01/2023,Goa,New Delhi,20:55,23:30,155,0.0, 9902
+Go First,11/01/2023,Goa,New Delhi,00:35,03:00,145,0.0, 9921
+IndiGo,11/01/2023,Goa,New Delhi,23:40,07:15,455,1.0, 9941
+SpiceJet,11/01/2023,Goa,New Delhi,20:55,23:50,175,0.0, 10481
+IndiGo,11/01/2023,Goa,New Delhi,07:30,09:55,145,0.0, 10637
+AirAsia,11/01/2023,Goa,New Delhi,08:10,10:45,155,0.0, 10759
+AirAsia,11/01/2023,Goa,New Delhi,16:35,19:10,155,0.0, 10759
+Go First,11/01/2023,Goa,New Delhi,17:05,23:30,385,1.0, 10768
+Vistara,11/01/2023,Goa,New Delhi,21:55,00:40,165,0.0, 10864
+SpiceJet,11/01/2023,Goa,New Delhi,13:55,19:50,355,1.0, 11022
+Air India,11/01/2023,Goa,New Delhi,14:05,16:40,155,0.0, 11599
+"AirAsia, IndiGo",11/01/2023,Goa,New Delhi,19:15,01:10,355,1.0, 11769
+IndiGo,11/01/2023,Goa,New Delhi,15:20,17:50,150,0.0, 13699
+Vistara,11/01/2023,Goa,New Delhi,14:25,17:05,160,0.0, 14014
+SpiceJet,11/01/2023,Goa,New Delhi,15:25,18:05,160,0.0, 14261
+SpiceJet,11/01/2023,Ahmedabad,Goa,23:00,00:45,105,0.0, 3998
+IndiGo,11/01/2023,Ahmedabad,Goa,20:55,22:45,110,0.0, 3999
+Go First,11/01/2023,Ahmedabad,Goa,18:55,20:35,100,0.0, 4000
+Go First,11/01/2023,Ahmedabad,Goa,08:55,23:25,870,1.0, 4387
+Go First,11/01/2023,Ahmedabad,Goa,05:45,17:45,720,1.0, 4394
+IndiGo,11/01/2023,Ahmedabad,Goa,15:15,16:55,100,0.0, 4524
+Air India,11/01/2023,Ahmedabad,Goa,20:40,06:20,580,1.0, 5118
+IndiGo,11/01/2023,Ahmedabad,Goa,05:35,07:15,100,0.0, 5299
+IndiGo,11/01/2023,Ahmedabad,Goa,17:30,23:10,340,1.0, 5299
+IndiGo,11/01/2023,Ahmedabad,Tirupati,10:30,16:20,350,1.0, 7720
+SpiceJet,11/01/2023,Ahmedabad,Tirupati,06:00,20:00,840,1.0, 9414
+Air India,11/01/2023,Ahmedabad,Tirupati,20:40,13:55,1035,2.0, 9580
+IndiGo,11/01/2023,Ahmedabad,Tirupati,23:50,10:55,665,1.0, 9675
+IndiGo,11/01/2023,Ahmedabad,Tirupati,07:50,14:05,375,1.0, 9683
+IndiGo,11/01/2023,Ahmedabad,Tirupati,05:30,14:05,515,1.0, 9683
+IndiGo,11/01/2023,Ahmedabad,Tirupati,04:40,11:50,430,1.0, 11616
+IndiGo,11/01/2023,Ahmedabad,Tirupati,07:50,17:10,560,1.0, 12993
+IndiGo,11/01/2023,Ahmedabad,Tirupati,23:25,07:30,485,1.0, 13143
+Air India,11/01/2023,Ahmedabad,Tirupati,10:40,13:55,1635,3.0, 19206
+Air India,11/01/2023,Ahmedabad,Tirupati,21:30,13:55,985,2.0, 20707
+Air India,11/01/2023,Ahmedabad,Tirupati,21:30,13:55,985,2.0, 22912
+Go First,11/01/2023,Ahmedabad,Bengaluru,21:10,07:25,615,1.0, 3497
+Akasa Air,11/01/2023,Ahmedabad,Bengaluru,17:35,19:45,130,0.0, 5853
+Akasa Air,11/01/2023,Ahmedabad,Bengaluru,21:35,23:35,120,0.0, 5853
+Go First,11/01/2023,Ahmedabad,Bengaluru,05:00,10:10,310,1.0, 5874
+Go First,11/01/2023,Ahmedabad,Bengaluru,09:25,11:25,120,0.0, 5897
+Go First,11/01/2023,Ahmedabad,Bengaluru,21:10,23:25,135,0.0, 5897
+IndiGo,11/01/2023,Ahmedabad,Bengaluru,04:40,06:45,125,0.0, 5899
+IndiGo,11/01/2023,Ahmedabad,Bengaluru,23:50,02:05,135,0.0, 5899
+IndiGo,11/01/2023,Ahmedabad,Bengaluru,04:30,09:35,305,1.0, 6380
+IndiGo,11/01/2023,Ahmedabad,Bengaluru,19:25,21:45,140,0.0, 6500
+IndiGo,11/01/2023,Ahmedabad,Bengaluru,08:45,13:45,300,1.0, 6829
+IndiGo,11/01/2023,Ahmedabad,Bengaluru,09:00,11:15,135,0.0, 6899
+IndiGo,11/01/2023,Ahmedabad,Bengaluru,08:55,13:55,300,1.0, 6925
+Go First,11/01/2023,Ahmedabad,Mumbai,05:45,06:50,65,0.0, 2000
+Go First,11/01/2023,Ahmedabad,Mumbai,08:55,10:15,80,0.0, 2000
+Go First,11/01/2023,Ahmedabad,Mumbai,20:10,21:25,75,0.0, 2000
+Go First,11/01/2023,Ahmedabad,Mumbai,21:10,22:30,80,0.0, 2000
+Akasa Air,11/01/2023,Ahmedabad,Mumbai,07:35,08:55,80,0.0, 2021
+IndiGo,11/01/2023,Ahmedabad,Mumbai,08:45,10:05,80,0.0, 2234
+IndiGo,11/01/2023,Ahmedabad,Mumbai,04:30,05:50,80,0.0, 2415
+IndiGo,11/01/2023,Ahmedabad,Mumbai,18:35,20:00,85,0.0, 2535
+IndiGo,11/01/2023,Ahmedabad,Mumbai,17:30,18:40,70,0.0, 2730
+Akasa Air,11/01/2023,Ahmedabad,Mumbai,16:05,17:25,80,0.0, 2738
+IndiGo,11/01/2023,Ahmedabad,Mumbai,06:40,07:55,75,0.0, 3150
+IndiGo,11/01/2023,Ahmedabad,Mumbai,09:45,10:55,70,0.0, 3304
+IndiGo,11/01/2023,Ahmedabad,Mumbai,22:20,23:35,75,0.0, 4135
+Vistara,11/01/2023,Ahmedabad,Mumbai,05:05,06:15,70,0.0, 4222
+Air India,11/01/2023,Ahmedabad,Mumbai,20:40,22:05,85,0.0, 4222
+Vistara,11/01/2023,Ahmedabad,Mumbai,08:25,09:40,75,0.0, 4747
+Air India,11/01/2023,Ahmedabad,Mumbai,10:40,20:15,575,2.0, 10691
+Vistara,11/01/2023,Ahmedabad,Mumbai,17:15,18:45,90,0.0, 10837
+Vistara,11/01/2023,Ahmedabad,Mumbai,06:45,11:35,290,1.0, 12937
+Akasa Air,11/01/2023,Ahmedabad,New Delhi,09:15,11:00,105,0.0, 2936
+SpiceJet,11/01/2023,Ahmedabad,New Delhi,06:10,07:50,100,0.0, 3388
+Air India,11/01/2023,Ahmedabad,New Delhi,10:40,15:10,270,1.0, 3761
+IndiGo,11/01/2023,Ahmedabad,New Delhi,05:55,07:40,105,0.0, 3999
+Go First,11/01/2023,Ahmedabad,New Delhi,23:15,00:50,95,0.0, 4001
+Air India,11/01/2023,Ahmedabad,New Delhi,07:55,09:25,90,0.0, 4506
+Go First,11/01/2023,Ahmedabad,New Delhi,19:35,21:15,100,0.0, 4642
+Alliance Air,11/01/2023,Ahmedabad,New Delhi,16:50,19:55,185,1.0, 4642
+IndiGo,11/01/2023,Ahmedabad,New Delhi,07:05,08:35,90,0.0, 4899
+SpiceJet,11/01/2023,Ahmedabad,New Delhi,22:05,10:30,745,1.0, 4943
+Go First,11/01/2023,Ahmedabad,New Delhi,08:30,10:05,95,0.0, 5043
+SpiceJet,11/01/2023,Ahmedabad,New Delhi,16:15,10:30,1095,1.0, 5220
+IndiGo,11/01/2023,Ahmedabad,New Delhi,15:25,22:55,450,1.0, 5437
+IndiGo,11/01/2023,Ahmedabad,New Delhi,15:40,17:05,85,0.0, 5999
+Vistara,11/01/2023,Ahmedabad,New Delhi,06:45,07:55,70,0.0, 6007
+Go First,11/01/2023,Ahmedabad,New Delhi,05:00,14:30,570,1.0, 6270
+Vistara,11/01/2023,Ahmedabad,New Delhi,08:40,10:20,100,0.0, 8212
+Vistara,11/01/2023,Ahmedabad,New Delhi,15:35,17:10,95,0.0, 8212
+IndiGo,11/01/2023,Ahmedabad,New Delhi,21:00,22:30,90,0.0, 8464
+IndiGo,11/01/2023,Ahmedabad,New Delhi,22:35,00:05,90,0.0, 8464
+IndiGo,11/01/2023,Ahmedabad,New Delhi,15:55,20:50,295,1.0, 9209
+Air India,11/01/2023,Ahmedabad,New Delhi,21:30,23:10,100,0.0, 9441
+IndiGo,11/01/2023,Ahmedabad,New Delhi,19:40,21:10,90,0.0, 9899
+IndiGo,11/01/2023,Ahmedabad,New Delhi,09:35,14:20,285,1.0, 10364
+IndiGo,11/01/2023,Ahmedabad,New Delhi,18:05,19:50,105,0.0, 10899
+Vistara,11/01/2023,Ahmedabad,New Delhi,20:30,22:00,90,0.0, 18069
+IndiGo,11/01/2023,Tirupati,Goa,14:45,00:20,575,1.0, 5157
+IndiGo,11/01/2023,Tirupati,Goa,14:45,21:35,410,1.0, 5538
+IndiGo,11/01/2023,Tirupati,Goa,12:30,21:35,545,1.0, 5538
+IndiGo,11/01/2023,Tirupati,Goa,12:30,17:20,290,1.0, 6399
+IndiGo,11/01/2023,Tirupati,Goa,20:05,00:20,255,1.0, 6884
+"IndiGo, Go First",11/01/2023,Tirupati,Goa,07:50,23:25,935,2.0, 7664
+SpiceJet,11/01/2023,Tirupati,Goa,20:55,18:10,1275,1.0, 7901
+IndiGo,11/01/2023,Tirupati,Goa,21:00,07:00,600,1.0, 7979
+"SpiceJet, Go First",11/01/2023,Tirupati,Goa,07:40,17:45,605,1.0, 8036
+SpiceJet,11/01/2023,Tirupati,Goa,20:55,07:10,615,1.0, 8321
+"IndiGo, Vistara",11/01/2023,Tirupati,Goa,07:50,22:10,860,2.0, 9008
+Air India,11/01/2023,Tirupati,Goa,14:30,00:40,610,2.0, 10391
+"SpiceJet, Go First",11/01/2023,Tirupati,Goa,07:40,12:45,305,1.0, 10398
+IndiGo,11/01/2023,Tirupati,Goa,16:40,21:10,270,1.0, 10498
+IndiGo,11/01/2023,Tirupati,Goa,16:40,23:05,385,1.0, 11396
+Air India,11/01/2023,Tirupati,Goa,14:30,06:20,950,2.0, 16478
+"IndiGo, Go First",11/01/2023,Tirupati,Ahmedabad,07:50,23:50,960,2.0, 7169
+"SpiceJet, Go First",11/01/2023,Tirupati,Ahmedabad,07:40,18:25,645,1.0, 7719
+SpiceJet,11/01/2023,Tirupati,Ahmedabad,16:10,15:45,1415,1.0, 8666
+IndiGo,11/01/2023,Tirupati,Ahmedabad,21:00,07:15,615,1.0, 8698
+IndiGo,11/01/2023,Tirupati,Ahmedabad,12:30,18:10,340,1.0, 9274
+"SpiceJet, Akasa Air",11/01/2023,Tirupati,Ahmedabad,07:40,15:25,465,1.0, 9367
+SpiceJet,11/01/2023,Tirupati,Ahmedabad,16:10,21:35,325,1.0, 10913
+"IndiGo, Go First",11/01/2023,Tirupati,Ahmedabad,16:40,00:40,480,2.0, 12836
+Air India,11/01/2023,Tirupati,Ahmedabad,14:30,10:10,1180,2.0, 14360
+IndiGo,11/01/2023,Tirupati,Ahmedabad,16:40,03:45,665,1.0, 15101
+IndiGo,11/01/2023,Tirupati,Ahmedabad,14:45,22:50,485,1.0, 15533
+IndiGo,11/01/2023,Tirupati,Ahmedabad,12:30,22:50,620,1.0, 15533
+IndiGo,11/01/2023,Tirupati,Ahmedabad,07:50,21:40,830,2.0, 17969
+IndiGo,11/01/2023,Tirupati,Ahmedabad,16:40,23:20,400,1.0, 18701
+Air India,11/01/2023,Tirupati,Ahmedabad,14:30,14:10,1420,3.0, 19628
+Air India,11/01/2023,Tirupati,Ahmedabad,14:30,06:55,985,2.0, 29467
+Air India,11/01/2023,Tirupati,Ahmedabad,14:30,06:55,985,2.0, 33352
+Star Air,11/01/2023,Tirupati,Bengaluru,11:55,14:30,155,1.0, 7969
+IndiGo,11/01/2023,Tirupati,Bengaluru,16:40,17:40,60,0.0, 8404
+IndiGo,11/01/2023,Tirupati,Bengaluru,15:35,16:35,60,0.0, 5517
+Air India,11/01/2023,Tirupati,Bengaluru,14:30,08:55,1105,2.0, 17392
+Air India,11/01/2023,Tirupati,Bengaluru,14:30,10:55,1225,2.0, 17392
+IndiGo,11/01/2023,Tirupati,Mumbai,07:50,17:05,555,1.0, 5270
+IndiGo,11/01/2023,Tirupati,Mumbai,21:00,05:55,535,1.0, 5270
+IndiGo,11/01/2023,Tirupati,Mumbai,20:05,05:55,590,1.0, 5270
+SpiceJet,11/01/2023,Tirupati,Mumbai,07:40,09:25,105,0.0, 5820
+IndiGo,11/01/2023,Tirupati,Mumbai,16:40,23:25,405,1.0, 6731
+IndiGo,11/01/2023,Tirupati,Mumbai,16:40,21:15,275,1.0, 10937
+IndiGo,11/01/2023,Tirupati,Mumbai,16:40,00:50,490,1.0, 11737
+IndiGo,11/01/2023,Tirupati,Mumbai,12:30,16:55,265,1.0, 12156
+IndiGo,11/01/2023,Tirupati,Mumbai,20:05,00:15,250,1.0, 14273
+IndiGo,11/01/2023,Tirupati,Mumbai,14:45,00:15,570,1.0, 14378
+IndiGo,11/01/2023,Tirupati,Mumbai,12:30,19:45,435,1.0, 17191
+Air India,11/01/2023,Tirupati,Mumbai,14:30,09:15,1125,2.0, 19943
+IndiGo,11/01/2023,Tirupati,Mumbai,14:45,19:45,300,1.0, 20206
+IndiGo,11/01/2023,Tirupati,New Delhi,12:30,18:55,385,1.0, 7324
+SpiceJet,11/01/2023,Tirupati,New Delhi,20:55,21:50,1495,1.0, 7624
+IndiGo,11/01/2023,Tirupati,New Delhi,16:40,01:00,500,1.0, 8955
+SpiceJet,11/01/2023,Tirupati,New Delhi,16:10,06:10,840,1.0, 9276
+Air India,11/01/2023,Tirupati,New Delhi,14:30,18:45,255,1.0, 9338
+IndiGo,11/01/2023,Tirupati,New Delhi,14:45,18:55,250,1.0, 9700
+"Air India, IndiGo",11/01/2023,Tirupati,New Delhi,14:30,00:05,575,1.0, 9825
+IndiGo,11/01/2023,Tirupati,New Delhi,14:45,00:05,560,1.0, 10073
+IndiGo,11/01/2023,Tirupati,New Delhi,20:05,01:10,305,1.0, 10126
+"Alliance Air, IndiGo",11/01/2023,Tirupati,New Delhi,08:10,00:05,955,1.0, 10560
+SpiceJet,11/01/2023,Tirupati,New Delhi,07:40,09:30,1550,1.0, 11190
+IndiGo,11/01/2023,Tirupati,New Delhi,14:45,20:40,355,1.0, 11438
+"Alliance Air, IndiGo",11/01/2023,Tirupati,New Delhi,08:10,14:15,365,1.0, 11925
+SpiceJet,11/01/2023,Tirupati,New Delhi,07:40,23:40,960,1.0, 12194
+IndiGo,11/01/2023,Tirupati,New Delhi,21:00,07:30,630,1.0, 12646
+"Air India, Vistara",11/01/2023,Tirupati,New Delhi,14:30,19:55,325,1.0, 13396
+IndiGo,11/01/2023,Tirupati,New Delhi,16:40,22:10,330,1.0, 16616
+Alliance Air,11/01/2023,Bengaluru,Goa,22:30,23:55,85,0.0, 2749
+Akasa Air,11/01/2023,Bengaluru,Goa,10:00,11:10,70,0.0, 2795
+Akasa Air,11/01/2023,Bengaluru,Goa,20:35,21:50,75,0.0, 2795
+IndiGo,11/01/2023,Bengaluru,Goa,19:50,21:10,80,0.0, 2796
+Go First,11/01/2023,Bengaluru,Goa,08:45,09:55,70,0.0, 2797
+AirAsia,11/01/2023,Bengaluru,Goa,04:10,05:25,75,0.0, 2800
+AirAsia,11/01/2023,Bengaluru,Goa,05:30,06:45,75,0.0, 2800
+AirAsia,11/01/2023,Bengaluru,Goa,13:00,14:15,75,0.0, 2800
+IndiGo,11/01/2023,Bengaluru,Goa,06:15,07:35,80,0.0, 2918
+Vistara,11/01/2023,Bengaluru,Goa,12:50,14:05,75,0.0, 3694
+IndiGo,11/01/2023,Bengaluru,Goa,21:55,23:05,70,0.0, 3694
+Go First,11/01/2023,Bengaluru,Goa,15:50,17:10,80,0.0, 3746
+IndiGo,11/01/2023,Bengaluru,Goa,10:10,11:25,75,0.0, 3812
+IndiGo,11/01/2023,Bengaluru,Goa,12:45,14:05,80,0.0, 5912
+AirAsia,11/01/2023,Bengaluru,Goa,12:55,18:45,350,1.0, 6067
+IndiGo,11/01/2023,Bengaluru,Goa,13:05,14:35,90,0.0, 6634
+Vistara,11/01/2023,Bengaluru,Goa,19:55,00:05,250,1.0, 6697
+"Akasa Air, Go First",11/01/2023,Bengaluru,Ahmedabad,10:15,18:25,490,1.0, 4367
+"Akasa Air, Go First",11/01/2023,Bengaluru,Ahmedabad,07:00,18:25,685,1.0, 4367
+"IndiGo, Go First",11/01/2023,Bengaluru,Ahmedabad,05:50,18:25,755,1.0, 4367
+"Akasa Air, Go First",11/01/2023,Bengaluru,Ahmedabad,05:30,18:25,775,1.0, 4367
+"Akasa Air, Go First",11/01/2023,Bengaluru,Ahmedabad,16:35,23:50,435,1.0, 4367
+"AirAsia, Go First",11/01/2023,Bengaluru,Ahmedabad,19:20,00:40,320,1.0, 4437
+"IndiGo, Go First",11/01/2023,Bengaluru,Ahmedabad,04:30,18:25,835,1.0, 4484
+"Akasa Air, Go First",11/01/2023,Bengaluru,Ahmedabad,11:45,18:25,400,1.0, 4637
+"IndiGo, Go First",11/01/2023,Bengaluru,Ahmedabad,10:15,18:25,490,1.0, 4802
+"IndiGo, Go First",11/01/2023,Bengaluru,Ahmedabad,16:20,23:50,450,1.0, 4839
+"AirAsia, Go First",11/01/2023,Bengaluru,Ahmedabad,17:15,23:50,395,1.0, 4944
+Go First,11/01/2023,Bengaluru,Ahmedabad,18:50,23:50,300,1.0, 5051
+"IndiGo, Go First",11/01/2023,Bengaluru,Ahmedabad,12:20,18:25,365,1.0, 5134
+"IndiGo, Go First",11/01/2023,Bengaluru,Ahmedabad,19:25,00:40,315,1.0, 5134
+"IndiGo, Go First",11/01/2023,Bengaluru,Ahmedabad,18:00,23:50,350,1.0, 5239
+SpiceJet,11/01/2023,Bengaluru,Ahmedabad,10:25,15:45,320,1.0, 5685
+Akasa Air,11/01/2023,Bengaluru,Ahmedabad,05:55,08:20,145,0.0, 5695
+Akasa Air,11/01/2023,Bengaluru,Ahmedabad,14:35,16:55,140,0.0, 5695
+"Air India, Go First",11/01/2023,Bengaluru,Ahmedabad,19:15,00:40,325,1.0, 5772
+"Akasa Air, IndiGo",11/01/2023,Bengaluru,Ahmedabad,10:15,17:00,405,1.0, 5868
+"Akasa Air, IndiGo",11/01/2023,Bengaluru,Ahmedabad,11:45,17:00,315,1.0, 6138
+IndiGo,11/01/2023,Bengaluru,Ahmedabad,12:20,18:05,345,1.0, 6154
+"IndiGo, Akasa Air",11/01/2023,Bengaluru,Ahmedabad,10:15,15:25,310,1.0, 6300
+"Vistara, Go First",11/01/2023,Bengaluru,Ahmedabad,11:05,18:25,440,1.0, 6570
+IndiGo,11/01/2023,Bengaluru,Ahmedabad,01:40,03:45,125,0.0, 6617
+IndiGo,11/01/2023,Bengaluru,Ahmedabad,06:10,08:25,135,0.0, 6617
+Go First,11/01/2023,Bengaluru,Ahmedabad,06:20,08:45,145,0.0, 6618
+IndiGo,11/01/2023,Bengaluru,Ahmedabad,00:30,06:05,335,1.0, 6687
+Go First,11/01/2023,Bengaluru,Ahmedabad,15:50,22:40,410,1.0, 7133
+"Air India, Akasa Air",11/01/2023,Bengaluru,Ahmedabad,09:15,15:25,370,1.0, 7270
+IndiGo,11/01/2023,Bengaluru,Ahmedabad,11:25,17:15,350,1.0, 7527
+IndiGo,11/01/2023,Bengaluru,Ahmedabad,05:15,09:30,255,1.0, 7579
+IndiGo,11/01/2023,Bengaluru,Ahmedabad,10:30,15:40,310,1.0, 7579
+IndiGo,11/01/2023,Bengaluru,Ahmedabad,12:40,18:10,330,1.0, 7579
+Go First,11/01/2023,Bengaluru,Ahmedabad,18:30,20:35,125,0.0, 8315
+IndiGo,11/01/2023,Bengaluru,Ahmedabad,14:45,19:50,305,1.0, 8504
+IndiGo,11/01/2023,Bengaluru,Ahmedabad,21:00,23:20,140,0.0, 11717
+IndiGo,11/01/2023,Bengaluru,Ahmedabad,16:40,18:55,135,0.0, 12118
+Star Air,11/01/2023,Bengaluru,Tirupati,08:40,11:30,170,1.0, 6612
+IndiGo,11/01/2023,Bengaluru,Tirupati,10:45,11:50,65,0.0, 8964
+IndiGo,11/01/2023,Bengaluru,Tirupati,09:35,10:55,80,0.0, 4939
+Air India,11/01/2023,Bengaluru,Tirupati,07:25,13:55,390,1.0, 9049
+Air India,11/01/2023,Bengaluru,Tirupati,21:20,13:55,995,2.0, 9231
+Air India,11/01/2023,Bengaluru,Tirupati,19:15,13:55,1120,2.0, 9231
+Air India,11/01/2023,Bengaluru,Tirupati,21:00,13:55,1015,2.0, 15528
+Air India,11/01/2023,Bengaluru,Tirupati,19:20,13:55,1115,2.0, 16368
+Air India,11/01/2023,Bengaluru,Tirupati,21:00,13:55,1015,2.0, 17733
+Air India,11/01/2023,Bengaluru,Tirupati,19:20,13:55,1115,2.0, 18573
+Air India,11/01/2023,Bengaluru,Tirupati,05:45,13:55,490,2.0, 24768
+Go First,11/01/2023,Bengaluru,Mumbai,20:30,22:15,105,0.0, 2178
+Akasa Air,11/01/2023,Bengaluru,Mumbai,05:30,07:10,100,0.0, 2468
+IndiGo,11/01/2023,Bengaluru,Mumbai,05:50,07:50,120,0.0, 2468
+Akasa Air,11/01/2023,Bengaluru,Mumbai,07:00,08:35,95,0.0, 2468
+Akasa Air,11/01/2023,Bengaluru,Mumbai,10:15,12:20,125,0.0, 2468
+Akasa Air,11/01/2023,Bengaluru,Mumbai,16:35,18:20,105,0.0, 2468
+Akasa Air,11/01/2023,Bengaluru,Mumbai,19:45,21:35,110,0.0, 2468
+Akasa Air,11/01/2023,Bengaluru,Mumbai,20:30,22:20,110,0.0, 2468
+IndiGo,11/01/2023,Bengaluru,Mumbai,04:30,06:20,110,0.0, 2585
+Akasa Air,11/01/2023,Bengaluru,Mumbai,11:45,13:30,105,0.0, 2738
+IndiGo,11/01/2023,Bengaluru,Mumbai,10:15,12:05,110,0.0, 2903
+IndiGo,11/01/2023,Bengaluru,Mumbai,07:20,09:10,110,0.0, 2940
+IndiGo,11/01/2023,Bengaluru,Mumbai,16:20,18:15,115,0.0, 2940
+AirAsia,11/01/2023,Bengaluru,Mumbai,17:15,19:00,105,0.0, 3045
+AirAsia,11/01/2023,Bengaluru,Mumbai,19:20,21:00,100,0.0, 3045
+AirAsia,11/01/2023,Bengaluru,Mumbai,22:50,00:40,110,0.0, 3045
+Go First,11/01/2023,Bengaluru,New Delhi,06:30,14:30,480,1.0, 5427
+Go First,11/01/2023,Bengaluru,New Delhi,16:40,21:50,310,1.0, 5427
+IndiGo,11/01/2023,Bengaluru,New Delhi,22:00,01:00,180,0.0, 5449
+AirAsia,11/01/2023,Bengaluru,New Delhi,15:00,20:45,345,1.0, 5658
+AirAsia,11/01/2023,Bengaluru,New Delhi,19:50,22:50,180,0.0, 6058
+AirAsia,11/01/2023,Bengaluru,New Delhi,22:40,01:25,165,0.0, 6058
+AirAsia,11/01/2023,Bengaluru,New Delhi,16:35,01:40,545,1.0, 6163
+IndiGo,11/01/2023,Bengaluru,New Delhi,09:00,14:15,315,1.0, 6400
+IndiGo,11/01/2023,Bengaluru,New Delhi,20:40,23:35,175,0.0, 6499
+AirAsia,11/01/2023,Bengaluru,New Delhi,05:45,08:35,170,0.0, 6603
+AirAsia,11/01/2023,Bengaluru,New Delhi,17:55,20:45,170,0.0, 6603
+Air India,11/01/2023,Bengaluru,New Delhi,21:00,00:10,190,0.0, 6603
+IndiGo,11/01/2023,Bengaluru,New Delhi,23:20,02:10,170,0.0, 6919
+SpiceJet,11/01/2023,Bengaluru,New Delhi,19:30,22:15,165,0.0, 7101
+AirAsia,11/01/2023,Bengaluru,New Delhi,05:05,12:40,455,1.0, 7142
+AirAsia,11/01/2023,Bengaluru,New Delhi,12:15,19:45,450,1.0, 7142
+AirAsia,11/01/2023,Bengaluru,New Delhi,11:30,14:20,170,0.0, 7212
+Air India,11/01/2023,Bengaluru,New Delhi,19:20,22:20,180,0.0, 7443
+IndiGo,11/01/2023,Bengaluru,New Delhi,04:25,07:15,170,0.0, 7457
+SpiceJet,11/01/2023,Bengaluru,New Delhi,05:55,08:35,160,0.0, 7683
+IndiGo,11/01/2023,Bengaluru,New Delhi,05:35,08:25,170,0.0, 7818
+AirAsia,11/01/2023,Bengaluru,New Delhi,03:30,08:50,320,1.0, 7883
+AirAsia,11/01/2023,Bengaluru,New Delhi,09:05,14:30,325,1.0, 7883
+IndiGo,11/01/2023,Bengaluru,New Delhi,15:45,18:35,170,0.0, 8179
+IndiGo,11/01/2023,Bengaluru,New Delhi,16:50,19:45,175,0.0, 8297
+Air India,11/01/2023,Bengaluru,New Delhi,15:00,18:00,180,0.0, 8493
+Air India,11/01/2023,Bengaluru,New Delhi,13:00,18:40,340,1.0, 8493
+Akasa Air,11/01/2023,Bengaluru,New Delhi,15:40,18:25,165,0.0, 8996
+Go First,11/01/2023,Bengaluru,New Delhi,06:20,09:00,160,0.0, 9000
+Go First,11/01/2023,Bengaluru,New Delhi,21:25,00:10,165,0.0, 9000
+IndiGo,11/01/2023,Bengaluru,New Delhi,18:00,20:50,170,0.0, 9032
+IndiGo,11/01/2023,Bengaluru,New Delhi,19:15,22:10,175,0.0, 9032
+IndiGo,11/01/2023,Bengaluru,New Delhi,07:00,09:50,170,0.0, 9544
+IndiGo,11/01/2023,Bengaluru,New Delhi,13:45,16:45,180,0.0, 9662
+IndiGo,11/01/2023,Bengaluru,New Delhi,12:00,14:50,170,0.0, 10449
+Air India,11/01/2023,Bengaluru,New Delhi,11:45,14:45,180,0.0, 10593
+Air India,11/01/2023,Bengaluru,New Delhi,13:15,15:55,160,0.0, 10593
+Air India,11/01/2023,Bengaluru,New Delhi,17:10,20:00,170,0.0, 10593
+"Alliance Air, Vistara",11/01/2023,Bengaluru,New Delhi,09:20,16:00,400,1.0, 12897
+IndiGo,11/01/2023,Bengaluru,New Delhi,08:00,10:55,175,0.0, 13018
+Air India,11/01/2023,Bengaluru,New Delhi,10:00,12:50,170,0.0, 13218
+Vistara,11/01/2023,Bengaluru,New Delhi,21:10,23:45,155,0.0, 13218
+Air India,11/01/2023,Bengaluru,New Delhi,05:45,08:45,180,0.0, 15843
+Vistara,11/01/2023,Bengaluru,New Delhi,07:00,09:40,160,0.0, 15843
+Vistara,11/01/2023,Bengaluru,New Delhi,08:00,10:35,155,0.0, 15843
+Vistara,11/01/2023,Bengaluru,New Delhi,11:30,14:10,160,0.0, 15843
+Vistara,11/01/2023,Bengaluru,New Delhi,18:45,21:25,160,0.0, 15843
+Vistara,11/01/2023,Bengaluru,New Delhi,19:40,22:20,160,0.0, 15843
+Vistara,11/01/2023,Bengaluru,New Delhi,17:50,20:30,160,0.0, 18328
+Vistara,11/01/2023,Bengaluru,New Delhi,09:45,12:40,175,0.0, 18604
+Go First,11/01/2023,Mumbai,Goa,16:30,17:45,75,0.0, 2216
+Go First,11/01/2023,Mumbai,Goa,22:05,23:25,80,0.0, 2394
+AirAsia,11/01/2023,Mumbai,Goa,01:15,02:25,70,0.0, 2395
+AirAsia,11/01/2023,Mumbai,Goa,23:20,00:30,70,0.0, 2395
+SpiceJet,11/01/2023,Mumbai,Goa,21:05,22:20,75,0.0, 2397
+SpiceJet,11/01/2023,Mumbai,Goa,22:45,23:55,70,0.0, 2397
+Vistara,11/01/2023,Mumbai,Goa,22:50,00:05,75,0.0, 2405
+Alliance Air,11/01/2023,Mumbai,Goa,19:00,20:30,90,0.0, 2900
+IndiGo,11/01/2023,Mumbai,Goa,21:55,23:10,75,0.0, 3000
+Air India,11/01/2023,Mumbai,Goa,21:00,22:20,80,0.0, 3213
+IndiGo,11/01/2023,Mumbai,Goa,04:50,06:10,80,0.0, 3423
+Vistara,11/01/2023,Mumbai,Goa,20:55,22:10,75,0.0, 3738
+Go First,11/01/2023,Mumbai,Goa,05:00,06:10,70,0.0, 3747
+Go First,11/01/2023,Mumbai,Goa,15:20,16:35,75,0.0, 3747
+Air India,11/01/2023,Mumbai,Goa,05:00,06:20,80,0.0, 3843
+SpiceJet,11/01/2023,Mumbai,Goa,15:05,16:30,85,0.0, 4034
+IndiGo,11/01/2023,Mumbai,Goa,17:00,18:15,75,0.0, 4053
+AirAsia,11/01/2023,Mumbai,Goa,03:55,05:15,80,0.0, 4578
+Go First,11/01/2023,Mumbai,Goa,11:30,12:45,75,0.0, 4578
+IndiGo,11/01/2023,Mumbai,Goa,14:05,15:25,80,0.0, 4578
+IndiGo,11/01/2023,Mumbai,Goa,09:40,10:55,75,0.0, 5103
+Air India,11/01/2023,Mumbai,Goa,13:30,14:45,75,0.0, 5208
+AirAsia,11/01/2023,Mumbai,Goa,21:50,05:25,455,1.0, 6640
+IndiGo,11/01/2023,Mumbai,Goa,11:30,12:30,60,0.0, 6993
+Vistara,11/01/2023,Mumbai,Goa,06:00,14:05,485,1.0, 7445
+SpiceJet,11/01/2023,Mumbai,Goa,11:15,12:30,75,0.0, 8234
+Vistara,11/01/2023,Mumbai,Goa,21:30,14:05,995,1.0, 9965
+Vistara,11/01/2023,Mumbai,Goa,11:25,12:45,80,0.0, 12698
+Vistara,11/01/2023,Mumbai,Goa,09:05,14:05,300,1.0, 13010
+Go First,11/01/2023,Mumbai,Ahmedabad,17:15,18:25,70,0.0, 1899
+Go First,11/01/2023,Mumbai,Ahmedabad,22:40,23:50,70,0.0, 1899
+Go First,11/01/2023,Mumbai,Ahmedabad,23:30,00:40,70,0.0, 1899
+Akasa Air,11/01/2023,Mumbai,Ahmedabad,05:40,06:55,75,0.0, 2597
+IndiGo,11/01/2023,Mumbai,Ahmedabad,00:30,01:45,75,0.0, 2645
+IndiGo,11/01/2023,Mumbai,Ahmedabad,16:45,18:05,80,0.0, 3350
+Akasa Air,11/01/2023,Mumbai,Ahmedabad,14:10,15:25,75,0.0, 3397
+IndiGo,11/01/2023,Mumbai,Ahmedabad,15:40,17:00,80,0.0, 3400
+IndiGo,11/01/2023,Mumbai,Ahmedabad,18:35,19:50,75,0.0, 5100
+IndiGo,11/01/2023,Mumbai,Ahmedabad,06:30,07:45,75,0.0, 7410
+Vistara,11/01/2023,Mumbai,Ahmedabad,15:20,16:40,80,0.0, 7413
+Vistara,11/01/2023,Mumbai,Ahmedabad,22:40,23:55,75,0.0, 7413
+Vistara,11/01/2023,Mumbai,Ahmedabad,06:35,07:50,75,0.0, 8722
+Go First,11/01/2023,Mumbai,Ahmedabad,07:20,08:25,65,0.0, 9801
+Air India,11/01/2023,Mumbai,Ahmedabad,11:15,10:10,1375,2.0, 12099
+IndiGo,11/01/2023,Mumbai,Ahmedabad,08:05,09:05,60,0.0, 12699
+IndiGo,11/01/2023,Mumbai,Ahmedabad,20:25,21:40,75,0.0, 12699
+Vistara,11/01/2023,Mumbai,Ahmedabad,12:25,22:55,630,1.0, 13923
+Air India,11/01/2023,Mumbai,Ahmedabad,18:35,19:55,80,0.0, 16307
+Air India,11/01/2023,Mumbai,Ahmedabad,21:05,06:55,590,1.0, 16412
+IndiGo,11/01/2023,Mumbai,Tirupati,05:25,14:05,520,1.0, 5364
+Air India,11/01/2023,Mumbai,Tirupati,06:00,13:55,475,1.0, 5736
+SpiceJet,11/01/2023,Mumbai,Tirupati,13:45,15:40,115,0.0, 5818
+IndiGo,11/01/2023,Mumbai,Tirupati,06:05,11:50,345,1.0, 8766
+IndiGo,11/01/2023,Mumbai,Tirupati,16:05,19:30,205,1.0, 8799
+IndiGo,11/01/2023,Mumbai,Tirupati,13:10,19:30,380,1.0, 9251
+IndiGo,11/01/2023,Mumbai,Tirupati,06:50,14:05,435,1.0, 10091
+"IndiGo, Air India",11/01/2023,Mumbai,Tirupati,05:25,13:55,510,1.0, 10106
+IndiGo,11/01/2023,Mumbai,Tirupati,07:00,11:50,290,1.0, 10151
+"IndiGo, Air India",11/01/2023,Mumbai,Tirupati,06:50,13:55,425,1.0, 10316
+"Vistara, Air India",11/01/2023,Mumbai,Tirupati,06:20,13:55,455,1.0, 10631
+"Air India, IndiGo",11/01/2023,Mumbai,Tirupati,11:00,19:30,510,1.0, 11575
+IndiGo,11/01/2023,Mumbai,Tirupati,06:50,17:10,620,1.0, 11876
+IndiGo,11/01/2023,Mumbai,Tirupati,20:30,07:30,660,1.0, 12296
+"IndiGo, Air India",11/01/2023,Mumbai,Tirupati,05:35,13:55,500,2.0, 12378
+"Air India, IndiGo",11/01/2023,Mumbai,Tirupati,11:00,17:10,370,1.0, 13990
+Go First,11/01/2023,Mumbai,Bengaluru,21:35,23:20,105,0.0, 2072
+Akasa Air,11/01/2023,Mumbai,Bengaluru,00:05,01:45,100,0.0, 2152
+Akasa Air,11/01/2023,Mumbai,Bengaluru,22:20,00:05,105,0.0, 2152
+Akasa Air,11/01/2023,Mumbai,Bengaluru,19:00,20:50,110,0.0, 2202
+Akasa Air,11/01/2023,Mumbai,Bengaluru,20:25,22:05,100,0.0, 2202
+Akasa Air,11/01/2023,Mumbai,Bengaluru,14:15,15:45,90,0.0, 2606
+IndiGo,11/01/2023,Mumbai,Bengaluru,00:15,02:00,105,0.0, 2700
+IndiGo,11/01/2023,Mumbai,Bengaluru,06:05,07:50,105,0.0, 2700
+IndiGo,11/01/2023,Mumbai,Bengaluru,23:10,00:45,95,0.0, 2700
+Go First,11/01/2023,Mumbai,Bengaluru,05:45,07:25,100,0.0, 2851
+IndiGo,11/01/2023,Mumbai,Bengaluru,15:00,16:35,95,0.0, 2870
+AirAsia,11/01/2023,Mumbai,Bengaluru,19:40,21:40,120,0.0, 2999
+AirAsia,11/01/2023,Mumbai,Bengaluru,20:35,22:15,100,0.0, 2999
+AirAsia,11/01/2023,Mumbai,Bengaluru,21:50,23:50,120,0.0, 2999
+Go First,11/01/2023,Mumbai,Bengaluru,19:15,20:55,100,0.0, 3151
+IndiGo,11/01/2023,Mumbai,Bengaluru,20:35,22:25,110,0.0, 3179
+IndiGo,11/01/2023,Mumbai,Bengaluru,08:30,10:20,110,0.0, 3650
+IndiGo,11/01/2023,Mumbai,Bengaluru,16:45,18:40,115,0.0, 3789
+Akasa Air,11/01/2023,Mumbai,Bengaluru,09:20,11:05,105,0.0, 3799
+Akasa Air,11/01/2023,Mumbai,Bengaluru,13:00,14:30,90,0.0, 3799
+IndiGo,11/01/2023,Mumbai,Bengaluru,07:00,08:35,95,0.0, 4085
+Air India,11/01/2023,Mumbai,Bengaluru,18:50,20:30,100,0.0, 4127
+AirAsia,11/01/2023,Mumbai,Bengaluru,01:15,07:05,350,1.0, 4277
+IndiGo,11/01/2023,Mumbai,Bengaluru,07:40,09:35,115,0.0, 4395
+Vistara,11/01/2023,Mumbai,Bengaluru,06:00,07:45,105,0.0, 4400
+Vistara,11/01/2023,Mumbai,Bengaluru,16:00,17:45,105,0.0, 4400
+Vistara,11/01/2023,Mumbai,Bengaluru,17:30,19:15,105,0.0, 4400
+Vistara,11/01/2023,Mumbai,Bengaluru,17:55,19:15,80,0.0, 4400
+Air India,11/01/2023,Mumbai,Bengaluru,05:25,12:20,415,1.0, 4862
+Air India,11/01/2023,Mumbai,Bengaluru,06:45,08:30,105,0.0, 4967
+IndiGo,11/01/2023,Mumbai,Bengaluru,09:50,11:30,100,0.0, 5025
+IndiGo,11/01/2023,Mumbai,Bengaluru,12:15,13:45,90,0.0, 5025
+IndiGo,11/01/2023,Mumbai,Bengaluru,18:50,20:40,110,0.0, 5025
+Vistara,11/01/2023,Mumbai,Bengaluru,07:00,08:45,105,0.0, 5049
+IndiGo,11/01/2023,Mumbai,Bengaluru,15:35,23:05,450,1.0, 5058
+Air India,11/01/2023,Mumbai,Bengaluru,16:40,18:25,105,0.0, 6122
+Vistara,11/01/2023,Mumbai,Bengaluru,21:30,22:50,80,0.0, 6605
+IndiGo,11/01/2023,Mumbai,Bengaluru,04:50,09:25,275,1.0, 7182
+Vistara,11/01/2023,Mumbai,Bengaluru,19:10,20:55,105,0.0, 8180
+IndiGo,11/01/2023,Mumbai,Bengaluru,10:15,17:35,440,1.0, 8617
+Vistara,11/01/2023,Mumbai,Bengaluru,09:05,10:50,105,0.0, 9965
+IndiGo,11/01/2023,Mumbai,Bengaluru,16:55,23:10,375,1.0, 10115
+SpiceJet,11/01/2023,Mumbai,New Delhi,06:10,10:30,260,1.0, 4528
+AirAsia,11/01/2023,Mumbai,New Delhi,15:15,23:05,470,1.0, 5328
+Go First,11/01/2023,Mumbai,New Delhi,05:50,08:00,130,0.0, 5395
+Go First,11/01/2023,Mumbai,New Delhi,08:45,10:55,130,0.0, 5395
+Go First,11/01/2023,Mumbai,New Delhi,09:55,12:05,130,0.0, 5395
+Go First,11/01/2023,Mumbai,New Delhi,18:10,20:20,130,0.0, 5395
+Go First,11/01/2023,Mumbai,New Delhi,21:15,23:30,135,0.0, 5395
+Go First,11/01/2023,Mumbai,New Delhi,22:55,01:05,130,0.0, 5395
+Go First,11/01/2023,Mumbai,New Delhi,23:45,02:00,135,0.0, 5395
+IndiGo,11/01/2023,Mumbai,New Delhi,23:50,06:40,410,1.0, 5581
+Akasa Air,11/01/2023,Mumbai,New Delhi,13:25,15:30,125,0.0, 5823
+AirAsia,11/01/2023,Mumbai,New Delhi,07:35,14:30,415,1.0, 5855
+IndiGo,11/01/2023,Mumbai,New Delhi,23:15,01:40,145,0.0, 5899
+SpiceJet,11/01/2023,Mumbai,New Delhi,07:10,09:30,140,0.0, 5938
+SpiceJet,11/01/2023,Mumbai,New Delhi,10:05,12:20,135,0.0, 5938
+IndiGo,11/01/2023,Mumbai,New Delhi,00:30,07:40,430,1.0, 6256
+SpiceJet,11/01/2023,Mumbai,New Delhi,21:45,23:40,115,0.0, 7306
+IndiGo,11/01/2023,Mumbai,New Delhi,02:30,04:45,135,0.0, 7308
+IndiGo,11/01/2023,Mumbai,New Delhi,05:00,07:15,135,0.0, 7308
+Vistara,11/01/2023,Mumbai,New Delhi,06:00,07:55,115,0.0, 7308
+IndiGo,11/01/2023,Mumbai,New Delhi,06:05,08:20,135,0.0, 7308
+Vistara,11/01/2023,Mumbai,New Delhi,06:30,08:35,125,0.0, 7308
+IndiGo,11/01/2023,Mumbai,New Delhi,07:00,09:15,135,0.0, 7308
+Air India,11/01/2023,Mumbai,New Delhi,07:00,09:15,135,0.0, 7308
+IndiGo,11/01/2023,Mumbai,New Delhi,07:45,10:00,135,0.0, 7308
+Air India,11/01/2023,Mumbai,New Delhi,08:00,10:15,135,0.0, 7308
+IndiGo,11/01/2023,Mumbai,New Delhi,08:30,10:45,135,0.0, 7308
+Air India,11/01/2023,Mumbai,New Delhi,09:00,11:20,140,0.0, 7308
+IndiGo,11/01/2023,Mumbai,New Delhi,09:30,11:45,135,0.0, 7308
+Air India,11/01/2023,Mumbai,New Delhi,10:00,12:15,135,0.0, 7308
+IndiGo,11/01/2023,Mumbai,New Delhi,10:25,12:40,135,0.0, 7308
+Vistara,11/01/2023,Mumbai,New Delhi,11:55,14:05,130,0.0, 7308
+IndiGo,11/01/2023,Mumbai,New Delhi,12:05,14:15,130,0.0, 7308
+Vistara,11/01/2023,Mumbai,New Delhi,12:25,14:50,145,0.0, 7308
+IndiGo,11/01/2023,Mumbai,New Delhi,12:40,15:00,140,0.0, 7308
+Air India,11/01/2023,Mumbai,New Delhi,13:00,15:15,135,0.0, 7308
+IndiGo,11/01/2023,Mumbai,New Delhi,14:35,16:45,130,0.0, 7308
+Air India,11/01/2023,Mumbai,New Delhi,15:30,17:55,145,0.0, 7308
+Air India,11/01/2023,Mumbai,New Delhi,16:35,18:40,125,0.0, 7308
+IndiGo,11/01/2023,Mumbai,New Delhi,17:15,19:30,135,0.0, 7308
+Air India,11/01/2023,Mumbai,New Delhi,18:00,20:20,140,0.0, 7308
+IndiGo,11/01/2023,Mumbai,New Delhi,18:45,21:00,135,0.0, 7308
+Air India,11/01/2023,Mumbai,New Delhi,19:00,21:20,140,0.0, 7308
+Vistara,11/01/2023,Mumbai,New Delhi,20:55,23:00,125,0.0, 7308
+Air India,11/01/2023,Mumbai,New Delhi,21:05,22:55,110,0.0, 7308
+IndiGo,11/01/2023,Mumbai,New Delhi,22:15,00:40,145,0.0, 7308
+Vistara,11/01/2023,Mumbai,New Delhi,23:10,01:00,110,0.0, 7308
+IndiGo,11/01/2023,Mumbai,New Delhi,20:00,22:15,135,0.0, 7833
+IndiGo,11/01/2023,Mumbai,New Delhi,06:35,10:40,245,1.0, 8337
+Vistara,11/01/2023,Mumbai,New Delhi,21:55,00:10,135,0.0, 8568
+Vistara,11/01/2023,Mumbai,New Delhi,10:30,14:40,250,1.0, 8988
+Vistara,11/01/2023,Mumbai,New Delhi,10:20,12:40,140,0.0, 10143
+Vistara,11/01/2023,Mumbai,New Delhi,14:40,16:55,135,0.0, 10143
+IndiGo,11/01/2023,Mumbai,New Delhi,16:45,22:30,345,1.0, 11425
+IndiGo,11/01/2023,Mumbai,New Delhi,15:40,22:30,410,1.0, 11475
+Vistara,11/01/2023,Mumbai,New Delhi,15:45,18:05,140,0.0, 11718
+Vistara,11/01/2023,Mumbai,New Delhi,17:35,19:45,130,0.0, 11718
+IndiGo,11/01/2023,Mumbai,New Delhi,05:45,09:35,230,1.0, 11977
+Vistara,11/01/2023,Mumbai,New Delhi,08:45,11:00,135,0.0, 13818
+Vistara,11/01/2023,Mumbai,New Delhi,18:30,20:40,130,0.0, 13818
+Vistara,11/01/2023,Mumbai,New Delhi,19:45,21:55,130,0.0, 13818
+Vistara,11/01/2023,Mumbai,New Delhi,07:30,09:40,130,0.0, 15834
+Go First,11/01/2023,New Delhi,Goa,21:30,00:05,155,0.0, 5202
+IndiGo,11/01/2023,New Delhi,Goa,20:25,22:50,145,0.0, 5219
+SpiceJet,11/01/2023,New Delhi,Goa,07:00,22:20,920,1.0, 6317
+Go First,11/01/2023,New Delhi,Goa,10:55,13:30,155,0.0, 6504
+Go First,11/01/2023,New Delhi,Goa,07:20,17:45,625,1.0, 7050
+SpiceJet,11/01/2023,New Delhi,Goa,12:15,14:50,155,0.0, 8054
+SpiceJet,11/01/2023,New Delhi,Goa,16:50,19:15,145,0.0, 8054
+SpiceJet,11/01/2023,New Delhi,Goa,17:45,20:25,160,0.0, 8054
+"IndiGo, Go First",11/01/2023,New Delhi,Goa,10:00,17:45,465,1.0, 8115
+AirAsia,11/01/2023,New Delhi,Goa,04:35,07:25,170,0.0, 8159
+AirAsia,11/01/2023,New Delhi,Goa,12:45,15:25,160,0.0, 8159
+AirAsia,11/01/2023,New Delhi,Goa,20:00,22:35,155,0.0, 8159
+AirAsia,11/01/2023,New Delhi,Goa,13:15,17:35,260,1.0, 8159
+Vistara,11/01/2023,New Delhi,Goa,18:40,21:20,160,0.0, 8160
+Air India,11/01/2023,New Delhi,Goa,22:00,00:40,160,0.0, 8160
+IndiGo,11/01/2023,New Delhi,Goa,04:20,11:25,425,1.0, 8178
+IndiGo,11/01/2023,New Delhi,Goa,10:55,13:40,165,0.0, 8350
+IndiGo,11/01/2023,New Delhi,Goa,12:05,14:40,155,0.0, 8350
+IndiGo,11/01/2023,New Delhi,Goa,17:40,20:20,160,0.0, 8350
+IndiGo,11/01/2023,New Delhi,Goa,07:25,10:05,160,0.0, 8650
+IndiGo,11/01/2023,New Delhi,Goa,19:10,21:55,165,0.0, 8650
+IndiGo,11/01/2023,New Delhi,Goa,09:55,12:35,160,0.0, 8900
+"IndiGo, Go First",11/01/2023,New Delhi,Goa,12:00,17:45,345,1.0, 9535
+IndiGo,11/01/2023,New Delhi,Goa,16:25,19:05,160,0.0, 9900
+Go First,11/01/2023,New Delhi,Goa,07:20,12:45,325,1.0, 9955
+Air India,11/01/2023,New Delhi,Goa,17:50,22:20,270,1.0, 10155
+Vistara,11/01/2023,New Delhi,Goa,11:10,13:50,160,0.0, 10575
+Air India,11/01/2023,New Delhi,Goa,10:55,13:25,150,0.0, 11310
+Alliance Air,11/01/2023,New Delhi,Ahmedabad,13:15,16:20,185,1.0, 3960
+Go First,11/01/2023,New Delhi,Ahmedabad,06:00,07:35,95,0.0, 4690
+SpiceJet,11/01/2023,New Delhi,Ahmedabad,20:30,22:10,100,0.0, 4840
+IndiGo,11/01/2023,New Delhi,Ahmedabad,05:00,06:35,95,0.0, 4863
+Go First,11/01/2023,New Delhi,Ahmedabad,21:00,22:35,95,0.0, 5221
+SpiceJet,11/01/2023,New Delhi,Ahmedabad,20:10,07:40,690,1.0, 5308
+IndiGo,11/01/2023,New Delhi,Ahmedabad,13:20,15:00,100,0.0, 5646
+Go First,11/01/2023,New Delhi,Ahmedabad,17:30,19:05,95,0.0, 5890
+Vistara,11/01/2023,New Delhi,Ahmedabad,21:20,22:55,95,0.0, 7005
+IndiGo,11/01/2023,New Delhi,Ahmedabad,21:30,07:25,595,1.0, 7793
+IndiGo,11/01/2023,New Delhi,Ahmedabad,13:30,20:15,405,1.0, 8423
+IndiGo,11/01/2023,New Delhi,Ahmedabad,17:35,19:10,95,0.0, 9052
+IndiGo,11/01/2023,New Delhi,Ahmedabad,18:40,20:15,95,0.0, 9052
+Akasa Air,11/01/2023,New Delhi,Ahmedabad,19:10,20:55,105,0.0, 9239
+IndiGo,11/01/2023,New Delhi,Ahmedabad,23:40,01:25,105,0.0, 9272
+IndiGo,11/01/2023,New Delhi,Ahmedabad,05:10,15:00,590,1.0, 9505
+IndiGo,11/01/2023,New Delhi,Ahmedabad,14:30,22:45,495,1.0, 9696
+IndiGo,11/01/2023,New Delhi,Ahmedabad,20:20,21:55,95,0.0, 9952
+IndiGo,11/01/2023,New Delhi,Ahmedabad,22:00,23:35,95,0.0, 9952
+Vistara,11/01/2023,New Delhi,Ahmedabad,13:25,15:00,95,0.0, 10189
+IndiGo,11/01/2023,New Delhi,Ahmedabad,05:00,15:00,600,2.0, 12911
+Air India,11/01/2023,New Delhi,Ahmedabad,04:55,06:55,120,0.0, 16560
+Vistara,11/01/2023,New Delhi,Ahmedabad,17:45,23:55,370,1.0, 17190
+Vistara,11/01/2023,New Delhi,Ahmedabad,18:00,19:45,105,0.0, 17539
+Vistara,11/01/2023,New Delhi,Ahmedabad,06:30,08:05,95,0.0, 18122
+Vistara,11/01/2023,New Delhi,Ahmedabad,19:45,23:55,250,1.0, 18765
+Vistara,11/01/2023,New Delhi,Ahmedabad,19:00,23:55,295,1.0, 18765
+Air India,11/01/2023,New Delhi,Ahmedabad,19:10,20:50,100,0.0, 20519
+IndiGo,11/01/2023,New Delhi,Tirupati,01:55,07:30,335,1.0, 8245
+IndiGo,11/01/2023,New Delhi,Tirupati,04:20,11:50,450,1.0, 8245
+IndiGo,11/01/2023,New Delhi,Tirupati,06:30,14:05,455,1.0, 8245
+IndiGo,11/01/2023,New Delhi,Tirupati,09:55,17:10,435,1.0, 8245
+IndiGo,11/01/2023,New Delhi,Tirupati,21:25,07:30,605,1.0, 8245
+IndiGo,11/01/2023,New Delhi,Tirupati,06:10,12:10,360,1.0, 8474
+IndiGo,11/01/2023,New Delhi,Tirupati,19:45,07:30,705,1.0, 8766
+IndiGo,11/01/2023,New Delhi,Tirupati,09:55,14:05,250,1.0, 8894
+Air India,11/01/2023,New Delhi,Tirupati,09:45,13:55,250,1.0, 9315
+SpiceJet,11/01/2023,New Delhi,Tirupati,14:00,07:20,1040,1.0, 9604
+SpiceJet,11/01/2023,New Delhi,Tirupati,07:00,15:40,520,1.0, 9738
+"SpiceJet, IndiGo",11/01/2023,New Delhi,Tirupati,14:00,19:30,330,1.0, 10955
+"IndiGo, Air India",11/01/2023,New Delhi,Tirupati,06:30,13:55,445,1.0, 10957
+IndiGo,11/01/2023,New Delhi,Tirupati,13:40,19:30,350,1.0, 11414
+"IndiGo, Air India",11/01/2023,New Delhi,Tirupati,08:10,13:55,345,1.0, 11482
+Air India,11/01/2023,New Delhi,Tirupati,07:10,13:55,405,1.0, 11520
+"Vistara, Air India",11/01/2023,New Delhi,Tirupati,07:20,13:55,395,1.0, 13058
+"AirAsia, IndiGo",11/01/2023,New Delhi,Tirupati,09:30,19:30,600,2.0, 13897
+Go First,11/01/2023,New Delhi,Bengaluru,05:45,08:35,170,0.0, 4948
+Go First,11/01/2023,New Delhi,Bengaluru,09:35,19:50,615,1.0, 5229
+Go First,11/01/2023,New Delhi,Bengaluru,22:05,10:10,725,1.0, 5229
+IndiGo,11/01/2023,New Delhi,Bengaluru,04:20,07:15,175,0.0, 5237
+AirAsia,11/01/2023,New Delhi,Bengaluru,05:45,12:25,400,1.0, 5237
+SpiceJet,11/01/2023,New Delhi,Bengaluru,06:20,09:10,170,0.0, 5611
+AirAsia,11/01/2023,New Delhi,Bengaluru,08:10,10:55,165,0.0, 5816
+Akasa Air,11/01/2023,New Delhi,Bengaluru,19:00,21:45,165,0.0, 5827
+AirAsia,11/01/2023,New Delhi,Bengaluru,07:10,12:10,300,1.0, 5901
+IndiGo,11/01/2023,New Delhi,Bengaluru,07:55,11:05,190,0.0, 6112
+IndiGo,11/01/2023,New Delhi,Bengaluru,22:55,01:45,170,0.0, 6112
+AirAsia,11/01/2023,New Delhi,Bengaluru,09:30,12:15,165,0.0, 6217
+AirAsia,11/01/2023,New Delhi,Bengaluru,19:05,21:45,160,0.0, 6217
+Vistara,11/01/2023,New Delhi,Bengaluru,05:35,08:20,165,0.0, 6344
+IndiGo,11/01/2023,New Delhi,Bengaluru,21:45,00:35,170,0.0, 6416
+IndiGo,11/01/2023,New Delhi,Bengaluru,07:00,09:50,170,0.0, 6659
+IndiGo,11/01/2023,New Delhi,Bengaluru,09:15,12:05,170,0.0, 6659
+AirAsia,11/01/2023,New Delhi,Bengaluru,08:20,14:15,355,1.0, 6737
+AirAsia,11/01/2023,New Delhi,Bengaluru,16:30,19:20,170,0.0, 7016
+AirAsia,11/01/2023,New Delhi,Bengaluru,21:20,00:25,185,0.0, 7016
+Air India,11/01/2023,New Delhi,Bengaluru,06:10,08:55,165,0.0, 7184
+Air India,11/01/2023,New Delhi,Bengaluru,09:45,12:30,165,0.0, 7184
+Akasa Air,11/01/2023,New Delhi,Bengaluru,11:50,14:35,165,0.0, 7477
+IndiGo,11/01/2023,New Delhi,Bengaluru,13:05,15:55,170,0.0, 7499
+SpiceJet,11/01/2023,New Delhi,Bengaluru,20:30,23:05,155,0.0, 7754
+IndiGo,11/01/2023,New Delhi,Bengaluru,10:40,13:30,170,0.0, 7919
+IndiGo,11/01/2023,New Delhi,Bengaluru,20:30,23:25,175,0.0, 7919
+Air India,11/01/2023,New Delhi,Bengaluru,08:00,10:55,175,0.0, 8234
+Air India,11/01/2023,New Delhi,Bengaluru,19:25,22:40,195,0.0, 8234
+Vistara,11/01/2023,New Delhi,Bengaluru,19:55,22:40,165,0.0, 8234
+Vistara,11/01/2023,New Delhi,Bengaluru,20:40,23:20,160,0.0, 8234
+Air India,11/01/2023,New Delhi,Bengaluru,21:10,00:05,175,0.0, 8234
+Go First,11/01/2023,New Delhi,Bengaluru,20:10,22:50,160,0.0, 8302
+IndiGo,11/01/2023,New Delhi,Bengaluru,12:15,15:05,170,0.0, 8580
+IndiGo,11/01/2023,New Delhi,Bengaluru,15:40,18:30,170,0.0, 8580
+IndiGo,11/01/2023,New Delhi,Bengaluru,19:20,22:05,165,0.0, 8580
+Vistara,11/01/2023,New Delhi,Bengaluru,08:10,10:45,155,0.0, 9284
+Go First,11/01/2023,New Delhi,Bengaluru,10:55,15:10,255,1.0, 9367
+IndiGo,11/01/2023,New Delhi,Bengaluru,17:25,20:05,160,0.0, 10320
+Vistara,11/01/2023,New Delhi,Bengaluru,09:05,11:50,165,0.0, 10334
+Air India,11/01/2023,New Delhi,Bengaluru,13:30,16:25,175,0.0, 10334
+Air India,11/01/2023,New Delhi,Bengaluru,15:35,18:30,175,0.0, 10334
+Air India,11/01/2023,New Delhi,Bengaluru,16:55,20:15,200,0.0, 10334
+Vistara,11/01/2023,New Delhi,Bengaluru,14:10,17:00,170,0.0, 12959
+Vistara,11/01/2023,New Delhi,Bengaluru,16:05,18:50,165,0.0, 15584
+Vistara,11/01/2023,New Delhi,Bengaluru,17:30,20:25,175,0.0, 15584
+SpiceJet,11/01/2023,New Delhi,Mumbai,20:10,10:30,860,1.0, 4894
+Go First,11/01/2023,New Delhi,Mumbai,02:40,04:50,130,0.0, 5409
+Go First,11/01/2023,New Delhi,Mumbai,06:00,08:10,130,0.0, 5409
+Go First,11/01/2023,New Delhi,Mumbai,07:20,09:30,130,0.0, 5409
+Go First,11/01/2023,New Delhi,Mumbai,14:35,16:45,130,0.0, 5409
+Go First,11/01/2023,New Delhi,Mumbai,18:00,20:10,130,0.0, 5409
+Go First,11/01/2023,New Delhi,Mumbai,20:00,22:10,130,0.0, 5409
+Go First,11/01/2023,New Delhi,Mumbai,21:00,23:15,135,0.0, 5409
+IndiGo,11/01/2023,New Delhi,Mumbai,11:05,16:50,345,1.0, 5592
+Akasa Air,11/01/2023,New Delhi,Mumbai,16:10,18:20,130,0.0, 5890
+IndiGo,11/01/2023,New Delhi,Mumbai,02:00,04:15,135,0.0, 5899
+IndiGo,11/01/2023,New Delhi,Mumbai,04:45,07:10,145,0.0, 5899
+IndiGo,11/01/2023,New Delhi,Mumbai,06:30,08:45,135,0.0, 5899
+IndiGo,11/01/2023,New Delhi,Mumbai,08:45,11:10,145,0.0, 5899
+IndiGo,11/01/2023,New Delhi,Mumbai,10:00,12:35,155,0.0, 5899
+IndiGo,11/01/2023,New Delhi,Mumbai,23:00,01:20,140,0.0, 5899
+SpiceJet,11/01/2023,New Delhi,Mumbai,02:00,04:15,135,0.0, 5952
+SpiceJet,11/01/2023,New Delhi,Mumbai,07:00,09:15,135,0.0, 5952
+SpiceJet,11/01/2023,New Delhi,Mumbai,18:50,20:55,125,0.0, 5952
+SpiceJet,11/01/2023,New Delhi,Mumbai,20:00,22:05,125,0.0, 5952
+IndiGo,11/01/2023,New Delhi,Mumbai,22:45,07:25,520,1.0, 6180
+IndiGo,11/01/2023,New Delhi,Mumbai,07:15,09:40,145,0.0, 7319
+IndiGo,11/01/2023,New Delhi,Mumbai,11:00,13:20,140,0.0, 7319
+IndiGo,11/01/2023,New Delhi,Mumbai,12:00,14:20,140,0.0, 7319
+IndiGo,11/01/2023,New Delhi,Mumbai,14:15,16:30,135,0.0, 7319
+IndiGo,11/01/2023,New Delhi,Mumbai,15:45,18:00,135,0.0, 7319
+IndiGo,11/01/2023,New Delhi,Mumbai,16:25,18:40,135,0.0, 7319
+IndiGo,11/01/2023,New Delhi,Mumbai,17:25,19:40,135,0.0, 7319
+IndiGo,11/01/2023,New Delhi,Mumbai,19:20,21:30,130,0.0, 7319
+IndiGo,11/01/2023,New Delhi,Mumbai,20:20,22:35,135,0.0, 7319
+IndiGo,11/01/2023,New Delhi,Mumbai,21:45,00:00,135,0.0, 7319
+AirAsia,11/01/2023,New Delhi,Mumbai,16:30,00:40,490,1.0, 7319
+AirAsia,11/01/2023,New Delhi,Mumbai,20:00,02:20,380,1.0, 7319
+Vistara,11/01/2023,New Delhi,Mumbai,05:45,08:00,135,0.0, 7320
+Air India,11/01/2023,New Delhi,Mumbai,07:00,09:15,135,0.0, 7320
+Vistara,11/01/2023,New Delhi,Mumbai,07:30,09:40,130,0.0, 7320
+Air India,11/01/2023,New Delhi,Mumbai,08:00,10:20,140,0.0, 7320
+Air India,11/01/2023,New Delhi,Mumbai,09:00,11:20,140,0.0, 7320
+Air India,11/01/2023,New Delhi,Mumbai,10:00,12:25,145,0.0, 7320
+Vistara,11/01/2023,New Delhi,Mumbai,11:40,13:55,135,0.0, 7320
+Air India,11/01/2023,New Delhi,Mumbai,14:00,16:20,140,0.0, 7320
+Vistara,11/01/2023,New Delhi,Mumbai,14:20,16:30,130,0.0, 7320
+Air India,11/01/2023,New Delhi,Mumbai,17:50,20:15,145,0.0, 7320
+Air India,11/01/2023,New Delhi,Mumbai,19:00,21:25,145,0.0, 7320
+Air India,11/01/2023,New Delhi,Mumbai,20:00,22:10,130,0.0, 7320
+Air India,11/01/2023,New Delhi,Mumbai,21:20,23:35,135,0.0, 7320
+Air India,11/01/2023,New Delhi,Mumbai,22:30,00:45,135,0.0, 7320
+Go First,11/01/2023,New Delhi,Mumbai,17:30,06:50,800,1.0, 7390
+IndiGo,11/01/2023,New Delhi,Mumbai,13:20,20:00,400,1.0, 7598
+Vistara,11/01/2023,New Delhi,Mumbai,15:30,17:35,125,0.0, 7635
+IndiGo,11/01/2023,New Delhi,Mumbai,06:10,12:20,370,1.0, 7739
+Vistara,11/01/2023,New Delhi,Mumbai,08:50,11:15,145,0.0, 8580
+Vistara,11/01/2023,New Delhi,Mumbai,10:20,12:35,135,0.0, 8580
+Vistara,11/01/2023,New Delhi,Mumbai,12:50,15:00,130,0.0, 8580
+Vistara,11/01/2023,New Delhi,Mumbai,16:35,19:05,150,0.0, 8580
+Vistara,11/01/2023,New Delhi,Mumbai,21:40,23:40,120,0.0, 8580
+IndiGo,11/01/2023,New Delhi,Mumbai,06:55,11:30,275,1.0, 8721
+Vistara,11/01/2023,New Delhi,Mumbai,09:30,11:35,125,0.0, 10155
+Vistara,11/01/2023,New Delhi,Mumbai,17:45,19:55,130,0.0, 10155
+Vistara,11/01/2023,New Delhi,Mumbai,20:40,22:55,135,0.0, 10155
+Air India,11/01/2023,New Delhi,Mumbai,10:15,15:50,335,1.0, 10260
+Vistara,11/01/2023,New Delhi,Mumbai,19:00,21:15,135,0.0, 11730
+Vistara,11/01/2023,New Delhi,Mumbai,19:45,22:00,135,0.0, 11730
+IndiGo,11/01/2023,New Delhi,Mumbai,22:00,07:55,595,1.0, 11899
